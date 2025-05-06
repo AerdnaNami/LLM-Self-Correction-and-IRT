@@ -1,0 +1,100 @@
+question_id,image,question,options,answer,category,difficulty,a,b
+M184601,0,Which of the following expressions is NOT equivalent to (a + b)(x + y) ? ,"A. (a+b)x+(a+b)y
+B. a(x+y)+b(x+y)
+C. (b+a)(y+x)
+D. ax+by
+E. ax+bx+ay+by",D,Algebra,Easy,1.45,0.06
+M130101,0,"Yvonne has studied the cost of tickets over time for her favorite sports team. She has created a model to predict the cost of a ticket in the future. Let C represent the cost of a ticket in dollars and y represent the number of years in the future. Her model is as follows.
+C=2.50y+13
+Based on this model, how much will the cost of a ticket increase in two years?","A. $5
+B. $8
+C. $13
+D. $18
+E. $26",A,Algebra,Hard,2.46,1.24
+M190101,0,"The first four terms in a sequence are shown below.
+40,8,24,16,⋯
+Each term after the first two terms is found by taking one-half the sum of the two preceding terms. Which term is the first odd number in this sequence?","A. The 5th term
+B. The 6th term
+C. The 7th term
+D. The 8th term
+E. The 9th term",C,Algebra,Medium,0.69,-0.09
+M177201,1,"Mary created a spreadsheet to keep a record of the taxes she pays during the year. Mary works every week during the year. Portions of Mary’s spreadsheet are shown above. The spreadsheet is set up so that Mary enters the amount of her hourly pay in cell C3 and the tax rate in cell F3. The tax rate is the number of dollars of tax paid for every dollar earned. Mary’s hourly pay and the tax rate do not change during the year. Each week Mary enters the number of hours she worked into the spreadsheet.
+
+What formulas could Mary use in cell C38 to compute the amount of tax she paid on her earnings during the week of August 13 to August 17? (The amount of tax she paid each week is the product of her weekly pay and the tax rate.)","A. C38 equals A38 times B3 times E3
+B. C38 equals A38 times C3 times F3
+C. C38 equals B38 times B3 times E3
+D. C38 equals B38 times C3 times F3
+E. C38 equals C38 times B3 times E3",D,"Data Analysis, Statistics, and Probability",Medium,1.04,0.24
+M177202,1,"Mary created a spreadsheet to keep a record of the taxes she pays during the year. Mary works every week during the year. Portions of Mary’s spreadsheet are shown above. The spreadsheet is set up so that Mary enters the amount of her hourly pay in cell C3 and the tax rate in cell F3. The tax rate is the number of dollars of tax paid for every dollar earned. Mary’s hourly pay and the tax rate do not change during the year. Each week Mary enters the number of hours she worked into the spreadsheet.
+Write or describe a formula Mary can use in cell C59 to give the total amount of taxes paid for the year.",,"C59 =C6 + C7 + ... + C57
+                 OR
+  C59 = SUM (C6:C57)
+                 OR
+C59 = SUM (B6:B57) * C3 * F3  
+                 OR
+Mary should add the values in cells C6 through C57.","Data Analysis, Statistics, and Probability",Hard,0.93,1.13
+M189601,1,"In the scatterplot, each point represents the adult heights of a sister-brother pair.
+What is the brother’s height that corresponds to the tallest sister’s height?","A. 74 inches
+B. 71 inches
+C. 67 inches
+D. 66 inches
+E. 62 inches",B,"Data Analysis, Statistics, and Probability",Easy,0.99,-0.13
+M180201,1,Prove that A'C' ≅ D'C' and give a reason for each statement in your proof.,,"The proof aims to demonstrate that line segment AC is congruent to line segment DC.
+
+    Starting Information (Givens): The proof begins by stating two pieces of given information:
+        Point C is the midpoint of the line segment BE.
+        Angles B and E are right angles.
+
+    Using the Midpoint Definition: Since C is the midpoint of BE, it divides the segment into two equal parts by definition. Therefore, line segment BC must be congruent to line segment EC.
+    Using the Right Angle Information: Since angles B and E are given as right angles, and all right angles are congruent, it follows that angle B is congruent to angle E.
+    Identifying Vertical Angles: Angles ACB and DCE are formed by the intersection of line segments AE and BD. These are vertical angles, and vertical angles are always congruent. Thus, angle ACB is congruent to angle DCE.
+
+    Proving Triangle Congruence: Now, comparing triangle ACB and triangle DCE, we have established the following congruencies:
+        Angle B ≅ Angle E (Angle)
+        Segment BC ≅ Segment EC (Side)
+        Angle ACB ≅ Angle DCE (Angle)
+
+        The proof uses these findings to declare that triangle ACB is congruent to triangle DCE. The reason cited is the Angle-Side-Angle (ASA) postulate. (Alternatively, since these are right triangles, the Leg-Angle (LA) theorem might be considered, although the established parts fit the Angle-Angle-Side (AAS) pattern: ∠B ≅ ∠E, ∠ACB ≅ ∠DCE, and the non-included side BC ≅ EC).
+
+    Final Conclusion (CPCTC): Since it has been established that triangle ACB is congruent to triangle DCE, all their corresponding parts must be congruent. Line segment AC in the first triangle corresponds to line segment DC in the second triangle. Therefore, by the principle that Corresponding Parts of Congruent Triangles are Congruent (CPCTC), we can conclude that line segment AC is congruent to line segment DC.",Geometry,Hard,0.76,2.3
+M195501,1,"Quadrilateral ABCD is inscribed in circle O, and is a right angle, as shown above. Segment AB is not parallel to segment DC. Which of the following statements must be true?","A. ∠A≅∠B
+B. ∠B≅∠D
+C. ∠B is a right angle.
+D. AC— is a diameter of circle O.
+E. BD— is a diameter of circle O.",E,Geometry,Medium,0.82,0.02
+M071501,1,"The diagram is part of a scale drawing of a house.
+What is the length, in feet, of the side whose dimension is not given in the diagram?","A. 12
+B. 24
+C. 30
+D. 36
+E. 40",D,Geometry,Easy,1.11,-0.99
+M191501,0,"John is going to cover an attic floor with insulation. The floor measures 25 feet by 35 feet. If one roll of insulation will cover 64 square feet, how many rolls of insulation does John need?","A. 1
+B. 2
+C. 8
+D. 14
+E. 110",D,Measurement,Easy,1.41,-0.44
+M191201,1,"On level ground from a distance of 200 feet, the angle of elevation to the top of a building is 21°, as shown in the figure above. What is the height h of the building, to the nearest foot? ","A. 72
+B. 77
+C. 187
+D. 201
+E. 521",B,Measurement,Hard,2.01,1.11
+M135401,0,"A cat lies crouched on level ground 50 feet away from the base of a tree. The cat can see a bird's nest directly above the base of the tree. The angle of elevation from the cat to the bird's nest is 40°. To the nearest foot, how far above the base of the tree is the bird's nest?","A. 32
+B. 38
+C. 42
+D. 60
+E. 65",C,Measurement,Medium,1.19,1.15
+M180601,0,(16^(1/2))^3 = ?,"A. 512
+B. 64
+C. 48
+D. 24
+E. 12",B,Number Properties and Operations,Hard,1.76,0.84
+M135301,0,"The town of Mayville taxes property at a rate of $42 for each $1,000 of estimated value. What is the estimated value of a property on which the owner owes $5,250 in property tax?","A. $42,000
+B. $47,250
+C. $125,000
+D. $220,500
+E. $5,250,000",C,Number Properties and Operations,Medium,1.78,0.55
+M196701,,360×0.3= ?,"A. 10.8
+B. 108
+C. 120
+D. 980
+E. 1,080",B,Number Properties and Operations,Easy,0.61,0.02

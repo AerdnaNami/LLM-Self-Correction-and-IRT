@@ -1,0 +1,394 @@
+Column 1,id,question,options,answer,llm_answer,final_ans,correctness
+0,M184601,Which of the following expressions is NOT equivalent to (a + b)(x + y) ?,"A. (a+b)x+(a+b)y
+B. a(x+y)+b(x+y)
+C. (b+a)(y+x)
+D. ax+by
+E. ax+bx+ay+by",D,"
+Let's analyze each expression to determine its equivalence to (a + b)(x + y). We'll use the distributive property (also known as the FOIL method) to expand (a + b)(x + y).
+
+1. **Expand (a + b)(x + y):**
+   (a + b)(x + y) = a(x + y) + b(x + y) = ax + ay + bx + by
+
+2. **Analyze Option A: (a+b)x+(a+b)y**
+   (a+b)x+(a+b)y = ax + bx + ay + by. This is the same as our expansion in step 1. So, A is equivalent.
+
+3. **Analyze Option B: a(x+y)+b(x+y)**
+   a(x+y)+b(x+y) = ax + ay + bx + by. This is also the same as our expansion in step 1. So, B is equivalent.
+
+4. **Analyze Option C: (b+a)(y+x)**
+   (b+a)(y+x) = b(y+x) + a(y+x) = by + bx + ay + ax = ax + ay + bx + by. This is the same as our expansion. Remember that addition is commutative (a + b = b + a and x + y = y + x).  So, C is equivalent.
+
+5. **Analyze Option D: ax+by**
+   ax + by is clearly different from ax + ay + bx + by.  It is missing the 'ay' and 'bx' terms. So, D is NOT equivalent.
+
+6. **Analyze Option E: ax+bx+ay+by**
+   ax + bx + ay + by is exactly the same as our expansion in step 1. So, E is equivalent.
+
+Therefore, expression D is the only one that is not equivalent to (a + b)(x + y).
+
+Answer: D",D,1
+1,M130101,"Yvonne has studied the cost of tickets over time for her favorite sports team. She has created a model to predict the cost of a ticket in the future. Let C represent the cost of a ticket in dollars and y represent the number of years in the future. Her model is as follows.
+C=2.50y+13
+Based on this model, how much will the cost of a ticket increase in two years?","A. $5
+B. $8
+C. $13
+D. $18
+E. $26",A,"
+Here's a step-by-step solution to determine the increase in ticket cost over two years:
+
+1. **Understand the model:** The equation C = 2.50y + 13 models the cost of a ticket (C) based on the number of years in the future (y). The '2.50' represents the annual increase in ticket cost, and '13' represents the current cost of a ticket (when y=0).
+
+2. **Calculate the cost in two years:** To find the ticket cost in two years, substitute y = 2 into the equation:
+   C = 2.50(2) + 13
+   C = 5 + 13
+   C = 18
+
+3. **Calculate the cost currently:** To find the current cost of a ticket (the cost now, or at y=0), substitute y = 0 into the equation:
+    C = 2.50(0) + 13
+    C = 0 + 13
+    C = 13
+
+4. **Calculate the increase:** To find the increase in cost over the two years, subtract the current cost from the cost in two years:
+   Increase = Cost in two years - Current cost
+   Increase = $18 - $13
+   Increase = $5
+
+Therefore, the cost of a ticket will increase by $5 in two years.
+
+Answer: A",A,1
+2,M190101,"The first four terms in a sequence are shown below.
+40,8,24,16,⋯
+Each term after the first two terms is found by taking one-half the sum of the two preceding terms. Which term is the first odd number in this sequence?","A. The 5th term
+B. The 6th term
+C. The 7th term
+D. The 8th term
+E. The 9th term",C,"
+Here's a step-by-step solution to find the first odd number in the sequence:
+
+1. **Understand the Rule:** The rule for the sequence is that each term after the first two is the average of the two preceding terms (one-half the sum).
+2. **Calculate the 5th term:** The 5th term is (24 + 16) / 2 = 40 / 2 = 20.
+3. **Calculate the 6th term:** The 6th term is (16 + 20) / 2 = 36 / 2 = 18.
+4. **Calculate the 7th term:** The 7th term is (20 + 18) / 2 = 38 / 2 = 19.
+5. **Identify the first odd number:**
+The first four terms are 40, 8, 24, 16, which are all even.
+The 5th term is 20, which is even.
+The 6th term is 18, which is even.
+The 7th term is 19, which is odd.
+
+Therefore, the first odd number in the sequence is the 7th term.
+
+Answer: C",C,1
+3,M191501,"John is going to cover an attic floor with insulation. The floor measures 25 feet by 35 feet. If one roll of insulation will cover 64 square feet, how many rolls of insulation does John need?","A. 1
+B. 2
+C. 8
+D. 14
+E. 110",D,"
+Here's how to solve this problem step-by-step:
+
+1. **Calculate the area of the attic floor:** The attic floor is rectangular, so its area is length times width.  Area = 25 feet * 35 feet = 875 square feet.
+
+2. **Determine how many rolls are needed:** Divide the total area of the floor by the area one roll of insulation covers. Number of rolls = 875 square feet / 64 square feet/roll = 13.67 rolls.
+
+3. **Round up to the nearest whole number:**  Since John can't buy a fraction of a roll, he needs to round up to the nearest whole number to ensure he has enough insulation. 13.67 rounds up to 14.
+
+Answer: D",D,1
+4,M135401,"A cat lies crouched on level ground 50 feet away from the base of a tree. The cat can see a bird's nest directly above the base of the tree. The angle of elevation from the cat to the bird's nest is 40°. To the nearest foot, how far above the base of the tree is the bird's nest?","A. 32
+B. 38
+C. 42
+D. 60
+E. 65",C,"
+Here's a step-by-step solution to the problem:
+
+1. **Visualize the problem:** Imagine a right triangle. The distance from the cat to the base of the tree is the base of the triangle (adjacent side). The height of the bird's nest above the base of the tree is the height of the triangle (opposite side). The line of sight from the cat to the bird's nest is the hypotenuse.
+
+2. **Identify the trigonometric ratio:** We are given the adjacent side and need to find the opposite side, and we know the angle of elevation.  The trigonometric ratio that relates the opposite and adjacent sides is the tangent (tan).
+
+3. **Write the equation:**  tan(angle) = opposite / adjacent. In this case, tan(40°) = height / 50.
+
+4. **Solve for the height:** To find the height, multiply both sides of the equation by 50:  height = 50 * tan(40°).
+
+5. **Calculate the value:** Using a calculator, tan(40°) ≈ 0.8391. Therefore, height ≈ 50 * 0.8391 ≈ 41.955.
+
+6. **Round to the nearest foot:** Rounding 41.955 to the nearest foot gives us 42.
+
+Answer: C",C,1
+5,M180601,(16^(1/2))^3 = ?,"A. 512
+B. 64
+C. 48
+D. 24
+E. 12",B,"
+Here's how to solve the problem using chain of thought:
+
+1. **Understand the expression:** We have (16^(1/2))^3. This means we need to take the square root of 16 and then cube the result.
+
+2. **Calculate the square root of 16:** 16^(1/2) is the same as the square root of 16, which is 4 (since 4 * 4 = 16).
+
+3. **Cube the result:** Now we have 4^3, which means 4 * 4 * 4.
+
+4. **Calculate 4 * 4 * 4:** 4 * 4 = 16, and 16 * 4 = 64.
+
+Therefore, (16^(1/2))^3 = 64
+
+Answer: B",B,1
+6,M135301,"The town of Mayville taxes property at a rate of $42 for each $1,000 of estimated value. What is the estimated value of a property on which the owner owes $5,250 in property tax?","A. $42,000
+B. $47,250
+C. $125,000
+D. $220,500
+E. $5,250,000",C,"
+Here's how to solve the problem step-by-step:
+
+1. **Understand the tax rate:** The tax rate is $42 per $1,000 of estimated value. This means for every $1,000 of value, $42 in taxes are owed.
+
+2. **Determine the number of $1,000 units:**  We need to find out how many ""$1,000"" units are represented by the total tax amount of $5,250.  To do this, divide the total tax owed by the tax per $1,000: $5,250 / $42 = 125
+
+3. **Calculate the estimated value:** Since each unit represents $1,000 of value, multiply the number of units by $1,000: 125 * $1,000 = $125,000
+
+Therefore, the estimated value of the property is $125,000.
+
+Answer: C",C,1
+7,M094901,The cost to mail a first-class letter is 33 cents for the first ounce. Each additional ounce costs 22 cents. (Fractions of an ounce are rounded up to the next whole ounce.) How much would it cost to mail a letter that weighs 2.7 ounces?,"{'A': '55 cents', 'B': '66 cents', 'C': '77 cents', 'D': '88 cents', 'E': '99 cents'}",C,"
+Here's a step-by-step solution to determine the cost of mailing a 2.7-ounce letter:
+
+1. **Determine the weight of the first ounce:** The first ounce always costs 33 cents.
+
+2. **Calculate the additional ounces:** The letter weighs 2.7 ounces. Since fractions of an ounce are rounded up, we round 2.7 ounces up to 3 ounces.  The weight exceeding the first ounce is 3 - 1 = 2 ounces.
+
+3. **Calculate the cost of the additional ounces:** Each additional ounce costs 22 cents. We have 2 additional ounces, so the cost is 2 * 22 = 44 cents.
+
+4. **Calculate the total cost:** The total cost is the cost of the first ounce plus the cost of the additional ounces: 33 + 44 = 77 cents.
+
+Answer: C",C,1
+8,M011331,"If a 2 by 18 rectangle has the same area as a square, what is the length of a side of the square?","{'A': '4', 'B': '6', 'C': '8', 'D': '10', 'E': '12'}",B,"
+Here's a chain of thought to solve this problem:
+
+1. **Calculate the area of the rectangle:** The area of a rectangle is found by multiplying its length and width. In this case, the rectangle has a length of 18 and a width of 2, so its area is 2 * 18 = 36.
+
+2. **Understand the problem:** We are told the rectangle and the square have the *same* area.  Therefore, the square also has an area of 36.
+
+3. **Find the side length of the square:** The area of a square is side * side (or side squared). To find the side length, we need to find the square root of the area.  The square root of 36 is 6.
+
+4. **Check the answer choices:** The side length of the square is 6, which corresponds to answer choice B.
+
+Answer: B",B,1
+9,M094801,"In a school fund-raiser, 10 students in class A sold an average (arithmetic mean) of 4 boxes of cookies. In class B, 15 students sold an average of 9 boxes. What was the average number of boxes of cookies sold by the 25 students?","{'A': '1325', 'B': '1', 'C': '612', 'D': '7', 'E': '13613'}",D,"
+Here's how to solve the problem using a chain of thought:
+
+1. **Calculate the total number of boxes sold by Class A:**
+   Since 10 students in Class A sold an average of 4 boxes, the total number of boxes sold by Class A is 10 students * 4 boxes/student = 40 boxes.
+
+2. **Calculate the total number of boxes sold by Class B:**
+   Since 15 students in Class B sold an average of 9 boxes, the total number of boxes sold by Class B is 15 students * 9 boxes/student = 135 boxes.
+
+3. **Calculate the total number of boxes sold by both classes:**
+   The total number of boxes sold by both classes is 40 boxes + 135 boxes = 175 boxes.
+
+4. **Calculate the total number of students:**
+   The total number of students in both classes is 10 students + 15 students = 25 students.
+
+5. **Calculate the average number of boxes sold per student:**
+   The average number of boxes sold by all 25 students is 175 boxes / 25 students = 7 boxes/student.
+
+Answer: 7",7,1
+10,M071601,"Easy Ride Van Company finds that about 40 percent of the time a person who makes an advance reservation for transportation does not keep the reservation. Therefore, for each of their 10-passenger vans, the Easy Ride Van Company schedules 13 persons on the basis of advance reservations. Based on the information above, about how many riders out of the 13 scheduled would not keep their reservations?","{'A': '1', 'B': '3', 'C': '5', 'D': '7', 'E': '9'}",C,"
+Here's how to solve this problem using a chain of thought approach:
+
+1. **Identify the key information:** We know that 40% of reservations are not kept, and Easy Ride schedules 13 people.
+
+2. **Calculate the expected number of no-shows:** To find the number of riders who won't keep their reservations, we need to calculate 40% of 13.
+
+3. **Perform the calculation:** 40% can be written as 0.40. So, 0.40 * 13 = 5.2
+
+4. **Round to the nearest whole number:** Since we're dealing with people, we need a whole number. 5.2 rounds to 5.
+
+Therefore, about 5 riders out of the 13 scheduled would not keep their reservations.
+
+Answer: C",C,1
+11,M059001,"If the digit in the tens place of 37,241 is increased by one and the digit in the thousands place is decreased by one, how has the number been changed?","{'A': 'The number has been decreased by 990.', 'B': 'The number has been decreased by 1,000.', 'C': 'The number has been decreased by 1,010.', 'D': 'The number has been increased by 10.', 'E': 'The number has been increased by 1,010.'}",A,"
+Here's how to solve the problem using a chain of thought:
+
+1. **Identify the digits:** The original number is 37,241. The digit in the tens place is 4, and the digit in the thousands place is 7.
+
+2. **Apply the changes:** Increase the tens digit by one: 4 becomes 5. Decrease the thousands digit by one: 7 becomes 6.
+
+3. **Form the new number:** The new number is 36,251.
+
+4. **Calculate the difference:** Subtract the new number from the original number to find the change: 37,241 - 36,251 = 990.
+
+5. **Determine if it's an increase or decrease:** Since we subtracted the new number from the original, a positive result means the number has decreased.
+
+6. **State the change:** The number has been decreased by 990.
+
+Answer: A",A,1
+12,M053201,"In the solution of the system of equations above, what is the value of x ?","{'A': '- 1', 'B': '2', 'C': '3', 'D': '4', 'E': '5'}",C,"
+Here's a chain of thought to determine the value of x from the given system of equations, assuming the system of equations is:
+
+2x + y = 7
+x - y = 2
+
+1. **Identify the Goal:** We need to find the value of 'x' that satisfies both equations in the system.
+
+2. **Choose a Method:** A convenient method for solving this system is elimination.  Notice that the 'y' terms have opposite signs in the two equations.
+
+3. **Eliminate 'y':** Add the two equations together:
+   (2x + y) + (x - y) = 7 + 2
+   3x = 9
+
+4. **Solve for 'x':** Divide both sides of the equation by 3:
+   x = 9 / 3
+   x = 3
+
+5. **Verify (Optional):** Substitute x=3 into either of the original equations to find y, and confirm that the solution is consistent.
+   Let's use the second equation: 3 - y = 2  =>  y = 1
+   Check with the first equation: 2(3) + 1 = 6 + 1 = 7. The solution x=3, y=1 satisfies both equations.
+
+Answer: C",C,1
+13,M059601,The remainder when a number n is divided by 7 is 2. Which of the following is the remainder when 2n + 1 is divided by 7?,"{'A': '1', 'B': '2', 'C': '3', 'D': '4', 'E': '5'}",E,"
+Here's how we can solve this problem using chain of thought:
+
+1. **Represent the given information:** We are told that when *n* is divided by 7, the remainder is 2. We can write this as:
+   n ≡ 2 (mod 7)
+
+2. **Multiply both sides by 2:**  We want to find the remainder when 2*n* + 1 is divided by 7. Let's start by multiplying both sides of the congruence by 2:
+   2n ≡ 4 (mod 7)
+
+3. **Add 1 to both sides:** Now, add 1 to both sides of the congruence:
+   2n + 1 ≡ 5 (mod 7)
+
+4. **Interpret the result:** This congruence tells us that when 2*n* + 1 is divided by 7, the remainder is 5.
+
+Answer: E",E,1
+14,M019401,What are all values of x such that x2+7x+6≥0 ?,"{'A': '-6≤x≤-1', 'B': '-6≤x≤1', 'C': '1≤x≤6', 'D': 'x≤-6 or x≥-1', 'E': 'x≤1 or x≥6'}",D,"
+Here's how we can solve this inequality using a chain of thought:
+
+1. **Factor the quadratic expression:** The quadratic expression x² + 7x + 6 can be factored as (x + 6)(x + 1).  So, the inequality becomes (x + 6)(x + 1) ≥ 0.
+
+2. **Find the critical points:** The critical points are the values of x that make the expression equal to zero.  These are found by setting each factor to zero:
+   * x + 6 = 0  =>  x = -6
+   * x + 1 = 0  =>  x = -1
+
+3. **Create a sign chart:** We'll use these critical points to divide the number line into intervals and test the sign of the expression (x + 6)(x + 1) in each interval.
+   * Interval 1: x < -6.  Let's test x = -7.  (-7 + 6)(-7 + 1) = (-1)(-6) = 6 > 0
+   * Interval 2: -6 < x < -1. Let's test x = -2.  (-2 + 6)(-2 + 1) = (4)(-1) = -4 < 0
+   * Interval 3: x > -1.  Let's test x = 0.  (0 + 6)(0 + 1) = (6)(1) = 6 > 0
+
+4. **Determine the solution:**  We want the intervals where (x + 6)(x + 1) ≥ 0.  This means we want the intervals where the expression is positive or zero.
+    * From the sign chart, the expression is positive for x < -6 and x > -1.
+    * Since we have a ""greater than or equal to"" inequality, we also include the critical points where the expression equals zero, which are x = -6 and x = -1.
+
+5. **Write the solution in interval notation:**  The solution is x ≤ -6 or x ≥ -1.
+
+Answer: D",D,1
+15,M127501,The first term in a sequence of numbers is 12. Each term after the first term is 1 more than twice its previous term. What is the 4th term?,"{'A': '2', 'B': '4', 'C': '5', 'D': '11', 'E': '23'}",D,"
+Here's how we can solve this problem using a chain of thought approach:
+
+1. **Identify the first term:** The first term is given as 12.
+2. **Calculate the second term:** The second term is 1 more than twice the first term. So, it's (2 * 12) + 1 = 24 + 1 = 25.
+3. **Calculate the third term:** The third term is 1 more than twice the second term. So, it's (2 * 25) + 1 = 50 + 1 = 51.
+4. **Calculate the fourth term:** The fourth term is 1 more than twice the third term. So, it's (2 * 51) + 1 = 102 + 1 = 103. 
+
+Since 103 is not among the provided answer choices, let's re-examine the question. It specifically states the first term is 12 and *each term after the first* is defined by the given rule. The choices must be wrong. If we were forced to pick one, we could look at which one is closest to what we got as an answer.
+
+However, we calculated the sequence as: 12, 25, 51, 103 ...
+
+Answer: None of the provided options are correct. The 4th term is 103.",None of the provided options are correct. The 4th term is 103.,0
+16,M133101,"Rosa is twice as old as Byron. Fred is one year older than Byron. If Fred's age is represented by F, which of the following represents the ages of Rosa and Byron, respectively?","{'A': '12(F-1) and F-1', 'B': '12(F+1) and F+1', 'C': '2(F-1) and F-1', 'D': '2(F+1) and F+1', 'E': '2F and F-1'}",C,"
+Here's how we can solve this problem step-by-step:
+
+1. **Define Byron's age in terms of F:** We are given that Fred's age is represented by F, and Fred is one year older than Byron. Therefore, Byron's age is F - 1.
+
+2. **Define Rosa's age in terms of Byron's age:** We are told Rosa is twice as old as Byron.  Since Byron's age is F - 1, Rosa's age is 2 * (F - 1) = 2(F - 1).
+
+3. **Combine the expressions:** Rosa's age is 2(F - 1) and Byron's age is F - 1.
+
+4. **Compare with the options:** Looking at the answer choices, we see that option 'C' matches our results: Rosa: 2(F-1) and Byron: F-1.
+
+Answer: C",C,1
+17,M130001,A particular flu vaccine is effective for 90 percent of the patients who receive it. What is the probability that it will be effective for both of the next two randomly selected patients?,"{'A': '0.54', 'B': '0.63', 'C': '0.72', 'D': '0.81', 'E': '0.90'}",D,"
+Here's how we can solve this probability problem using a chain of thought:
+
+1. **Identify the events:** We are looking at the probability of the vaccine being effective for two consecutive patients. Let's define:
+   - Event A: Vaccine is effective for the first patient.
+   - Event B: Vaccine is effective for the second patient.
+
+2. **State the given probability:** We are given that the vaccine is effective for 90% of patients. This means P(A) = 0.9 and P(B) = 0.9.
+
+3. **Assume independence:** We assume that whether the vaccine is effective for one patient does *not* affect whether it's effective for another patient.  This means the events A and B are independent.
+
+4. **Probability of independent events:** The probability of two independent events both occurring is the product of their individual probabilities.  Therefore, P(A and B) = P(A) * P(B).
+
+5. **Calculate the probability:** P(A and B) = 0.9 * 0.9 = 0.81
+
+Answer: D",D,1
+18,M127901,"An election involving four candidates for mayor has been held. Of the following, which is the best way to present the percentage of votes each candidate received?","{'A': 'Circle graph', 'B': 'Line graph', 'C': 'Box plot', 'D': 'Scatterplot', 'E': 'Histogram'}",A,"
+Here's a chain of thought to determine the best way to present the percentage of votes each candidate received:
+
+1. **Understand the Data:** We have categorical data – four candidates. We want to show the proportion (percentage) of the whole (total votes) that each candidate received.
+
+2. **Evaluate each graph type:**
+   * **A: Circle graph (Pie chart):** Circle graphs are *excellent* for showing parts of a whole. Each candidate's slice represents their percentage of the votes, making it easy to compare proportions.
+   * **B: Line graph:** Line graphs show trends over a continuous variable (like time). This doesn’t apply to the votes for candidates.
+   * **C: Box plot:** Box plots show the distribution of numerical data (minimum, median, quartiles, maximum).  We're dealing with percentages for discrete categories, not a distribution.
+   * **D: Scatterplot:** Scatterplots show the relationship between two continuous variables.  Candidates aren't continuous variables, and we aren’t looking at a relationship *between* them.
+   * **E: Histogram:** Histograms show the distribution of numerical data, similar to box plots. Not suited for categorical data like candidate votes.
+
+3. **Determine the Best Fit:**  The circle graph clearly displays how each candidate's vote percentage contributes to the total, making for easy comparison of relative performance. It directly addresses the need to show proportions of a whole.
+
+Answer: A",A,1
+19,M135301,"The town of Mayville taxes property at a rate of $42 for each $1,000 of estimated value. What is the estimated value of a property on which the owner owes $5,250 in property tax?","{'A': '$42,000', 'B': '$47,250', 'C': '$125,000', 'D': '$220,500', 'E': '$5,250,000'}",C,"
+Here's how to solve this problem using a step-by-step approach:
+
+1. **Understand the tax rate:** The tax rate is $42 per $1,000 of estimated value. This means for every $1,000 of value, the tax is $42.
+
+2. **Determine the number of $1,000 units:**  We need to figure out how many ""$1,000 units"" are represented by the total tax amount of $5,250. To do this, divide the total tax by the tax per $1,000 unit: $5,250 / $42 = 125.
+
+3. **Calculate the estimated value:** Since each unit represents $1,000 of value, multiply the number of units by $1,000: 125 * $1,000 = $125,000.
+
+Therefore, the estimated value of the property is $125,000.
+
+Answer: C",C,1
+20,M127001,The number of bacteria present in a laboratory sample after t days can be represented by 500(2t). What is the initial number of bacteria present in this sample?,"{'A': '250', 'B': '500', 'C': '750', 'D': '1,000', 'E': '2,000'}",B,"
+Here's how to solve the problem using a chain of thought:
+
+1. **Understand the given equation:** The equation representing the number of bacteria is 500(2<sup>t</sup>). 't' represents the number of days.
+
+2. **Define 'initial number':** The initial number of bacteria refers to the number of bacteria present at the very beginning, which means when time (t) is zero.
+
+3. **Substitute t = 0 into the equation:**  To find the initial number, we need to substitute 't' with 0 in the given equation:  500(2<sup>0</sup>)
+
+4. **Evaluate 2<sup>0</sup>:** Any number raised to the power of 0 equals 1. Therefore, 2<sup>0</sup> = 1.
+
+5. **Simplify the equation:** Now the equation becomes: 500(1)
+
+6. **Calculate the final result:** 500 * 1 = 500
+
+Therefore, the initial number of bacteria present in the sample is 500.
+
+Answer: B",B,1
+21,M135401,"A cat lies crouched on level ground 50 feet away from the base of a tree. The cat can see a bird's nest directly above the base of the tree. The angle of elevation from the cat to the bird's nest is 40°. To the nearest foot, how far above the base of the tree is the bird's nest?","{'A': '32', 'B': '38', 'C': '42', 'D': '60', 'E': '65'}",C,"
+Here's how to solve this problem using a chain of thought:
+
+1. **Visualize the Problem:** Imagine a right triangle where the distance from the cat to the tree is the base, the height of the bird's nest is the opposite side, and the line of sight from the cat to the nest is the hypotenuse.
+
+2. **Identify the Trigonometric Function:** We are given the angle of elevation (40°) and the adjacent side (50 feet). We want to find the opposite side (the height of the nest).  The trigonometric function that relates the opposite and adjacent sides is the tangent function: tan(angle) = opposite / adjacent.
+
+3. **Set up the Equation:**  We can write the equation as: tan(40°) = height / 50.
+
+4. **Solve for the Height:** To find the height, we multiply both sides of the equation by 50: height = 50 * tan(40°).
+
+5. **Calculate the Value:** Using a calculator, we find that tan(40°) ≈ 0.8391.  Therefore, height ≈ 50 * 0.8391 ≈ 41.955 feet.
+
+6. **Round to the Nearest Foot:** Rounding 41.955 to the nearest foot gives us 42 feet.
+
+Answer: C",C,1
+22,M130101,"Yvonne has studied the cost of tickets over time for her favorite sports team. She has created a model to predict the cost of a ticket in the future. Let C represent the cost of a ticket in dollars and y represent the number of years in the future. Her model is as follows.C=2.50y+13Based on this model, how much will the cost of a ticket increase in two years?","{'A': '$5', 'B': '$8', 'C': '$13', 'D': '$18', 'E': '$26'}",A,"
+Here's how to solve this problem using a chain of thought approach:
+
+1. **Understand the model:** The equation C = 2.50y + 13 represents the predicted cost of a ticket (C) based on the number of years in the future (y).
+
+2. **Find the cost in two years:** We need to find the cost of a ticket when y = 2.  Substitute 2 for y in the equation: C = 2.50(2) + 13
+
+3. **Calculate the cost in two years:**  C = 5 + 13 = 18.  So, the cost of a ticket in two years will be $18.
+
+4. **Find the increase in cost:** The question asks for the *increase* in cost over two years. We can find this by subtracting the current cost (when y=0) from the predicted cost in two years. Current cost: C = 2.50(0) + 13 = 13. Increase = $18 - $13 = $5.
+
+Answer: $5",$5,1

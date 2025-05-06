@@ -20,9 +20,11 @@ This is a course project for the course NLP804 Deep Learning for Natural Languag
 ## Installation
 
 To install this repo:
+```
 conda create -n NLG_project python=3.11 
 conda activate NLG_project
 pip install -r requirements.txt
+```
 
 install this repo by running:
 ```

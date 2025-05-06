@@ -1,0 +1,247 @@
+Column 1,id,question,options,answer,llm_answer,final_ans,correctness
+0,M184601,Which of the following expressions is NOT equivalent to (a + b)(x + y) ?,"A. (a+b)x+(a+b)y
+B. a(x+y)+b(x+y)
+C. (b+a)(y+x)
+D. ax+by
+E. ax+bx+ay+by",D,"Step 1: Expand the original expression using distributive property:  
+**(a + b)(x + y) = ax + ay + bx + by**.  
+
+Step 2: Compare with **Option A**:  
+**A.** Expand \((a + b)x + (a + b)y\) into **ax + bx + ay + by**, matching the original.  
+
+Step 3: Compare with **Option B**:  
+**B.** Distribute \(a(x + y) + b(x + y)\) to get **ax + ay + bx + by**, equivalent to the original.  
+
+Step 4: Compare with **Option C**:  
+**C.** Rearrange terms in \((b + a)(y + x)\) as \((a + b)(x + y)\), identical to the original by commutativity.  
+
+Step 5: Compare with **Option D**:  
+**D.** Simplify \(ax + by\). This omits \(ay\) and \(bx\) from the original expansion, making it inequivalent.  
+
+Step 6: Compare with **Option E**:  
+**E.** Rearrange \(ax + bx + ay + by\) as **ax + ay + bx + by**, identical to the original.  
+
+Answer: D",D,1
+1,M130101,"Yvonne has studied the cost of tickets over time for her favorite sports team. She has created a model to predict the cost of a ticket in the future. Let C represent the cost of a ticket in dollars and y represent the number of years in the future. Her model is as follows.
+C=2.50y+13
+Based on this model, how much will the cost of a ticket increase in two years?","A. $5
+B. $8
+C. $13
+D. $18
+E. $26",A,"Answer: A
+
+1. Understand that the model C = 2.50y + 13 predicts ticket cost, with y as years into the future.
+2. The current cost (y = 0) is calculated as C = 2.50(0) + 13 = $13.
+3. For two years in the future (y = 2), substitute into the model: C = 2.50(2) + 13 = 5 + 13 = $18.
+4. Determine the increase in cost by subtracting the current cost from the future cost: $18 - $13 = $5.
+5. Verify the rate of increase: The slope (2.50) represents annual increase. Over two years, 2.50 * 2 = $5.
+6. Confirm the answer matches option A.
+
+Answer: A",A,1
+2,M190101,"The first four terms in a sequence are shown below.
+40,8,24,16,⋯
+Each term after the first two terms is found by taking one-half the sum of the two preceding terms. Which term is the first odd number in this sequence?","A. The 5th term
+B. The 6th term
+C. The 7th term
+D. The 8th term
+E. The 9th term",C,"Answer:
+C  
+1. Given sequence starts with 40 (term1), 8 (term2), 24 (term3), 16 (term4).  
+2. Each subsequent term after the first two is (sum of two preceding terms)/2.  
+3. Term5: (24 + 16)/2 = 40/2 = 20 (even).  
+4. Term6: (16 + 20)/2 = 36/2 = 18 (even).  
+5. Term7: (20 + 18)/2 = 38/2 = 19 (odd).  
+The first odd term is the 7th term.  
+
+Answer: C",C,1
+3,M177201,"Mary created a spreadsheet to keep a record of the taxes she pays during the year. Mary works every week during the year. Portions of Mary’s spreadsheet are shown above. The spreadsheet is set up so that Mary enters the amount of her hourly pay in cell C3 and the tax rate in cell F3. The tax rate is the number of dollars of tax paid for every dollar earned. Mary’s hourly pay and the tax rate do not change during the year. Each week Mary enters the number of hours she worked into the spreadsheet.
+
+What formulas could Mary use in cell C38 to compute the amount of tax she paid on her earnings during the week of August 13 to August 17? (The amount of tax she paid each week is the product of her weekly pay and the tax rate.)","A. C38 equals A38 times B3 times E3
+B. C38 equals A38 times C3 times F3
+C. C38 equals B38 times B3 times E3
+D. C38 equals B38 times C3 times F3
+E. C38 equals C38 times B3 times E3",D,"1. **Identify Required Components**: The tax amount is calculated as (weekly pay) × (tax rate).
+2. **Determine Weekly Pay**: Weekly pay = hourly pay (C3) × hours worked (B38).
+3. **Apply Tax Rate**: Multiply weekly pay by the tax rate (F3).
+4. **Formula Structure**: Combining steps 2 and 3 gives **B38 × C3 × F3**.
+5. **Evaluate Options**: Option D matches this structure, using B38 for hours, C3 for hourly pay, and F3 for tax rate. Other options incorrectly reference unrelated cells (e.g., A38, E3) or have incorrect structure.
+
+Answer: D",D,1
+4,M177202,"Mary created a spreadsheet to keep a record of the taxes she pays during the year. Mary works every week during the year. Portions of Mary’s spreadsheet are shown above. The spreadsheet is set up so that Mary enters the amount of her hourly pay in cell C3 and the tax rate in cell F3. The tax rate is the number of dollars of tax paid for every dollar earned. Mary’s hourly pay and the tax rate do not change during the year. Each week Mary enters the number of hours she worked into the spreadsheet.
+Write or describe a formula Mary can use in cell C59 to give the total amount of taxes paid for the year.",,"C59 =C6 + C7 + ... + C57
+                 OR
+  C59 = SUM (C6:C57)
+                 OR
+C59 = SUM (B6:B57) * C3 * F3  
+                 OR
+Mary should add the values in cells C6 through C57.","Answer: Step 1: Identify the total hours worked for the year using SUM(B4:B55), assuming weekly hours are in B4 to B55 for 52 weeks. Step 2: Multiply total hours by Mary’s hourly pay (C3) to calculate total earnings. Step 3: Multiply total earnings by the tax rate (F3) to determine total taxes. Step 4: Combine these steps into one formula. Result: The formula is `=SUM(B4:B55)*$C$3*$F$3`, where absolute references ensure C3 and F3 remain fixed.
+
+Answer: =SUM(B4:B55)*$C$3*$F$3","
+=SUM(B4:B55)*$C$3*$F$3",0
+5,M189601,"In the scatterplot, each point represents the adult heights of a sister-brother pair.
+What is the brother’s height that corresponds to the tallest sister’s height?","A. 74 inches
+B. 71 inches
+C. 67 inches
+D. 66 inches
+E. 62 inches",B,"1. The problem requires identifying the brother's height corresponding to the tallest sister's height on a scatterplot.  
+2. The tallest sister's data point would be the maximum value on the sister's height axis (e.g., farthest right if sisters are plotted on the x-axis).  
+3. The corresponding brother's height is determined by the y-axis value (brother's height) at that tallest sister's data point.  
+4. Without the image, inference relies on typical trends: a positive correlation suggests taller sisters pair with taller brothers.  
+5. Among the options, 71 inches aligns with a plausible positive correlation, assuming the tallest sister is very tall but her brother's height isn't extreme.  
+
+Answer: B",B,1
+6,M180201,Prove that A'C' ≅ D'C' and give a reason for each statement in your proof.,,"The proof aims to demonstrate that line segment AC is congruent to line segment DC.
+
+    Starting Information (Givens): The proof begins by stating two pieces of given information:
+        Point C is the midpoint of the line segment BE.
+        Angles B and E are right angles.
+
+    Using the Midpoint Definition: Since C is the midpoint of BE, it divides the segment into two equal parts by definition. Therefore, line segment BC must be congruent to line segment EC.
+    Using the Right Angle Information: Since angles B and E are given as right angles, and all right angles are congruent, it follows that angle B is congruent to angle E.
+    Identifying Vertical Angles: Angles ACB and DCE are formed by the intersection of line segments AE and BD. These are vertical angles, and vertical angles are always congruent. Thus, angle ACB is congruent to angle DCE.
+
+    Proving Triangle Congruence: Now, comparing triangle ACB and triangle DCE, we have established the following congruencies:
+        Angle B ≅ Angle E (Angle)
+        Segment BC ≅ Segment EC (Side)
+        Angle ACB ≅ Angle DCE (Angle)
+
+        The proof uses these findings to declare that triangle ACB is congruent to triangle DCE. The reason cited is the Angle-Side-Angle (ASA) postulate. (Alternatively, since these are right triangles, the Leg-Angle (LA) theorem might be considered, although the established parts fit the Angle-Angle-Side (AAS) pattern: ∠B ≅ ∠E, ∠ACB ≅ ∠DCE, and the non-included side BC ≅ EC).
+
+    Final Conclusion (CPCTC): Since it has been established that triangle ACB is congruent to triangle DCE, all their corresponding parts must be congruent. Line segment AC in the first triangle corresponds to line segment DC in the second triangle. Therefore, by the principle that Corresponding Parts of Congruent Triangles are Congruent (CPCTC), we can conclude that line segment AC is congruent to line segment DC.","1. **Identify congruent triangles**: Triangles ABC and DBC are congruent by SAS (Side-Angle-Side).  
+   - **Reason**: AB ≅ DB (given), BC ≅ BC (reflexive property), and ∠ABC ≅ ∠DBC (given).  
+
+2. **Corresponding parts**: AC ≅ DC.  
+   - **Reason**: Corresponding sides of congruent triangles (CPCTC).  
+
+3. **Apply transformation**: A reflection/rotation preserves segment lengths.  
+   - **Reason**: Rigid transformations maintain congruence.  
+
+4. **Image segments**: A'C' ≅ AC and D'C' ≅ DC.  
+   - **Reason**: Definition of transformation preserving congruence.  
+
+5. **Conclusion**: A'C' ≅ D'C'.  
+   - **Reason**: Transitive property of congruence (since AC ≅ DC and their images retain congruence).  
+
+Answer: A'C' ≅ D'C'","1. **Identify congruent triangles**: Triangles ABC and DBC are congruent by SAS (Side-Angle-Side).  
+   - **Reason**: AB ≅ DB (given), BC ≅ BC (reflexive property), and ∠ABC ≅ ∠DBC (given).  
+
+2. **Corresponding parts**: AC ≅ DC.  
+   - **Reason**: Corresponding sides of congruent triangles (CPCTC).  
+
+3. **Apply transformation**: A reflection/rotation preserves segment lengths.  
+   - **Reason**: Rigid transformations maintain congruence.  
+
+4. **Image segments**: A'C' ≅ AC and D'C' ≅ DC.  
+   - **Reason**: Definition of transformation preserving congruence.  
+
+5. **Conclusion**: A'C' ≅ D'C'.  
+   - **Reason**: Transitive property of congruence (since AC ≅ DC and their images retain congruence).  
+
+Answer: A'C' ≅ D'C'",0
+7,M195501,"Quadrilateral ABCD is inscribed in circle O, and is a right angle, as shown above. Segment AB is not parallel to segment DC. Which of the following statements must be true?","A. ∠A≅∠B
+B. ∠B≅∠D
+C. ∠B is a right angle.
+D. AC— is a diameter of circle O.
+E. BD— is a diameter of circle O.",E,"1. **Cyclic Quadrilateral Properties**: Since ABCD is inscribed in a circle, it is a cyclic quadrilateral. In cyclic quadrilaterals, opposite angles are supplementary (sum to 180°).  
+2. **Angle A Analysis**: ∠A is a right angle (90°). By the cyclic quadrilateral property, its opposite angle ∠C must also be 90° (since 90° + ∠C = 180° ⇒ ∠C = 90°). However, the answer choices do not involve ∠C.  
+3. **Option A (∠A ≅ ∠B)**: ∠A = 90°, but ∠B cannot be 90° because ∠B and ∠D must sum to 180° (cyclic quadrilateral property). If ∠B were 90°, ∠D would also be 90°, making ABCD a rectangle with AB ∥ DC, which contradicts the given that AB is not parallel to DC. Thus, ∠A ≅ ∠B is false.  
+4. **Option B (∠B ≅ ∠D)**: For ∠B ≅ ∠D, both angles would need to be 90° (since ∠B + ∠D = 180°). This again implies AB ∥ DC, which is false. Hence, ∠B ≅ ∠D is false.  
+5. **Option C (∠B is a right angle)**: As explained above, ∠B = 90° would force ABCD into a rectangle, contradicting AB ∥ DC. Thus, ∠B is not a right angle.  
+6. **Option D (AC is a diameter)**: For AC to be a diameter, an angle subtended by AC (e.g., ∠B or ∠D) must be 90°. However, neither ∠B nor ∠D is guaranteed to be 90°, so AC is not necessarily a diameter.  
+7. **Option E (BD is a diameter)**: ∠A = 90° subtends arc BD. By Thales’ theorem, an inscribed right angle subtends a semicircle (180° arc), so BD must be the diameter. This is always true.  
+
+**Answer: E**",E,1
+8,M071501,"The diagram is part of a scale drawing of a house.
+What is the length, in feet, of the side whose dimension is not given in the diagram?","A. 12
+B. 24
+C. 30
+D. 36
+E. 40",D,"To determine the missing length in the scale drawing, we first identify the scale factor using the given dimensions. Suppose the diagram shows a side labeled as 36 feet corresponding to 9 units in the drawing. The scale is calculated as 36 feet ÷ 9 units = 4 feet per unit. If the missing side measures 6 units in the drawing, multiplying by the scale factor (6 units × 4 feet/unit) gives the actual length of 24 feet. 
+
+Answer: B",B,0
+9,M191501,"John is going to cover an attic floor with insulation. The floor measures 25 feet by 35 feet. If one roll of insulation will cover 64 square feet, how many rolls of insulation does John need?","A. 1
+B. 2
+C. 8
+D. 14
+E. 110",D,"Step 1: Calculate the attic floor area.  
+25 feet × 35 feet = 875 square feet.  
+
+Step 2: Determine the number of rolls needed by dividing total area by coverage per roll.  
+875 ÷ 64 ≈ 13.67.  
+
+Step 3: Since partial rolls aren’t sold, round up to the nearest whole number.  
+13.67 → 14 rolls.  
+
+Answer: D",D,1
+10,M191201,"On level ground from a distance of 200 feet, the angle of elevation to the top of a building is 21°, as shown in the figure above. What is the height h of the building, to the nearest foot? ","A. 72
+B. 77
+C. 187
+D. 201
+E. 521",B,"1. Identify the right triangle formed by the building, the ground, and the line of sight. The height of the building (h) is the opposite side relative to the 21° angle, and the horizontal distance (200 feet) is the adjacent side.  
+2. Use the tangent function: tan(θ) = opposite/adjacent.  
+3. Substitute the known values: tan(21°) = h / 200.  
+4. Solve for h: h = 200 * tan(21°).  
+5. Calculate tan(21°) ≈ 0.383864 using a calculator.  
+6. Multiply: 200 * 0.383864 ≈ 76.7728.  
+7. Round 76.7728 to the nearest foot, resulting in 77.  
+
+Answer: B",B,1
+11,M135401,"A cat lies crouched on level ground 50 feet away from the base of a tree. The cat can see a bird's nest directly above the base of the tree. The angle of elevation from the cat to the bird's nest is 40°. To the nearest foot, how far above the base of the tree is the bird's nest?","A. 32
+B. 38
+C. 42
+D. 60
+E. 65",C,"Step 1: Identify the right triangle formed by the cat, the base of the tree, and the bird's nest.  
+Step 2: The horizontal distance from the cat to the tree (adjacent side) is 50 feet, and the angle of elevation is 40°.  
+Step 3: Use the tangent function: \(\tan(40°) = \frac{\text{height}}{\text{50}}\).  
+Step 4: Solve for height: \(\text{height} = 50 \times \tan(40°)\).  
+Step 5: Calculate \(\tan(40°)\) ≈ 0.8391 using a calculator in degrees mode.  
+Step 6: Multiply: \(50 \times 0.8391 ≈ 41.955\).  
+Step 7: Round to the nearest foot: 42.  
+
+Answer: C",C,1
+12,M180601,(16^(1/2))^3 = ?,"A. 512
+B. 64
+C. 48
+D. 24
+E. 12",B,"Step 1: Simplify the inner exponent.  
+16^(1/2) is the square root of 16, which equals 4.  
+
+Step 2: Raise the result to the outer exponent.  
+(4)^3 = 4 × 4 × 4 = 64.  
+
+Alternatively, using exponent rules:  
+(16^(1/2))^3 = 16^(3/2) = (16^(1/2))^3 = 4^3 = 64.  
+
+Answer: B",B,1
+13,M135301,"The town of Mayville taxes property at a rate of $42 for each $1,000 of estimated value. What is the estimated value of a property on which the owner owes $5,250 in property tax?","A. $42,000
+B. $47,250
+C. $125,000
+D. $220,500
+E. $5,250,000",C,"Step 1: Determine the tax rate per $1,000 of value. The rate is $42 per $1,000.  
+Step 2: Let \( V \) be the estimated value. The tax owed is calculated as \( \frac{42}{1000} \times V = 5250 \).  
+Step 3: Solve for \( V \):  
+\[  
+V = \frac{5250 \times 1000}{42}  
+\]  
+Step 4: Simplify the division:  
+\[  
+5250 \div 42 = 125  
+\]  
+Step 5: Multiply by 1000:  
+\[  
+125 \times 1000 = 125,\!000  
+\]  
+The estimated value is $125,000.  
+
+Answer: C",C,1
+14,M196701,360×0.3= ?,"A. 10.8
+B. 108
+C. 120
+D. 980
+E. 1,080",B,"Step 1: Recognize that 0.3 is equivalent to 30%, so calculating 30% of 360 simplifies the problem.  
+Step 2: Find 10% of 360 by dividing 360 by 10: \(360 ÷ 10 = 36\).  
+Step 3: Multiply the result by 3 to get 30%: \(36 × 3 = 108\).  
+Step 4: Verify by direct multiplication: \(360 × 0.3 = (360 × 3) ÷ 10 = 1080 ÷ 10 = 108\).  
+Step 5: Confirm that option B (108) matches the calculated result and other options are incorrect.  
+
+Answer: B",B,1

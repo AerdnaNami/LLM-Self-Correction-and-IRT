@@ -1,0 +1,117 @@
+Column 1,id,question,options,answer,llm_answer,final_ans,correctness
+0,M177201,"Mary created a spreadsheet to keep a record of the taxes she pays during the year. Mary works every week during the year. Portions of Mary’s spreadsheet are shown above. The spreadsheet is set up so that Mary enters the amount of her hourly pay in cell C3 and the tax rate in cell F3. The tax rate is the number of dollars of tax paid for every dollar earned. Mary’s hourly pay and the tax rate do not change during the year. Each week Mary enters the number of hours she worked into the spreadsheet.
+
+What formulas could Mary use in cell C38 to compute the amount of tax she paid on her earnings during the week of August 13 to August 17? (The amount of tax she paid each week is the product of her weekly pay and the tax rate.)","A. C38 equals A38 times B3 times E3
+B. C38 equals A38 times C3 times F3
+C. C38 equals B38 times B3 times E3
+D. C38 equals B38 times C3 times F3
+E. C38 equals C38 times B3 times E3",D,"Answer: D
+
+Step 1: Identify the components needed for the tax calculation. Mary's weekly tax is the product of her weekly pay (hours worked × hourly pay) and the tax rate.  
+Step 2: Locate the cells involved. For the week of August 13–17 (row 38), hours worked are in B38. Hourly pay is in C3, and the tax rate is in F3.  
+Step 3: Construct the formula. Weekly pay = B38 × C3. Tax paid = weekly pay × tax rate = (B38 × C3) × F3.  
+Step 4: Evaluate the options. Only option D (C38 = B38 × C3 × F3) correctly incorporates all required values.  
+
+Answer: D",D,1
+1,M177202,"Mary created a spreadsheet to keep a record of the taxes she pays during the year. Mary works every week during the year. Portions of Mary’s spreadsheet are shown above. The spreadsheet is set up so that Mary enters the amount of her hourly pay in cell C3 and the tax rate in cell F3. The tax rate is the number of dollars of tax paid for every dollar earned. Mary’s hourly pay and the tax rate do not change during the year. Each week Mary enters the number of hours she worked into the spreadsheet.
+Write or describe a formula Mary can use in cell C59 to give the total amount of taxes paid for the year.",,"C59 =C6 + C7 + ... + C57
+                 OR
+  C59 = SUM (C6:C57)
+                 OR
+C59 = SUM (B6:B57) * C3 * F3  
+                 OR
+Mary should add the values in cells C6 through C57.","1. **Identify key inputs**: Mary enters her hourly pay in cell C3 and the tax rate in F3. These values remain constant throughout the year.
+2. **Determine weekly tax calculation**: Each week's tax is calculated as (hourly pay × hours worked × tax rate). Hourly pay (C3) and tax rate (F3) are fixed, while hours vary weekly.
+3. **Locate hours input**: Assuming hours worked each week are entered in column B, starting from B4 (Week 1) to B55 (Week 52), covering 52 weeks.
+4. **Sum total hours**: Use `SUM(B4:B55)` to aggregate all hours worked during the year.
+5. **Calculate total taxable income**: Multiply total hours by hourly pay (`C3 * SUM(B4:B55)`).
+6. **Apply tax rate**: Multiply the total taxable income by the tax rate (F3) to get total taxes paid.
+7. **Formula structure**: Combine these steps into a single formula in cell C59 using absolute references for C3 and F3 to ensure consistency.
+
+Answer: `=C3*F3*SUM(B4:B55)`",`=C3*F3*SUM(B4:B55)`,0
+2,M189601,"In the scatterplot, each point represents the adult heights of a sister-brother pair.
+What is the brother’s height that corresponds to the tallest sister’s height?","A. 74 inches
+B. 71 inches
+C. 67 inches
+D. 66 inches
+E. 62 inches",B,"Step 1: Identify the axis for sister's height in the scatterplot, typically the x-axis.  
+Step 2: Locate the tallest sister, represented by the rightmost data point on the x-axis.  
+Step 3: Determine the corresponding brother's height by tracing vertically from this point to the y-axis.  
+Step 4: Compare the y-axis value with the provided options to find the matching brother's height.  
+
+Answer: B. 71 inches",B. 71 inches,1
+3,M180201,Prove that A'C' ≅ D'C' and give a reason for each statement in your proof.,,"The proof aims to demonstrate that line segment AC is congruent to line segment DC.
+
+    Starting Information (Givens): The proof begins by stating two pieces of given information:
+        Point C is the midpoint of the line segment BE.
+        Angles B and E are right angles.
+
+    Using the Midpoint Definition: Since C is the midpoint of BE, it divides the segment into two equal parts by definition. Therefore, line segment BC must be congruent to line segment EC.
+    Using the Right Angle Information: Since angles B and E are given as right angles, and all right angles are congruent, it follows that angle B is congruent to angle E.
+    Identifying Vertical Angles: Angles ACB and DCE are formed by the intersection of line segments AE and BD. These are vertical angles, and vertical angles are always congruent. Thus, angle ACB is congruent to angle DCE.
+
+    Proving Triangle Congruence: Now, comparing triangle ACB and triangle DCE, we have established the following congruencies:
+        Angle B ≅ Angle E (Angle)
+        Segment BC ≅ Segment EC (Side)
+        Angle ACB ≅ Angle DCE (Angle)
+
+        The proof uses these findings to declare that triangle ACB is congruent to triangle DCE. The reason cited is the Angle-Side-Angle (ASA) postulate. (Alternatively, since these are right triangles, the Leg-Angle (LA) theorem might be considered, although the established parts fit the Angle-Angle-Side (AAS) pattern: ∠B ≅ ∠E, ∠ACB ≅ ∠DCE, and the non-included side BC ≅ EC).
+
+    Final Conclusion (CPCTC): Since it has been established that triangle ACB is congruent to triangle DCE, all their corresponding parts must be congruent. Line segment AC in the first triangle corresponds to line segment DC in the second triangle. Therefore, by the principle that Corresponding Parts of Congruent Triangles are Congruent (CPCTC), we can conclude that line segment AC is congruent to line segment DC.","1. **A' is the reflection of A over line l, and D' is the reflection of D over line l**  
+   *Reason:* Definition of reflection across line l, a specified line of symmetry or transformation.  
+
+2. **C' is the reflection of C over the same line l**  
+   *Reason:* C undergoes the same transformation to preserve geometric relationships.  
+
+3. **Reflections preserve distance (isometry property)**  
+   *Reason:* Reflections are rigid transformations, ensuring AC ≅ A'C' and DC ≅ D'C'.  
+
+4. **Original segments AC and DC are congruent (AC ≅ DC)**  
+   *Reason:* Given (e.g., ABCD is a rhombus, kite, or symmetric figure with AC = DC).  
+
+5. **By transitivity, A'C' ≅ D'C'**  
+   *Reason:* Since A'C' ≅ AC and DC ≅ D'C', and AC ≅ DC, substitution yields A'C' ≅ D'C'.  
+
+Answer: A’C’ ≅ D’C’  
+**Reasons:**  
+1. Reflection definition.  
+2. Reflection definition.  
+3. Isometry property.  
+4. Given (original congruency).  
+5. Transitive property.  
+
+Answer: A'C' ≅ D'C'",A’C’ ≅ D’C’,0
+4,M195501,"Quadrilateral ABCD is inscribed in circle O, and is a right angle, as shown above. Segment AB is not parallel to segment DC. Which of the following statements must be true?","A. ∠A≅∠B
+B. ∠B≅∠D
+C. ∠B is a right angle.
+D. AC— is a diameter of circle O.
+E. BD— is a diameter of circle O.",E,"A quadrilateral inscribed in a circle (cyclic) with a right angle at ∠ADC implies specific properties. Since ∠ADC is 90°, the arc AC subtended by this angle must be a semicircle (180°), making **AC a diameter** (Statement D). By Thales' theorem, any triangle inscribed with AC as the diameter must have a right angle opposite AC. Thus, ∠ABC (at vertex B) is also a right angle, making **∠B a right angle** (Statement C). Since both ∠B and ∠D are right angles (∠D given as 90°), they are **congruent** (Statement B). Statements B, C, and D must all be true. Statements A and E lack sufficient justification based on the given information.
+
+Answer: \boxed{BCD}",\boxed{BCD},0
+5,M071501,"The diagram is part of a scale drawing of a house.
+What is the length, in feet, of the side whose dimension is not given in the diagram?","A. 12
+B. 24
+C. 30
+D. 36
+E. 40",D,"Answer: E. 40
+
+Step 1: Identify the scale factor using known dimensions. Suppose the diagram includes a side labeled as 24 feet (real) that measures 6 units in the drawing. This implies a scale of 1 unit = 4 feet (24 ÷ 6).  
+Step 2: Identify the missing side in the diagram. If the other leg in the drawing corresponds to 8 units (unlabeled), its actual length would be 8 units × 4 feet/unit = 32 feet.  
+Step 3: Apply the Pythagorean theorem to determine the hypotenuse:  
+\[
+\text{Length} = \sqrt{24^2 + 32^2} = \sqrt{576 + 1024} = \sqrt{1600} = 40 \, \text{feet}.
+\]
+
+Answer: E",E. 40,0
+6,M191201,"On level ground from a distance of 200 feet, the angle of elevation to the top of a building is 21°, as shown in the figure above. What is the height h of the building, to the nearest foot? ","A. 72
+B. 77
+C. 187
+D. 201
+E. 521",B,"1. The problem involves finding the height (h) of a building using the angle of elevation (21°) and the horizontal distance (200 feet). 
+2. In a right triangle, the tangent of an angle is equal to the ratio of the opposite side (height) to the adjacent side (distance). Thus, \(\tan(21^\circ) = \frac{h}{200}\).
+3. Rearrange the formula to solve for height: \(h = 200 \cdot \tan(21^\circ)\).
+4. Calculate \(\tan(21^\circ)\) using a calculator in degree mode, which gives \(\tan(21^\circ) \approx 0.383864\).
+5. Compute \(h = 200 \cdot 0.383864 \approx 76.7728\) feet.
+6. Round 76.7728 to the nearest whole number, resulting in 77 feet. 
+
+Answer: B",B,1

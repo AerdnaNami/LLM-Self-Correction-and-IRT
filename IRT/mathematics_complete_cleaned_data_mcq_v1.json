@@ -1,0 +1,4751 @@
+[
+    {
+        "question_id": "2013-4M3 #7 M145801",
+        "question": "Which of these operations will give the smallest answer?",
+        "options": {
+            "A": "Subtract 1 from 1,000.",
+            "B": "Multiply 1,000 by 1.",
+            "C": "Divide 1,000 by 1.",
+            "D": "Divide 1,000 by 10."
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.1940412727022274,
+            "B": 0.04355844031378193,
+            "C": 0.09657877383019635,
+            "D": 0.6227878083475333,
+            "Omitted": 0.04303370480626098
+        }
+    },
+    {
+        "question_id": "2013-4M3 #11 M146201",
+        "question": "Lisa sold 15 cups of lemonade on Saturday and twice as many on Sunday. Which expression represents the total number of cups of lemonade she sold on both days?",
+        "options": {
+            "A": "15+15",
+            "B": "2×15",
+            "C": "15+(2×15)",
+            "D": "2×(15+15)"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.16055910107260268,
+            "B": 0.4305795611759063,
+            "C": 0.32085117582228423,
+            "D": 0.07524817888714365,
+            "Omitted": 0.012761983042063184
+        }
+    },
+    {
+        "question_id": "2005-8M4 #9 M067801",
+        "question": "Alba needed to know about how much the sum of 19.6, 23.8, and 38.4 is. She correctly rounded each of these numbers to the nearest whole number. What three numbers did she use?",
+        "options": {
+            "A": "19, 23, 38",
+            "B": "19, 24, 38",
+            "C": "20, 24, 38",
+            "D": "20, 24, 39"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.04648868279270721,
+            "B": 0.04396469065324265,
+            "C": 0.8542824060262265,
+            "D": 0.04533059961869139,
+            "Omitted": 0.009933620909132215
+        }
+    },
+    {
+        "question_id": "1992-8M5 #5 M022301",
+        "question": "There are 50 hamburgers to serve 38 children. If each child is to have at least one hamburger, at most how many of the children can have more than one?",
+        "options": {
+            "A": "6",
+            "B": "12",
+            "C": "26",
+            "D": "38"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.031811525120750535,
+            "B": 0.9210627994903692,
+            "C": 0.035076224370827615,
+            "D": 0.007679324241015858,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "1992-8M5 #12 M022901",
+        "question": "By how much would 217 be increased if the digit 1 were replaced by a digit 5?",
+        "options": {
+            "A": "4",
+            "B": "40",
+            "C": "44",
+            "D": "400"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.11711710082171145,
+            "B": 0.7224782715734557,
+            "C": 0.11356923358471031,
+            "D": 0.03477327619735104,
+            "Omitted": 0.01206211782277153
+        }
+    },
+    {
+        "question_id": "1992-8M5 #13 M023001",
+        "question": "Christy has 88 photographs to put in her album. If 9 photographs will fit on each page, how many pages will she need?",
+        "options": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "11"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.026673027670378064,
+            "B": 0.20727834033918138,
+            "C": 0.6866820348697651,
+            "D": 0.0755356016454044,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "1992-8M5 #16 M023301",
+        "question": "In a bag of marbles, 12 are red, 14 are blue, 16 are green, and 112 are yellow. If a marble is taken from the bag without looking, it is most likely to be",
+        "options": {
+            "A": "red",
+            "B": "blue",
+            "C": "green",
+            "D": "yellow"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.7321389663532658,
+            "B": 0.03942179609690299,
+            "C": 0.0373583516665543,
+            "D": 0.1838044083232815,
+            "Omitted": 0.007276477559995384
+        }
+    },
+    {
+        "question_id": "1992-8M5 #17 M023401",
+        "question": "A rectangular carpet is 9 feet long and 6 feet wide. What is the area of the carpet in square feet?",
+        "options": {
+            "A": "15",
+            "B": "27",
+            "C": "30",
+            "D": "54"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.16068784945969658,
+            "B": 0.05178521032964127,
+            "C": 0.12578815684891573,
+            "D": 0.6515945188750862,
+            "Omitted": 0.01014426448666022
+        }
+    },
+    {
+        "question_id": "2009-8M5 #8 M046301",
+        "question": "A loaded trailer truck weighs 26,643 kilograms. When the trailer truck is empty, it weighs 10,547 kilograms. About how much does the load weigh?",
+        "options": {
+            "A": "14,000 kilograms",
+            "B": "16,000 kilograms",
+            "C": "18,000 kilograms",
+            "D": "36,000 kilograms"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.025101547443269027,
+            "B": 0.8397061913943695,
+            "C": 0.04072830285312544,
+            "D": 0.08475253140029054,
+            "Omitted": 0.009711426908945487
+        }
+    },
+    {
+        "question_id": "2009-8M5 #9 M047001",
+        "question": "Marty has 6 red pencils, 4 green pencils, and 5 blue pencils. If he picks out one pencil without looking, what is the probability that the pencil he picks will be green?",
+        "options": {
+            "A": "1 out of 3",
+            "B": "1 out of 4",
+            "C": "1 out of 15",
+            "D": "4 out of 15"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.04388624971167642,
+            "B": 0.05664489738845062,
+            "C": 0.11911294014550597,
+            "D": 0.7678866246956099,
+            "Omitted": 0.012469288058757128
+        }
+    },
+    {
+        "question_id": "2003-8M6 #1 M017401",
+        "question": "Add: 238+462",
+        "options": {
+            "A": "600",
+            "B": "690",
+            "C": "700",
+            "D": "790"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.016208700313497512,
+            "B": 0.05372775589091014,
+            "C": 0.9102809725086436,
+            "D": 0.0,
+            "Omitted": 0.015405947687795362
+        }
+    },
+    {
+        "question_id": "2003-8M6 #9 M017701",
+        "question": "Carla has 12 boxes that each weigh the same amount. What would be a quick way for her to find the total weight of the 12 boxes?",
+        "options": {
+            "A": "Add 12 to the weight of one of the boxes.",
+            "B": "Subtract 12 from the weight of one of the boxes.",
+            "C": "Divide the weight of one of the boxes by 12.",
+            "D": "Multiply the weight of one of the boxes by 12."
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.06432168017535474,
+            "B": 0.0182835772084338,
+            "C": 0.10202688849396291,
+            "D": 0.8098041173676966,
+            "Omitted": 0.005563736754551977
+        }
+    },
+    {
+        "question_id": "2003-8M6 #10 M018101",
+        "question": "The perimeter of a square is 36 inches. What is the length of one side of the square?",
+        "options": {
+            "A": "4 inches",
+            "B": "6 inches",
+            "C": "9 inches",
+            "D": "18 inches"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.038466509462145804,
+            "B": 0.19748045140258866,
+            "C": 0.680472213732338,
+            "D": 0.07707030975952038,
+            "Omitted": 0.006510515643407158
+        }
+    },
+    {
+        "question_id": "2003-8M6 #11 M018401",
+        "question": "Six students bought exactly enough pens to share equally among themselves. Which of the following could be the number of pens they bought?",
+        "options": {
+            "A": "46",
+            "B": "48",
+            "C": "50",
+            "D": "52"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.09573152710029069,
+            "B": 0.8307743260028622,
+            "C": 0.03850311779805099,
+            "D": 0.023968531428844263,
+            "Omitted": 0.011022497669951881
+        }
+    },
+    {
+        "question_id": "2003-8M6 #12 M017901",
+        "question": "Carl has 3 empty egg cartons and 34 eggs. If each carton holds 12 eggs, how many more eggs are needed to fill all 3 cartons?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.7979343467608842,
+            "B": 0.06016494584271894,
+            "C": 0.06464232533888523,
+            "D": 0.0625979055332033,
+            "Omitted": 0.014660476524308554
+        }
+    },
+    {
+        "question_id": "2003-8M6 #7 M018201",
+        "question": "How much change will John get back from $5.00 if he buys 2 notebooks that cost $1.80 each?",
+        "options": {
+            "A": "$1.40",
+            "B": "$2.40",
+            "C": "$3.20",
+            "D": "$3.60"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.7321213304259999,
+            "B": 0.1339309925688052,
+            "C": 0.05978340824241171,
+            "D": 0.06796223221234378,
+            "Omitted": 0.006202036550439556
+        }
+    },
+    {
+        "question_id": "2003-8M6 #17 M018501",
+        "question": "Jim has 3/4 of a yard of string which he wishes to divide into pieces, each 1/8 of a yard long. How many pieces will he have?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.15004311630727307,
+            "B": 0.20797184113063844,
+            "C": 0.5468218815911655,
+            "D": 0.07630233518630082,
+            "Omitted": 0.018860825784622177
+        }
+    },
+    {
+        "question_id": "2013-4M6 #1 M135601",
+        "question": "Kelly is playing outside. She is wearing shorts and a T-shirt. Which is most likely the temperature outside?",
+        "options": {
+            "A": "0° F",
+            "B": "32° F",
+            "C": "85° F",
+            "D": "212° F"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.011603882536962566,
+            "B": 0.05109431145612365,
+            "C": 0.8594230256343003,
+            "D": 0.06667205094280064,
+            "Omitted": 0.011206729429812747
+        }
+    },
+    {
+        "question_id": "2013-4M6 #3 M135801",
+        "question": "A bag of potatoes weighs 12.4 pounds. Which of the following statements is true?",
+        "options": {
+            "A": "There are between 1 and 2 pounds of potatoes in the bag.",
+            "B": "There are between 12 and 13 pounds of potatoes in the bag.",
+            "C": "There are between 124 and 125 pounds of potatoes in the bag.",
+            "D": "There are between 1,246 and 1,247 pounds of potatoes in the bag."
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.13458482500165264,
+            "B": 0.7806082987934448,
+            "C": 0.06343006676406743,
+            "D": 0.00808197792690394,
+            "Omitted": 0.013294831513931177
+        }
+    },
+    {
+        "question_id": "2013-4M6 #6 M136101",
+        "question": "Louisa walked for 15 minutes from her house to Mary’s house. She spent 25 minutes at Mary’s house. She walked 10 minutes to the store. She bought groceries at the store. She walked 10 more minutes to get home.What one additional piece of information is needed to find how many minutes Louisa was gone from her house?",
+        "options": {
+            "A": "What time Louisa left home",
+            "B": "How fast Louisa walked",
+            "C": "How far Louisa lives from Mary",
+            "D": "How long Louisa was at the store"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.3265399822581032,
+            "B": 0.12631786414225452,
+            "C": 0.14718420353156458,
+            "D": 0.3820959457515552,
+            "Omitted": 0.01786200431652248
+        }
+    },
+    {
+        "question_id": "2013-4M6 #9 M136401",
+        "question": "Kim, Les, Mario, and Nina each had a string 10 feet long. Kim cut hers into fifths. Les cut his into fourths. Mario cut his into sixths. Nina cut hers into thirds. After the cuts were made, who had the longest pieces of string?",
+        "options": {
+            "A": "Kim",
+            "B": "Les",
+            "C": "Mario",
+            "D": "Nina"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.05590208410477316,
+            "B": 0.02485081582823105,
+            "C": 0.31558232843321404,
+            "D": 0.5927209877852572,
+            "Omitted": 0.010943783848524558
+        }
+    },
+    {
+        "question_id": "2013-4M6 #12 M136701",
+        "question": "Which expression has the least value?",
+        "options": {
+            "A": "2+7+0+4",
+            "B": "(2×7)+0+4",
+            "C": "2+(7×0)+4",
+            "D": "2×7×0×4"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.18755074372440653,
+            "B": 0.08703478968681352,
+            "C": 0.347940355606975,
+            "D": 0.3610733617288705,
+            "Omitted": 0.016400749252934402
+        }
+    },
+    {
+        "question_id": "1992-8M7 #1 M044501",
+        "question": "503-207=",
+        "options": {
+            "A": "206",
+            "B": "296",
+            "C": "304",
+            "D": "396"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.0655679335219517,
+            "B": 0.8381951693404381,
+            "C": 0.04028367696770589,
+            "D": 0.04348334655076625,
+            "Omitted": 0.012469873619138
+        }
+    },
+    {
+        "question_id": "1992-8M7 #5 M044901",
+        "question": "What number is four hundred five and three-tenths?",
+        "options": {
+            "A": "45.3",
+            "B": "405.3",
+            "C": "453",
+            "D": "4,005.3"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.04637764413978837,
+            "B": 0.9273936675344656,
+            "C": 0.015356055183121022,
+            "D": 0.008835016741883838,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "1992-8M7 #6 M045001",
+        "question": "If 113 cups of flour are needed for a batch of cookies, how many cups of flour will be needed for 3 batches?",
+        "options": {
+            "A": "413",
+            "B": "4",
+            "C": "3",
+            "D": "223"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.17830839911186608,
+            "B": 0.6377083979121536,
+            "C": 0.09976810402758093,
+            "D": 0.07947353076173166,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "2007-4M7 #2 M138901",
+        "question": "On Saturday 789 people went to the zoo. On Sunday 983 people went to the zoo. How many more people went to the zoo on Sunday than on Saturday?",
+        "options": {
+            "A": "194",
+            "B": "204",
+            "C": "206",
+            "D": "1,772"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.7313761804162653,
+            "B": 0.01981683675686761,
+            "C": 0.04502684874853666,
+            "D": 0.18963556863878966,
+            "Omitted": 0.014144565439540872
+        }
+    },
+    {
+        "question_id": "2007-4M7 #14 M140101",
+        "question": "There will be 58 people at a breakfast and each person will eat 2 eggs. There are 12 eggs in each carton. How many cartons of eggs will be needed for the breakfast?",
+        "options": {
+            "A": "9",
+            "B": "10",
+            "C": "72",
+            "D": "116"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.15194608302257834,
+            "B": 0.20626417972173147,
+            "C": 0.29838811571162066,
+            "D": 0.3162542131527054,
+            "Omitted": 0.02714740839136408
+        }
+    },
+    {
+        "question_id": "1990-4M7 #3 M014001",
+        "question": "Which of the following is the most reasonable distance for a person to walk in one hour?",
+        "options": {
+            "A": "2 miles",
+            "B": "2 yards",
+            "C": "2 inches",
+            "D": "2 feet"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.7924709091068333,
+            "B": 0.14399807312237434,
+            "C": 0.01695219407570294,
+            "D": 0.03843017604936353,
+            "Omitted": 0.00814864764572597
+        }
+    },
+    {
+        "question_id": "1990-4M7 #9 M014501",
+        "question": "Which of the following has the same shape as a cylinder?",
+        "options": {
+            "A": "An egg",
+            "B": "A book",
+            "C": "A basketball",
+            "D": "A can of soup"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.16354868600639205,
+            "B": 0.10387115420171732,
+            "C": 0.09097631850941532,
+            "D": 0.6241132690444924,
+            "Omitted": 0.01749057223798294
+        }
+    },
+    {
+        "question_id": "1990-4M7 #10 M014601",
+        "question": "Mr. Garcia bought 5 dozen eggs at $0.89 per dozen. What was the total cost of the eggs?",
+        "options": {
+            "A": "$ 4.05",
+            "B": "$ 4.45",
+            "C": "$ 5.89",
+            "D": "$ 10.68"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.16955871080021442,
+            "B": 0.52527634805137,
+            "C": 0.22243308365352943,
+            "D": 0.0645012340522981,
+            "Omitted": 0.018230623442588058
+        }
+    },
+    {
+        "question_id": "1990-4M7 #11 M014701",
+        "question": "By how much would the value of 5,647 be decreased if the 5 were replaced by a 2?",
+        "options": {
+            "A": "3",
+            "B": "300",
+            "C": "3,000",
+            "D": "30,000"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.12544154824075074,
+            "B": 0.1431398417470123,
+            "C": 0.582484579370526,
+            "D": 0.10382808164591548,
+            "Omitted": 0.04510594899579543
+        }
+    },
+    {
+        "question_id": "1990-4M7 #12 M014801",
+        "question": "Which of the following is an even number?",
+        "options": {
+            "A": "225",
+            "B": "233",
+            "C": "370",
+            "D": "391"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.40087761831284296,
+            "B": 0.1055642519440912,
+            "C": 0.38730085582945656,
+            "D": 0.07600418324064029,
+            "Omitted": 0.030253090672968986
+        }
+    },
+    {
+        "question_id": "1990-4M7 #15 M015101",
+        "question": "Students in Mrs. Johnson's class were asked to tell why 45 is greater than 23. Whose reason is best?",
+        "options": {
+            "A": "Kelly said, \"Because 4 is greater than 2.\"",
+            "B": "Keri said, \"Because 5 is larger than 3.\"",
+            "C": "Kim said, \"Because 45 is closer than 23 to 1.\"",
+            "D": "Kevin said, \"Because 4+5 is more than 2+3.\""
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.2598153997978142,
+            "B": 0.17308447634319615,
+            "C": 0.3505974143575961,
+            "D": 0.1909298367655211,
+            "Omitted": 0.025572872735872387
+        }
+    },
+    {
+        "question_id": "1990-4M7 #16 M015201",
+        "question": "Max bought 50 plants for his garden. He plans to put 8 plants in each row. How many complete rows of 8 can he plant?",
+        "options": {
+            "A": "6 rows",
+            "B": "7 rows",
+            "C": "8 rows",
+            "D": "16 rows"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.34543480450911884,
+            "B": 0.1404279268722223,
+            "C": 0.2080009988711733,
+            "D": 0.28411945977160563,
+            "Omitted": 0.022016809975879893
+        }
+    },
+    {
+        "question_id": "1990-4M7 #17 N230501",
+        "question": "When you subtract one of these numbers from 900, the answer is greater than 400. Which number is it?",
+        "options": {
+            "A": "712",
+            "B": "667",
+            "C": "579",
+            "D": "459"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.1112714657645864,
+            "B": 0.10606676424274739,
+            "C": 0.26331806917846756,
+            "D": 0.5004043227942303,
+            "Omitted": 0.01893937801996841
+        }
+    },
+    {
+        "question_id": "2003-4M7 #1 M010231",
+        "question": "184÷115= Did you use the calculator on this question?",
+        "options": {
+            "A": "16",
+            "B": "1.625",
+            "C": "1.6",
+            "D": "0.625"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.14918295371438237,
+            "B": 0.024839247229116013,
+            "C": 0.7932850919872609,
+            "D": 0.017039307410340283,
+            "Omitted": 0.01565339965890039
+        }
+    },
+    {
+        "question_id": "2003-4M7 #2 M072101",
+        "question": "Rudy takes a 2-mile walk along a nature trail. Which of the following is a reasonable amount of time for Rudy to take to walk the trail?",
+        "options": {
+            "A": "60 seconds",
+            "B": "60 minutes",
+            "C": "60 hours",
+            "D": "60 days"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.055526264261391775,
+            "B": 0.8755783411975494,
+            "C": 0.04981646748917118,
+            "D": 0.008533763934103189,
+            "Omitted": 0.010545163117784495
+        }
+    },
+    {
+        "question_id": "2003-4M7 #7 M039401",
+        "question": "Sally is shorter than Ronnie. Sally is taller than Michael. Denise's height is between Sally's height and Ronnie's height. Who is the shortest person?",
+        "options": {
+            "A": "Denise",
+            "B": "Michael",
+            "C": "Ronnie",
+            "D": "Sally"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.10168525720768005,
+            "B": 0.6516813309535481,
+            "C": 0.10449071636072865,
+            "D": 0.13163943264685926,
+            "Omitted": 0.010503262831183904
+        }
+    },
+    {
+        "question_id": "2003-4M7 #8 M010431",
+        "question": "At a picnic cider is served in cups. If 1 pint will fill 2 cups, how many cups can be filled from 8 pints of cider?",
+        "options": {
+            "A": "4",
+            "B": "8",
+            "C": "11",
+            "D": "16"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.21234869497385117,
+            "B": 0.060656551378226994,
+            "C": 0.10341370124177067,
+            "D": 0.6082736233328538,
+            "Omitted": 0.015307429073297296
+        }
+    },
+    {
+        "question_id": "2003-4M7 #11 N240031",
+        "question": "Pat has 3 fish bowls. There are 4 plants and 5 fish in each bowl. Which gives the total number of fish?",
+        "options": {
+            "A": "3+5",
+            "B": "3×4",
+            "C": "3×5",
+            "D": "3+4+5"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.07190719002764827,
+            "B": 0.07048528505807794,
+            "C": 0.5653864178206551,
+            "D": 0.27548908458732374,
+            "Omitted": 0.016732022506294898
+        }
+    },
+    {
+        "question_id": "2003-8M7 #2 M011131",
+        "question": "The Breakfast Barn bought 135 dozen eggs at $0.89 per dozen. What was the total cost of the eggs?",
+        "options": {
+            "A": "$116.75",
+            "B": "$120.15",
+            "C": "$135.89",
+            "D": "$151.69"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.0167348297931181,
+            "B": 0.8452641779048556,
+            "C": 0.04739182954660301,
+            "D": 0.07857382535032406,
+            "Omitted": 0.012035337405099242
+        }
+    },
+    {
+        "question_id": "2003-4M7 #14 M087101",
+        "question": "Kirstin wants to buy a flute that costs $240. She has saved $20 each week for 3 weeks. How many more weeks does Kirstin need to save money if she continues to save $20 each week?",
+        "options": {
+            "A": "9 weeks",
+            "B": "10 weeks",
+            "C": "11 weeks",
+            "D": "12 weeks"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.38630327425175176,
+            "B": 0.14654500592745218,
+            "C": 0.09516415874241403,
+            "D": 0.34783200414774174,
+            "Omitted": 0.024155556930640292
+        }
+    },
+    {
+        "question_id": "2003-4M7 #16 M010531",
+        "question": "In Jean's class there are twice as many boys as girls. If there are 10 girls in the class, how many boys and girls are there in the class?",
+        "options": {
+            "A": "15",
+            "B": "20",
+            "C": "25",
+            "D": "30"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.06888783060025523,
+            "B": 0.5266150213652946,
+            "C": 0.04679372480422998,
+            "D": 0.3411557705908244,
+            "Omitted": 0.01654765263939584
+        }
+    },
+    {
+        "question_id": "2003-4M7 #17 M010931",
+        "question": "Ted went to the beach at 10:30 a.m. and came home at 2:00 p.m. How many hours was he gone?",
+        "options": {
+            "A": "812",
+            "B": "412",
+            "C": "312",
+            "D": "212"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.11005208462863586,
+            "B": 0.3750448393474446,
+            "C": 0.3992489519022172,
+            "D": 0.09539634368461883,
+            "Omitted": 0.020257780437083525
+        }
+    },
+    {
+        "question_id": "2013-4M7 #12 M160001",
+        "question": "There are 22 students in a class.There are 12 girls in the class.What is the ratio of the number of boys to the number of girls in the class?",
+        "options": {
+            "A": "10 to 12",
+            "B": "10 to 22",
+            "C": "12 to 10",
+            "D": "22 to 12"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.5034729353697972,
+            "B": 0.10036031020813022,
+            "C": 0.20622428301186935,
+            "D": 0.17049148737265832,
+            "Omitted": 0.01945098403754496
+        }
+    },
+    {
+        "question_id": "2011-4M8 #1 M010131",
+        "question": "(47×75)÷25= Did you use the calculator on this question?",
+        "options": {
+            "A": "141",
+            "B": "1,175",
+            "C": "3,525",
+            "D": "4,700"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.8341041224061735,
+            "B": 0.02463983776395379,
+            "C": 0.11270253127086839,
+            "D": 0.009767725485172109,
+            "Omitted": 0.018785783073832225
+        }
+    },
+    {
+        "question_id": "2011-4M8 #3 M039101",
+        "question": "Which unit would probably be used to measure the length of a book?",
+        "options": {
+            "A": "Inches",
+            "B": "Yards",
+            "C": "Square inches",
+            "D": "Square yards"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.8213339328643486,
+            "B": 0.02401498240637223,
+            "C": 0.1315015409993475,
+            "D": 0.010211171409844854,
+            "Omitted": 0.012938372320086744
+        }
+    },
+    {
+        "question_id": "2011-4M8 #4 M086701",
+        "question": "Park School has 316 students. For field day, the students are put into 4 teams with the same number of students on each team. How many students are on each team?",
+        "options": {
+            "A": "79",
+            "B": "312",
+            "C": "320",
+            "D": "1,264"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.7459737636611137,
+            "B": 0.03487564446871373,
+            "C": 0.07190291839692937,
+            "D": 0.12797469988189328,
+            "Omitted": 0.019272973591350065
+        }
+    },
+    {
+        "question_id": "2011-4M8 #7 M010831",
+        "question": "Patty expects that each tomato plant in her garden will bear 24 tomatoes. If there are 6 tomato plants in her garden, how many tomatoes does she expect?",
+        "options": {
+            "A": "4",
+            "B": "18",
+            "C": "30",
+            "D": "144"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.2561504297398642,
+            "B": 0.07840629205820225,
+            "C": 0.12102300341677757,
+            "D": 0.5311785660069672,
+            "Omitted": 0.013241708778188734
+        }
+    },
+    {
+        "question_id": "2011-4M8 #16 M066001",
+        "question": "Which unit would be best to measure the amount of liquid in a spoonful of lemon juice?",
+        "options": {
+            "A": "Milliliters",
+            "B": "Liters",
+            "C": "Millimeters",
+            "D": "Meters"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.4149500655051127,
+            "B": 0.28909021197618345,
+            "C": 0.16042471406107744,
+            "D": 0.1086687542004174,
+            "Omitted": 0.02686625425720897
+        }
+    },
+    {
+        "question_id": "2011-4M8 #18 M091301",
+        "question": "Amy wants to put 8 gallons of water into her aquarium. She has a 2-quart pitcher to carry water from the sink. How many times will she need to fill her pitcher?",
+        "options": {
+            "A": "4",
+            "B": "10",
+            "C": "16",
+            "D": "32"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.32307004830827574,
+            "B": 0.1951645686058537,
+            "C": 0.3222503131339345,
+            "D": 0.14089758830219942,
+            "Omitted": 0.018617481649736613
+        }
+    },
+    {
+        "question_id": "1990-4M9 #2 M025631",
+        "question": "Which statement is true?",
+        "options": {
+            "A": "352>759",
+            "B": "442>436",
+            "C": "518>819",
+            "D": "883<794"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.0751435488570819,
+            "B": 0.7091089608528527,
+            "C": 0.05262584068352795,
+            "D": 0.13497215142143035,
+            "Omitted": 0.028149498185107126
+        }
+    },
+    {
+        "question_id": "1990-4M9 #6 M026031",
+        "question": "If the sum of 39 and 66 is divided by 3, the result is",
+        "options": {
+            "A": "35",
+            "B": "61",
+            "C": "79",
+            "D": "315"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.49046750139159195,
+            "B": 0.09020599083381282,
+            "C": 0.11405283497117591,
+            "D": 0.2524333925892988,
+            "Omitted": 0.0528402802141205
+        }
+    },
+    {
+        "question_id": "1990-4M9 #9 M026331",
+        "question": "On a flight from Los Angeles to New York, the cost of a fare was $400. Every seat was sold. What additional information do you need to find the total for all fares?",
+        "options": {
+            "A": "None",
+            "B": "The number of employees on the plane",
+            "C": "The number of passenger seats on the plane",
+            "D": "The distance from Los Angeles to New York"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.11126935742133058,
+            "B": 0.0864387142823489,
+            "C": 0.5951303075662588,
+            "D": 0.17311407699401843,
+            "Omitted": 0.034047543736043274
+        }
+    },
+    {
+        "question_id": "1990-4M9 #11 M026531",
+        "question": "The difference between 85 and 53 is 32. Meredith added some number to 85 and then added the same number to 53. What would be the difference between the two new numbers?",
+        "options": {
+            "A": "More than 32",
+            "B": "Less than 32",
+            "C": "32",
+            "D": "It depends on the number added to 85 and 53."
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.28676632763935284,
+            "B": 0.11799835697709721,
+            "C": 0.19033167282129193,
+            "D": 0.35821658807664364,
+            "Omitted": 0.04668705448561438
+        }
+    },
+    {
+        "question_id": "1996-4M9 #3 M040501",
+        "question": "N stands for the number of stamps John had. He gave 12 stamps to his sister. Which expression tells how many stamps John has now?",
+        "options": {
+            "A": "N+12",
+            "B": "N-12",
+            "C": "12-N",
+            "D": "12×N"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.12459394440600398,
+            "B": 0.669362348701406,
+            "C": 0.15109455922026008,
+            "D": 0.034679203815258956,
+            "Omitted": 0.020269943857070986
+        }
+    },
+    {
+        "question_id": "1996-4M9 #9 M041101",
+        "question": "There are 3 fifth graders and 2 sixth graders on the swim team. Everyone's name is put in a hat and the captain is chosen by picking one name. What are the chances that the captain will be a fifth grader?",
+        "options": {
+            "A": "l out of 5",
+            "B": "l out of 3",
+            "C": "3 out of 5",
+            "D": "2 out of 3"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.2246746832032363,
+            "B": 0.16441429642711403,
+            "C": 0.31169944217277246,
+            "D": 0.28288162564512204,
+            "Omitted": 0.01632995255175514
+        }
+    },
+    {
+        "question_id": "2007-4M9 #1 M042801",
+        "question": "Which of the following could be the length of the pencil you use in school?",
+        "options": {
+            "A": "6 feet",
+            "B": "6 pounds",
+            "C": "6 ounces",
+            "D": "6 inches"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.04796271748027538,
+            "B": 0.010899933285663617,
+            "C": 0.04643707423189372,
+            "D": 0.8866693174280698,
+            "Omitted": 0.008030957574097436
+        }
+    },
+    {
+        "question_id": "2007-4M9 #2 M042601",
+        "question": "What number is 10 more than 5,237?",
+        "options": {
+            "A": "5,238",
+            "B": "5,247",
+            "C": "5,337",
+            "D": "6,237"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.039409178068068144,
+            "B": 0.8104377251416686,
+            "C": 0.07045402567539166,
+            "D": 0.06807580481249145,
+            "Omitted": 0.011623266302380189
+        }
+    },
+    {
+        "question_id": "2007-4M9 #5 M086801",
+        "question": "Paco had 32 trading cards. He gave N trading cards to his friend. Which expression tells how many trading cards Paco has now?",
+        "options": {
+            "A": "32+N",
+            "B": "32-N",
+            "C": "N-32",
+            "D": "32÷N"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.06539912979341628,
+            "B": 0.8132362272268457,
+            "C": 0.06299206659274433,
+            "D": 0.04119634287651761,
+            "Omitted": 0.01717623351047601
+        }
+    },
+    {
+        "question_id": "2007-4M9 #12 M067601",
+        "question": "Which of these units would be the best to use to measure the length of a school building?",
+        "options": {
+            "A": "Millimeters",
+            "B": "Centimeters",
+            "C": "Meters",
+            "D": "Kilometers"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.12166783414175895,
+            "B": 0.041878958191122646,
+            "C": 0.3990888345563974,
+            "D": 0.4218232815556198,
+            "Omitted": 0.01554109155510124
+        }
+    },
+    {
+        "question_id": "2011-4M9 #2 M159501",
+        "question": "What number is 10,000 more than 333,333?",
+        "options": {
+            "A": "333,433",
+            "B": "334,333",
+            "C": "343,333",
+            "D": "433,333"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.06181154454472,
+            "B": 0.06182593384946307,
+            "C": 0.5533732024427835,
+            "D": 0.3114275752834668,
+            "Omitted": 0.011561743879566506
+        }
+    },
+    {
+        "question_id": "2011-4M9 #5 M154401",
+        "question": "Add: 20,000 + 790,000 =",
+        "options": {
+            "A": "792,000",
+            "B": "810,000",
+            "C": "811,000",
+            "D": "990,000"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.017609838227619308,
+            "B": 0.7992491779039451,
+            "C": 0.02699145164320448,
+            "D": 0.14240027027481253,
+            "Omitted": 0.01374926195041856
+        }
+    },
+    {
+        "question_id": "2003-4M10 #1 M090501",
+        "question": "Which of the following is usually measured in feet?",
+        "options": {
+            "A": "The thickness of a coin",
+            "B": "The length of a paper clip",
+            "C": "The length of a car",
+            "D": "The distance between New York City and Chicago"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.045258760520441775,
+            "B": 0.16221570968798193,
+            "C": 0.6839978874895947,
+            "D": 0.10174542065776727,
+            "Omitted": 0.006782221644214333
+        }
+    },
+    {
+        "question_id": "2003-4M10 #2 M047401",
+        "question": "Which of the following has only 3 angles?",
+        "options": {
+            "A": "A triangle",
+            "B": "A square",
+            "C": "A rectangle",
+            "D": "A cube"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.9498516802734841,
+            "B": 0.01446238098161719,
+            "C": 0.01719881486444726,
+            "D": 0.011795356219421856,
+            "Omitted": 0.006691767661029619
+        }
+    },
+    {
+        "question_id": "2003-4M10 #3 M090601",
+        "question": "Ron was listening to the radio and heard, \"One hundred twenty-four thousand sixty-five books have been donated to the library.\" What is this number?",
+        "options": {
+            "A": "12,465",
+            "B": "124,065",
+            "C": "124,650",
+            "D": "100,024,065"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.03771986278402284,
+            "B": 0.7659270047988475,
+            "C": 0.08988976998956946,
+            "D": 0.10113037516850508,
+            "Omitted": 0.005332987259055142
+        }
+    },
+    {
+        "question_id": "2003-4M10 #4 M042701",
+        "question": "Which of the following would be used to find the weight of an apple?",
+        "options": {
+            "A": "A measuring cup",
+            "B": "A ruler",
+            "C": "A scale",
+            "D": "A thermometer"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.058679807530507014,
+            "B": 0.056790303370639034,
+            "C": 0.8520841857096058,
+            "D": 0.02369548188058581,
+            "Omitted": 0.008750221508662346
+        }
+    },
+    {
+        "question_id": "2003-4M10 #7 M090701",
+        "question": "On Thursday Becky made some popcorn balls.On Friday she made 6 popcorn balls.On Saturday she made 12 popcorn balls.Becky took all 23 popcorn balls that she made to a party.How many popcorn balls did she make on Thursday?",
+        "options": {
+            "A": "5",
+            "B": "11",
+            "C": "17",
+            "D": "41"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.7825391697699167,
+            "B": 0.05447089128818134,
+            "C": 0.048441716830618174,
+            "D": 0.1016476796341676,
+            "Omitted": 0.01290054247711623
+        }
+    },
+    {
+        "question_id": "2003-4M10 #11 M042901",
+        "question": "4×0×5×9=",
+        "options": {
+            "A": "0",
+            "B": "36",
+            "C": "45",
+            "D": "180"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.5338042360750082,
+            "B": 0.021309119442849342,
+            "C": 0.3168141982455335,
+            "D": 0.11076792193071044,
+            "Omitted": 0.01730452430589865
+        }
+    },
+    {
+        "question_id": "2003-4M10 #15 M039901",
+        "question": "Estela wants to buy 2 notebooks that cost $2.79 each, including tax. If she has one-dollar bills and no coins, how many one-dollar bills does she need?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.40974466835057444,
+            "B": 0.12671745391200978,
+            "C": 0.1391070263804703,
+            "D": 0.3058048197877113,
+            "Omitted": 0.01862603156923429
+        }
+    },
+    {
+        "question_id": "2009-4M10 #1 M137201",
+        "question": "301–",
+        "options": {
+            "A": "75",
+            "B": "226",
+            "C": "235",
+            "D": "236"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.6724928479710699,
+            "B": 0.05487064241781833,
+            "C": 0.1424043340404102,
+            "D": 0.11291693590411468,
+            "Omitted": 0.01731523966658694
+        }
+    },
+    {
+        "question_id": "2009-4M10 #3 M137401",
+        "question": "Michelle has a container with 3 quarts of juice. She pours 1 cup of juice for each person. At most, how many people can she serve? (1 quart = 4 cups)",
+        "options": {
+            "A": "4",
+            "B": "7",
+            "C": "8",
+            "D": "12"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.19197652337473026,
+            "B": 0.05652683112123797,
+            "C": 0.06966438595626748,
+            "D": 0.671516726884208,
+            "Omitted": 0.010315532663556193
+        }
+    },
+    {
+        "question_id": "2009-4M10 #6 M137701",
+        "question": "It takes Ms. Wylie 15 minutes to drive from her house to the store. Which is the best estimate of the distance from her house to the store?",
+        "options": {
+            "A": "5 feet",
+            "B": "5 miles",
+            "C": "20 feet",
+            "D": "200 miles"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.056262888747570884,
+            "B": 0.7093444301363726,
+            "C": 0.20318132997913532,
+            "D": 0.021994040054044945,
+            "Omitted": 0.009217311082876236
+        }
+    },
+    {
+        "question_id": "2007-4M11 #3 M095901",
+        "question": "The numbers in the pattern above are increasing by 12. Which of these numbers is part of the pattern?",
+        "options": {
+            "A": "52",
+            "B": "58",
+            "C": "60",
+            "D": "62"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.30254061962609574,
+            "B": 0.039093670194473275,
+            "C": 0.07572316128018793,
+            "D": 0.5471148093472714,
+            "Omitted": 0.035527739551971645
+        }
+    },
+    {
+        "question_id": "2007-4M11 #5 M096101",
+        "question": "By how much will the value of the number 4,372 increase if the 3 is replaced with a 9?",
+        "options": {
+            "A": "6",
+            "B": "60",
+            "C": "600",
+            "D": "6,000"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.138866866457101,
+            "B": 0.08377919709766493,
+            "C": 0.6195108306254585,
+            "D": 0.13969946602751762,
+            "Omitted": 0.01814363979225794
+        }
+    },
+    {
+        "question_id": "2007-4M11 #9 M096701",
+        "question": "Which of these would be easiest to solve by using mental math?",
+        "options": {
+            "A": "$65.12 - $28.19",
+            "B": "358 x 2",
+            "C": "1,625 ÷ 3",
+            "D": "$100.00 + $10.00"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.06340030325762716,
+            "B": 0.16622583059400362,
+            "C": 0.03945570671700529,
+            "D": 0.7140245364960098,
+            "Omitted": 0.016893622935354038
+        }
+    },
+    {
+        "question_id": "2007-4M11 #11 M096901",
+        "question": "The Ben Franklin Bridge was 75 years old in 2001. In what year was the bridge 50 years old?",
+        "options": {
+            "A": "1951",
+            "B": "1976",
+            "C": "1984",
+            "D": "1986"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.39035393698790216,
+            "B": 0.3608270697615484,
+            "C": 0.09817838551207499,
+            "D": 0.1379039731300732,
+            "Omitted": 0.012736634608401319
+        }
+    },
+    {
+        "question_id": "2007-4M11 #13 M097101",
+        "question": "Which number is forty-five and six hundredths?",
+        "options": {
+            "A": "45.6",
+            "B": "45.06",
+            "C": "456.0",
+            "D": "645.0"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.284860023966299,
+            "B": 0.40856223258168034,
+            "C": 0.13813806047776253,
+            "D": 0.15987619021677726,
+            "Omitted": 0.008563492757480803
+        }
+    },
+    {
+        "question_id": "2007-4M11 #15 M097301",
+        "question": "Stickers come in small booklets of 100 and in rolls of 1,000. On the store shelf, there are 6 booklets and 4 rolls of stickers. How many stickers are on the shelf?",
+        "options": {
+            "A": "1,100",
+            "B": "4,600",
+            "C": "6,400",
+            "D": "10,000"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.1481056162402548,
+            "B": 0.592499259857384,
+            "C": 0.1474054290386785,
+            "D": 0.1042307004145276,
+            "Omitted": 0.007758994449155048
+        }
+    },
+    {
+        "question_id": "1992-4M12 #2 M041401",
+        "question": "What is 18,565 rounded to the nearest thousand?",
+        "options": {
+            "A": "18,000",
+            "B": "18,600",
+            "C": "19,000",
+            "D": "20,000"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.07864899086591243,
+            "B": 0.24452561289061608,
+            "C": 0.5987532231286629,
+            "D": 0.05820609771877005,
+            "Omitted": 0.019866075396038633
+        }
+    },
+    {
+        "question_id": "1992-4M12 #3 M041501",
+        "question": "A store sells 168 tapes each week. How many tapes does it sell in 24 weeks?",
+        "options": {
+            "A": "7",
+            "B": "192",
+            "C": "4,032",
+            "D": "4,172"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.13701240669242254,
+            "B": 0.2619462048250501,
+            "C": 0.5536813610330565,
+            "D": 0.0302818860217826,
+            "Omitted": 0.017078141427688237
+        }
+    },
+    {
+        "question_id": "1996-4M12 #1 M068301",
+        "question": "Kitty is taking a trip on which she plans to drive 300 miles each day. Her trip is 1,723 miles long. She has already driven 849 miles. How much farther must she drive?",
+        "options": {
+            "A": "574 miles",
+            "B": "874 miles",
+            "C": "1,423 miles",
+            "D": "2,872 miles"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.11753141866031205,
+            "B": 0.6416977811848803,
+            "C": 0.10487987540413109,
+            "D": 0.11614849233936499,
+            "Omitted": 0.019742432411311676
+        }
+    },
+    {
+        "question_id": "1996-4M12 #2 M068401",
+        "question": "A whole number is multiplied by 5. Which of these could be the result?",
+        "options": {
+            "A": "652",
+            "B": "562",
+            "C": "526",
+            "D": "265"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.10731937883014474,
+            "B": 0.16671862279359284,
+            "C": 0.12383749460979392,
+            "D": 0.536873217167655,
+            "Omitted": 0.06525128659881343
+        }
+    },
+    {
+        "question_id": "1996-4M12 #6 M068801",
+        "question": "Every hour, a company makes 8,400 paper plates and puts them in packages of 15 plates each. How many packages are made in one hour?",
+        "options": {
+            "A": "560",
+            "B": "8,385",
+            "C": "17,857",
+            "D": "126,000"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.4953889340177303,
+            "B": 0.2090832342624271,
+            "C": 0.06864708510374944,
+            "D": 0.19889184461238432,
+            "Omitted": 0.02798890200370883
+        }
+    },
+    {
+        "question_id": "2005-4M12 #1 M099701",
+        "question": "Which of these is equal to 8,000+800+8?",
+        "options": {
+            "A": "8,088",
+            "B": "8,808",
+            "C": "8,880",
+            "D": "8,888"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.030089733120643797,
+            "B": 0.8615081749914717,
+            "C": 0.06072655724725329,
+            "D": 0.04213037086236383,
+            "Omitted": 0.00554516377826744
+        }
+    },
+    {
+        "question_id": "2005-4M12 #2 M099801",
+        "question": "46-16=",
+        "options": {
+            "A": "3",
+            "B": "36",
+            "C": "30",
+            "D": "56"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.0652556262235351,
+            "B": 0.5301884848989786,
+            "C": 0.22350891249702656,
+            "D": 0.16707286930962897,
+            "Omitted": 0.013974107070830752
+        }
+    },
+    {
+        "question_id": "2005-4M12 #3 M099901",
+        "question": "24÷(6÷2)=",
+        "options": {
+            "A": "8",
+            "B": "6",
+            "C": "3",
+            "D": "2"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.5722562459511219,
+            "B": 0.10179969210203652,
+            "C": 0.1808316338474246,
+            "D": 0.13322270727453528,
+            "Omitted": 0.011889720824881671
+        }
+    },
+    {
+        "question_id": "2005-4M12 #4 M100001",
+        "question": "There are 30 people in the music room. There are 74 people in the cafeteria. How many more people are in the cafeteria than the music room?",
+        "options": {
+            "A": "40",
+            "B": "44",
+            "C": "54",
+            "D": "104"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.03733197453986591,
+            "B": 0.7957407752847278,
+            "C": 0.037343565532922084,
+            "D": 0.12299270992862549,
+            "Omitted": 0.00659097471385882
+        }
+    },
+    {
+        "question_id": "2005-4M12 #5 M100101",
+        "question": "Which of these could be measured using a meter stick?",
+        "options": {
+            "A": "The length of a swimming pool",
+            "B": "The temperature of the water in a swimming pool",
+            "C": "The weight of the water in a swimming pool",
+            "D": "The number of people in a swimming pool"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.7790351195607331,
+            "B": 0.10628393150809584,
+            "C": 0.05509257093725552,
+            "D": 0.052364393411235416,
+            "Omitted": 0.007223984582679959
+        }
+    },
+    {
+        "question_id": "2005-4M12 #7 M100301",
+        "question": "Jo's recipe says to bake a cake for 25-28 minutes. About how long is this?",
+        "options": {
+            "A": "A quarter of an hour",
+            "B": "Half an hour",
+            "C": "An hour",
+            "D": "An hour and a half"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.37518837360091767,
+            "B": 0.5002474174194868,
+            "C": 0.05917502455899348,
+            "D": 0.06056330565699954,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "2005-4M12 #8 M100401",
+        "question": "Luis had two apples and he cut each apple into fifths. How many pieces of apple did he have?",
+        "options": {
+            "A": "25",
+            "B": "2",
+            "C": "5",
+            "D": "10"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.3628206917520991,
+            "B": 0.026829862174800375,
+            "C": 0.06655497575153929,
+            "D": 0.5338370347722429,
+            "Omitted": 0.009957435549318421
+        }
+    },
+    {
+        "question_id": "2005-4M12 #10 M100601",
+        "question": "In a gumball machine there are 100 red, 75 blue, 50 green, and 125 yellow gumballs. These 350 gumballs are mixed up. Sam puts money in and one gumball comes out. Which color is most likely to come out?",
+        "options": {
+            "A": "Red",
+            "B": "Blue",
+            "C": "Green",
+            "D": "Yellow"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.042862761817824654,
+            "B": 0.01571613689694316,
+            "C": 0.025936854674968347,
+            "D": 0.9121091815780121,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "2005-4M12 #12 M100801",
+        "question": "N stands for the number of hours of sleep Ken gets each night. Which of the following represents the number of hours of sleep Ken gets in 1 week?",
+        "options": {
+            "A": "N+7",
+            "B": "N-7",
+            "C": "N×7",
+            "D": "N÷7"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.2609906547911432,
+            "B": 0.03689794371694465,
+            "C": 0.6127195240020468,
+            "D": 0.07557071976847847,
+            "Omitted": 0.01382115772138698
+        }
+    },
+    {
+        "question_id": "2005-4M12 #16 M101201",
+        "question": "Sue bought a notebook for $3.59. She gave the clerk a $5 bill. Which of these is the correct amount of change?",
+        "options": {
+            "A": "One dollar, four dimes, and a penny",
+            "B": "One dollar, five dimes, and a penny",
+            "C": "Two dollars, four dimes, and a penny",
+            "D": "Two dollars, five dimes, and nine pennies"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.47934383813233,
+            "B": 0.08026756426858822,
+            "C": 0.19293656257747174,
+            "D": 0.2306138816728852,
+            "Omitted": 0.01683815334872493
+        }
+    },
+    {
+        "question_id": "2011-4M12 #1 M148201",
+        "question": "Ralph needs to know the length of the floor in his room. Which of these tools should he use to find the length?",
+        "options": {
+            "A": "Balance scale",
+            "B": "Compass",
+            "C": "Tape measure",
+            "D": "Thermometer"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.032566763797886755,
+            "B": 0.01995066265363218,
+            "C": 0.916237014530065,
+            "D": 0.01793442573156601,
+            "Omitted": 0.01331113328685008
+        }
+    },
+    {
+        "question_id": "2011-4M12 #3 M148401",
+        "question": "n+4=12 What value of n makes the number sentence true?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "8",
+            "D": "16"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.033890215780082125,
+            "B": 0.023108421605793437,
+            "C": 0.9036697390165034,
+            "D": 0.02130646296983578,
+            "Omitted": 0.01802516062778529
+        }
+    },
+    {
+        "question_id": "2011-4M12 #6 M148701",
+        "question": "74×16",
+        "options": {
+            "A": "90",
+            "B": "518",
+            "C": "1,164",
+            "D": "1,184"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.11232855341032437,
+            "B": 0.16835781713691517,
+            "C": 0.1505711655638784,
+            "D": 0.522282583492921,
+            "Omitted": 0.04645988039596103
+        }
+    },
+    {
+        "question_id": "2011-4M12 #13 M149401",
+        "question": "Ms. Kim has 45 stickers that she wants to give out to 6 students. The students are sitting in a circle. Ms. Kim gives out one sticker at a time and keeps going around the circle until all the stickers are gone. How many of the students will get more than 7 stickers?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "6"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.11728074465047979,
+            "B": 0.4732240586750177,
+            "C": 0.16775513730616357,
+            "D": 0.22676830154072147,
+            "Omitted": 0.014971757827617503
+        }
+    },
+    {
+        "question_id": "2011-4M12 #15 M149601",
+        "question": "Each of the 18 students in Mr. Hall's class has p pencils. Which expression represents the total number of pencils that Mr. Hall's class has?",
+        "options": {
+            "A": "18+p",
+            "B": "18-p",
+            "C": "18×p",
+            "D": "18÷p"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.36823551728849785,
+            "B": 0.07780909816062674,
+            "C": 0.34731862648639916,
+            "D": 0.1906376087600783,
+            "Omitted": 0.015999149304397938
+        }
+    },
+    {
+        "question_id": "1992-4M14 #6 M044101",
+        "question": "Mario sells 80 pencils a day from his supply of 1,000 pencils. Which of the following is true?",
+        "options": {
+            "A": "He will run out of pencils in 7 days.",
+            "B": "He will have enough pencils to sell 80 each day for at least 10 days.",
+            "C": "He will have enough pencils to sell 80 each day for at least 80 days.",
+            "D": "He will have enough pencils to sell 80 each day for at least 100 days."
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.15656050224576554,
+            "B": 0.46954803199947276,
+            "C": 0.1630673173169713,
+            "D": 0.1807868769981614,
+            "Omitted": 0.03003727143962899
+        }
+    },
+    {
+        "question_id": "1992-4M14 #9 M044301",
+        "question": "A package of birdseed costs $2.58 for 2 pounds. A package of sunflower seeds costs $3.72 for 3 pounds. What is the difference in the cost per pound?",
+        "options": {
+            "A": "$0.05",
+            "B": "$1.14",
+            "C": "$1.24",
+            "D": "$1.29"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.07933208525022306,
+            "B": 0.5887174765206189,
+            "C": 0.14317159689846645,
+            "D": 0.16565418584355385,
+            "Omitted": 0.023124655487137755
+        }
+    },
+    {
+        "question_id": "1992-8M15 #1 M048101",
+        "question": "Which of the following is closest to 15 seconds?",
+        "options": {
+            "A": "14.1 seconds",
+            "B": "14.7 seconds",
+            "C": "14.9 seconds",
+            "D": "15.2 seconds"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.015963299766320115,
+            "B": 0.005286425983663088,
+            "C": 0.9218133037761069,
+            "D": 0.050495663171226994,
+            "Omitted": 0.0064413073026828825
+        }
+    },
+    {
+        "question_id": "1992-8M15 #5 M048501",
+        "question": "The length of a trail that Pat hiked in one day could have been",
+        "options": {
+            "A": "5 milliliters",
+            "B": "5 centimeters",
+            "C": "5 meters",
+            "D": "5 kilometers"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.031462062228991006,
+            "B": 0.027659771060898404,
+            "C": 0.13368312585429704,
+            "D": 0.8033377572992115,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "1992-8M15 #6 M048601",
+        "question": "A club held a car wash and washed 21 cars. If the club raised $84, how much did it charge per car?",
+        "options": {
+            "A": "$0.25",
+            "B": "$4.00",
+            "C": "$5.00",
+            "D": "$1,764.00"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.025630635811443057,
+            "B": 0.9215520194735395,
+            "C": 0.02528254752133018,
+            "D": 0.024174947059496233,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "1996-8M3 #1 M049901",
+        "question": "Which of the following numbers, when rounded to the nearest thousand, becomes 27,000?",
+        "options": {
+            "A": "26,099",
+            "B": "26,490",
+            "C": "27,381",
+            "D": "27,550",
+            "E": "27,640"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.09608997332333552,
+            "B": 0.12747707413814358,
+            "C": 0.6769212390163404,
+            "D": 0.030375641065257242,
+            "E": 0.05600689701200854,
+            "Omitted": 0.013129175444914785
+        }
+    },
+    {
+        "question_id": "1996-8M3 #3 M050101",
+        "question": "(-5)(-7)=",
+        "options": {
+            "A": "-35",
+            "B": "-12",
+            "C": "-2",
+            "D": "12",
+            "E": "35"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.20098755549041783,
+            "B": 0.14125342619866418,
+            "C": 0.09608938238348294,
+            "D": 0.05306523398487022,
+            "E": 0.5041397022859818,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "1996-8M3 #5 M050301",
+        "question": "Of the following, which is the closest approximation of a 15 percent tip on a restaurant check of $24.99?",
+        "options": {
+            "A": "$2.50",
+            "B": "$3.00",
+            "C": "$3.75",
+            "D": "$4.50",
+            "E": "$5.00"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.21301554510336673,
+            "B": 0.20063564327552597,
+            "C": 0.37683965639014194,
+            "D": 0.09454598415823522,
+            "E": 0.10504526955711736,
+            "Omitted": 0.009917901515612731
+        }
+    },
+    {
+        "question_id": "1996-8M3 #6 M050401",
+        "question": "A poll is being taken at Baker Junior High School to determine whether to change the school mascot. Which of the following would be the best place to find a sample of students to interview that would be most representative of the entire student body?",
+        "options": {
+            "A": "An algebra class",
+            "B": "The cafeteria",
+            "C": "The guidance office",
+            "D": "A French class",
+            "E": "The faculty room"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.10778549191637986,
+            "B": 0.6529962241190824,
+            "C": 0.09715172318072028,
+            "D": 0.009718300609222155,
+            "E": 0.12555563480373008,
+            "Omitted": 0.006792625370865161
+        }
+    },
+    {
+        "question_id": "1996-8M3 #8 M050601",
+        "question": "Which of the following ordered pairs (x,y) is a solution to the equation 2x-3y=6 ?",
+        "options": {
+            "A": "(6, 3)",
+            "B": "(3, 0)",
+            "C": "(3, 2)",
+            "D": "(2, 3)",
+            "E": "(0, 3)"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.15909902771329998,
+            "B": 0.41476412995839207,
+            "C": 0.15890759264957252,
+            "D": 0.20720434284751835,
+            "E": 0.040265590544388614,
+            "Omitted": 0.019759316286828452
+        }
+    },
+    {
+        "question_id": "1996-8M3 #9 M050701",
+        "question": "A plumber charges customers $48 for each hour worked plus an additional $9 for travel. If h represents the number of hours worked, which of the following expressions could be used to calculate the plumber's total charge in dollars?",
+        "options": {
+            "A": "48+9+h",
+            "B": "48×9×h",
+            "C": "48+(9×h)",
+            "D": "(48×9)+h",
+            "E": "(48×h)+9"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.15010977126106792,
+            "B": 0.07576342950139273,
+            "C": 0.11368827990342074,
+            "D": 0.07955647570894009,
+            "E": 0.5766058528683782,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "2005-8M3 #5 M066201",
+        "question": "Ravi has more tapes than magazines. He has fewer tapes than books. Which of the following lists these items from the greatest in number to the least in number?",
+        "options": {
+            "A": "Books, magazines, tapes",
+            "B": "Books, tapes, magazines",
+            "C": "Magazines, books, tapes",
+            "D": "Tapes, magazines, books"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.022684849935940596,
+            "B": 0.8603234330727454,
+            "C": 0.04745327125916314,
+            "D": 0.06130591894055887,
+            "Omitted": 0.008232526791591904
+        }
+    },
+    {
+        "question_id": "2005-8M3 #7 M046201",
+        "question": "Amanda wants to paint each face of a cube a different color. How many colors will she need?",
+        "options": {
+            "A": "Three",
+            "B": "Four",
+            "C": "Six",
+            "D": "Eight"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.06485265500269793,
+            "B": 0.070744568388018,
+            "C": 0.793595991968069,
+            "D": 0.060488793193306224,
+            "Omitted": 0.010317991447908886
+        }
+    },
+    {
+        "question_id": "2005-8M3 #8 M066401",
+        "question": "Which piece of information is NOT needed to solve the problem below? You do not have to solve the problem. Carlos is planning to buy food for his 2 dogs. The food he buys must last for 4 weeks. Each dog eats 1 can of dog food and 3 dog biscuits every day. How many cans of dog food does Carlos need to buy?",
+        "options": {
+            "A": "Carlos has 2 dogs.",
+            "B": "The food must last 4 weeks.",
+            "C": "Each dog eats 1 can of dog food every day.",
+            "D": "Each dog eats 3 biscuits every day."
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.11383987795077025,
+            "B": 0.16110808401876323,
+            "C": 0.06657833392374082,
+            "D": 0.6299056473436575,
+            "Omitted": 0.028568056763068242
+        }
+    },
+    {
+        "question_id": "2005-8M3 #10 M067401",
+        "question": "In the equation y = 4x, if the value of x is increased by 2, what is the effect on the value of y ?",
+        "options": {
+            "A": "It is 8 more than the original amount.",
+            "B": "It is 6 more than the original amount.",
+            "C": "It is 2 more than the original amount.",
+            "D": "It is 16 times the original amount.",
+            "E": "It is 8 times the original amount."
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.3384159620993449,
+            "B": 0.09238786593841192,
+            "C": 0.4161007096492988,
+            "D": 0.04196589902162772,
+            "E": 0.09550236345459559,
+            "Omitted": 0.01562719983672104
+        }
+    },
+    {
+        "question_id": "2005-8M3 #16 M086001",
+        "question": "The mean distance from Venus to the Sun is 1.08 X 108 kilometers. Which of the following quantities is equal to this distance?",
+        "options": {
+            "A": "10,800,000 kilometers",
+            "B": "108,000,000 kilometers",
+            "C": "1,080,000,000 kilometers",
+            "D": "10,800,000,000 kilometers",
+            "E": "108,000,000,000 kilometers"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.06306958421317926,
+            "B": 0.41238184767935254,
+            "C": 0.12372060628645362,
+            "D": 0.2931647469996971,
+            "E": 0.0972998091108635,
+            "Omitted": 0.010363405710454014
+        }
+    },
+    {
+        "question_id": "2005-8M3 #17 M051901",
+        "question": "There were 90 employees in a company last year. This year the number of employees increased by 10 percent. How many employees are in the company this year?",
+        "options": {
+            "A": "9",
+            "B": "81",
+            "C": "91",
+            "D": "99",
+            "E": "100"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.09406855681398393,
+            "B": 0.04830176054146885,
+            "C": 0.05846854039369075,
+            "D": 0.36533870513842764,
+            "E": 0.4198837836653212,
+            "Omitted": 0.013938653447107676
+        }
+    },
+    {
+        "question_id": "2013-8M3 #5 M150201",
+        "question": "Rima and Eric have earned a total of 135 tokens to buy items at the school store. The ratio of the number of tokens that Rima has to the number of tokens that Eric has is 8 to 7. How many tokens does Rima have?",
+        "options": {
+            "A": "8",
+            "B": "15",
+            "C": "56",
+            "D": "72",
+            "E": "120"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.07098037756488007,
+            "B": 0.0944900600574575,
+            "C": 0.24034436343327856,
+            "D": 0.4280605800413662,
+            "E": 0.13960998070197286,
+            "Omitted": 0.026514638201044785
+        }
+    },
+    {
+        "question_id": "2013-8M3 #7 M150401",
+        "question": "Rick has earned a total of 581 points on all of his science tests. His overall test average (mean) is 83. How many tests has Rick taken?",
+        "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9",
+            "E": "10"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.08751939945517373,
+            "B": 0.6717393340320494,
+            "C": 0.11769598700312038,
+            "D": 0.07584204367645742,
+            "E": 0.03494454076790547,
+            "Omitted": 0.012258695065293528
+        }
+    },
+    {
+        "question_id": "1992-12M5 #18 M023501",
+        "question": "From a shipment of 500 batteries, a sample of 25 was selected at random and tested. If 2 batteries in the sample were found to be dead, how many dead batteries would be expected in the entire shipment?",
+        "options": {
+            "A": "10",
+            "B": "20",
+            "C": "30",
+            "D": "40",
+            "E": "50"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.1219899301614105,
+            "B": 0.220699684794382,
+            "C": 0.0812914944183992,
+            "D": 0.35719889304846253,
+            "E": 0.20401933745711895,
+            "Omitted": 0.014800660120226825
+        }
+    },
+    {
+        "question_id": "1992-8M5 #21 M023801",
+        "question": "Of the following, which is closest in value to 0.52?",
+        "options": {
+            "A": "150",
+            "B": "15",
+            "C": "14",
+            "D": "13",
+            "E": "12"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.2922426905022427,
+            "B": 0.1061155193061911,
+            "C": 0.058246946216654896,
+            "D": 0.037099066797088256,
+            "E": 0.506295777177823,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "2009-8M5 #16 M051501",
+        "question": "Which of the following is always an odd integer?",
+        "options": {
+            "A": "The product of two odd integers",
+            "B": "The product of two consecutive integers",
+            "C": "The sum of three even integers",
+            "D": "The sum of two odd integers",
+            "E": "The sum of three consecutive integers"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.3646451887177236,
+            "B": 0.17936739661903198,
+            "C": 0.1131078894749168,
+            "D": 0.1680027765445901,
+            "E": 0.15567386215910986,
+            "Omitted": 0.019202886484627663
+        }
+    },
+    {
+        "question_id": "2003-8M6 #22 M019101",
+        "question": "Length can be measured to within 0.05 centimeter accuracy by using a certain type of measuring instrument. A reading of 3.7 centimeters on this instrument means that the actual length is at least",
+        "options": {
+            "A": "3.20 centimeters",
+            "B": "3.65 centimeters",
+            "C": "3.69 centimeters",
+            "D": "3.70 centimeters",
+            "E": "3.75 centimeters"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.07059574717624706,
+            "B": 0.22219555764394022,
+            "C": 0.1029705333858307,
+            "D": 0.325203249895605,
+            "E": 0.2551504085711036,
+            "Omitted": 0.023884503327273363
+        }
+    },
+    {
+        "question_id": "2003-8M6 #23 M012731",
+        "question": "A triangle that has sides with lengths 6, 6, and 10 is called",
+        "options": {
+            "A": "acute",
+            "B": "right",
+            "C": "scalene",
+            "D": "isosceles",
+            "E": "equilateral"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.18035692209813267,
+            "B": 0.12252888534637182,
+            "C": 0.1777638539938179,
+            "D": 0.4338226126483168,
+            "E": 0.06354743491396184,
+            "Omitted": 0.021980290999399
+        }
+    },
+    {
+        "question_id": "2003-8M6 #28 M018901",
+        "question": "4, 8, 3, 2, 5, 8, 12 What is the median of the numbers above?",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7",
+            "E": "8"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.05656091848413867,
+            "B": 0.5678103434469026,
+            "C": 0.12941091923889103,
+            "D": 0.04357500964707526,
+            "E": 0.1923862276567668,
+            "Omitted": 0.010256581526225644
+        }
+    },
+    {
+        "question_id": "2013-8M6 #5 M140801",
+        "question": "One side of a rectangle is 14 meters. The perimeter of the rectangle is 44 meters. What is the area of this rectangle?",
+        "options": {
+            "A": "22 square meters",
+            "B": "64 square meters",
+            "C": "112 square meters",
+            "D": "121 square meters",
+            "E": "196 square meters"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.08308720789451245,
+            "B": 0.1856588801456348,
+            "C": 0.46601795872897706,
+            "D": 0.09888091694632463,
+            "E": 0.13119608782827252,
+            "Omitted": 0.03515894845627852
+        }
+    },
+    {
+        "question_id": "1990-12M7 #1 M015401",
+        "question": "How many hours are equal to 150 minutes?",
+        "options": {
+            "A": "112",
+            "B": "214",
+            "C": "213",
+            "D": "212",
+            "E": "256"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.11956835900995273,
+            "B": 0.06928354512440492,
+            "C": 0.1297577301254289,
+            "D": 0.5827481906914485,
+            "E": 0.08851490937887445,
+            "Omitted": 0.010127265669890554
+        }
+    },
+    {
+        "question_id": "1990-12M7 #2 M015501",
+        "question": "If 225=n500, then n =",
+        "options": {
+            "A": "10",
+            "B": "20",
+            "C": "30",
+            "D": "40",
+            "E": "50"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.08627784737495692,
+            "B": 0.2089941016758928,
+            "C": 0.044259234820919445,
+            "D": 0.4805197666780945,
+            "E": 0.16041341987365704,
+            "Omitted": 0.01953562957647935
+        }
+    },
+    {
+        "question_id": "1990-12M7 #5 M015801",
+        "question": "The average weight of 50 prize-winning tomatoes is 2.36 pounds. What is the combined weight, in pounds, of these 50 tomatoes?",
+        "options": {
+            "A": "0.0472",
+            "B": "11.8",
+            "C": "52.36",
+            "D": "59",
+            "E": "118"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.09257194152588942,
+            "B": 0.20090216448217962,
+            "C": 0.18832327648741135,
+            "D": 0.05544677523082175,
+            "E": 0.4462449314083466,
+            "Omitted": 0.016510910865351242
+        }
+    },
+    {
+        "question_id": "1990-12M7 #7 M016001",
+        "question": "What is the least whole number x for which 2x>11 ?",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "9",
+            "D": "22",
+            "E": "23"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.21090428336352993,
+            "B": 0.435449172836843,
+            "C": 0.10176819952780825,
+            "D": 0.22602989392221232,
+            "E": 0.010182988709809365,
+            "Omitted": 0.015665461639797172
+        }
+    },
+    {
+        "question_id": "1990-12M7 #9 M016201",
+        "question": "If a measurement of a rectangular box is given as 48 cubic inches, then the measurement represents the",
+        "options": {
+            "A": "distance around the top of the box",
+            "B": "length of an edge of the box",
+            "C": "surface area of the box",
+            "D": "volume of the box"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.11671243450661298,
+            "B": 0.204861746997174,
+            "C": 0.26507301480617124,
+            "D": 0.40903221155799196,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "1990-12M7 #12 M016501",
+        "question": "The least common multiple of 8, 12, and a third number is 120. Which of the following could be the third number?",
+        "options": {
+            "A": "15",
+            "B": "16",
+            "C": "24",
+            "D": "32",
+            "E": "48"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.17681581117288286,
+            "B": 0.2399487852686856,
+            "C": 0.38079854469702007,
+            "D": 0.08349536372310304,
+            "E": 0.10035818082765396,
+            "Omitted": 0.018583314310654447
+        }
+    },
+    {
+        "question_id": "1990-12M7 #15 M016801",
+        "question": "The length of a rectangle is 3 more than its width. If L represents the length, what is an expression for the width?",
+        "options": {
+            "A": "3÷L",
+            "B": "L÷3",
+            "C": "L×3",
+            "D": "L+3",
+            "E": "L-3"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.09210263390092416,
+            "B": 0.09270772951827466,
+            "C": 0.3787507388985567,
+            "D": 0.2913332193431263,
+            "E": 0.13588009479807334,
+            "Omitted": 0.009225583541044904
+        }
+    },
+    {
+        "question_id": "1990-8M7 #18 M017001",
+        "question": "There are 15 girls and 11 boys in a mathematics class. If a student is selected at random to run an errand, what is the probability that a boy will be selected?",
+        "options": {
+            "A": "426",
+            "B": "1126",
+            "C": "1526",
+            "D": "1115",
+            "E": "1511"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.07479241475496745,
+            "B": 0.3787045990498501,
+            "C": 0.10032713265520349,
+            "D": 0.34447533606881753,
+            "E": 0.10170051747116132,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "2007-8M7 #1 M143601",
+        "question": "If x = 2n + 1, what is the value of x when n = 10?",
+        "options": {
+            "A": "11",
+            "B": "13",
+            "C": "20",
+            "D": "21",
+            "E": "211"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.06287521454839969,
+            "B": 0.04828885976217241,
+            "C": 0.062370665880609216,
+            "D": 0.7957798941388171,
+            "E": 0.023525318935957093,
+            "Omitted": 0.007160046734044478
+        }
+    },
+    {
+        "question_id": "2007-8M7 #3 M143801",
+        "question": "It costs $0.25 to operate a clothes dryer for 10 minutes at a laundromat. What is the total cost to operate one clothes dryer for 30 minutes, a second for 40 minutes, and a third for 50 minutes?",
+        "options": {
+            "A": "$3.25",
+            "B": "$3.00",
+            "C": "$2.75",
+            "D": "$2.00",
+            "E": "$1.20"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.10855001462298414,
+            "B": 0.6706562101070347,
+            "C": 0.07723348044837729,
+            "D": 0.06767303084132623,
+            "E": 0.06455892115641722,
+            "Omitted": 0.011328342823860447
+        }
+    },
+    {
+        "question_id": "2007-8M7 #8 M144301",
+        "question": "Peter bought 45 sheets of plywood at a total cost of $400. He plans to sell each sheet of plywood for $15. If Peter has no other expenses, what is the fewest number of sheets he must sell to make a profit?",
+        "options": {
+            "A": "3",
+            "B": "15",
+            "C": "16",
+            "D": "26",
+            "E": "27"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.13644320133545224,
+            "B": 0.09125215010094533,
+            "C": 0.06442907954745539,
+            "D": 0.16494778951477435,
+            "E": 0.5310680920828439,
+            "Omitted": 0.01185968741852881
+        }
+    },
+    {
+        "question_id": "2007-8M7 #9 M144401",
+        "question": "The formula d = 16t 2 gives the distance d, in feet, that an object has fallen t seconds after it is dropped from a bridge. A rock was dropped from the bridge and its fall to the water took 4 seconds. According to the formula, what is the distance from the bridge to the water?",
+        "options": {
+            "A": "16 feet",
+            "B": "64 feet",
+            "C": "128 feet",
+            "D": "256 feet",
+            "E": "4,096 feet"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.10397724326838449,
+            "B": 0.17897349239967228,
+            "C": 0.09828079734719916,
+            "D": 0.49484934356943616,
+            "E": 0.11016760863035432,
+            "Omitted": 0.013751514784953572
+        }
+    },
+    {
+        "question_id": "2007-8M7 #10 M144501",
+        "question": "How many 200-milliliter servings can be poured from a pitcher that contains 2 liters of juice?",
+        "options": {
+            "A": "20",
+            "B": "15",
+            "C": "10",
+            "D": "5",
+            "E": "1"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.32951053808371944,
+            "B": 0.08497714904193339,
+            "C": 0.36611999349999264,
+            "D": 0.0860790316107858,
+            "E": 0.11445683783329684,
+            "Omitted": 0.018856449930271853
+        }
+    },
+    {
+        "question_id": "2007-8M7 #12 M144701",
+        "question": "Mr. Hardt bought a square piece of carpet with an area of 39 square yards. The length of each side of this carpet is between which of the following?",
+        "options": {
+            "A": "4 yards and 5 yards",
+            "B": "5 yards and 6 yards",
+            "C": "6 yards and 7 yards",
+            "D": "7 yards and 8 yards",
+            "E": "9 yards and 10 yards"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.05381286619372371,
+            "B": 0.19856178470610802,
+            "C": 0.49474006664223275,
+            "D": 0.0682448649032886,
+            "E": 0.17249455527143076,
+            "Omitted": 0.01214586228321616
+        }
+    },
+    {
+        "question_id": "2003-8M7 #1 M012331",
+        "question": "1 mile = 5,280 feet\nHow many feet are in 15 miles?",
+        "options": {
+            "A": "352",
+            "B": "35,200",
+            "C": "79,200",
+            "D": "84,480",
+            "E": "89,760"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.06679675658643572,
+            "B": 0.02329974106439523,
+            "C": 0.8870857723226855,
+            "D": 0.0109208604032406,
+            "E": 0.005191373461812887,
+            "Omitted": 0.006705496161430129
+        }
+    },
+    {
+        "question_id": "2003-8M7 #9 M012531",
+        "question": "Fifteen boxes each containing 8 radios can be repacked in 10 larger boxes each containing how many radios?",
+        "options": {
+            "A": "8",
+            "B": "10",
+            "C": "12",
+            "D": "80",
+            "E": "120"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.08058955537056206,
+            "B": 0.07065015681133291,
+            "C": 0.4728651790783493,
+            "D": 0.18842020373521712,
+            "E": 0.17556168217873735,
+            "Omitted": 0.011913222825801312
+        }
+    },
+    {
+        "question_id": "2003-8M7 #11 M012931",
+        "question": "Consider the statement \"If n is an even number, then n is two times an odd number.\" For which of the following values of n is the statement FALSE?",
+        "options": {
+            "A": "2",
+            "B": "6",
+            "C": "8",
+            "D": "10",
+            "E": "14"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.17003344507272591,
+            "B": 0.13037589534765856,
+            "C": 0.4753232255432257,
+            "D": 0.08387494748350503,
+            "E": 0.10972730693904423,
+            "Omitted": 0.030665179613840587
+        }
+    },
+    {
+        "question_id": "2003-8M7 #12 M013231",
+        "question": "If the list of fractions above continues in the same pattern, which term will be equal to 0.95?",
+        "options": {
+            "A": "The 100th",
+            "B": "The 95th",
+            "C": "The 20th",
+            "D": "The 19th",
+            "E": "The 15th"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.07294608021300296,
+            "B": 0.33335111518710514,
+            "C": 0.16128501885934196,
+            "D": 0.2671903052066138,
+            "E": 0.13757833711012657,
+            "Omitted": 0.02764914342380954
+        }
+    },
+    {
+        "question_id": "2003-8M7 #16 M075901",
+        "question": "The diameter of a red blood cell, in inches, is 3×10-4. This expression is the same as which of the following numbers?",
+        "options": {
+            "A": "0.00003",
+            "B": "0.0003",
+            "C": "0.003",
+            "D": "3,000",
+            "E": "30,000"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.21708466354843817,
+            "B": 0.4141095461835317,
+            "C": 0.1368515468393301,
+            "D": 0.06103586593379123,
+            "E": 0.156864013012853,
+            "Omitted": 0.014054364482055855
+        }
+    },
+    {
+        "question_id": "2003-8M7 #17 M075501",
+        "question": "Tetsu rides his bicycle x miles the first day, y miles the second day, and z miles the third day. Which of the following expressions represents the average number of miles per day that Tetsu travels?",
+        "options": {
+            "A": "x+y+z",
+            "B": "xyz",
+            "C": "3(x+y+z)",
+            "D": "3(xyz)",
+            "E": "x+y+z3"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.22853145657625157,
+            "B": 0.0439748062359653,
+            "C": 0.10407629746609678,
+            "D": 0.03351674148877368,
+            "E": 0.5751212596296704,
+            "Omitted": 0.014779438603242217
+        }
+    },
+    {
+        "question_id": "2003-8M7 #18 M047601",
+        "question": "If 3+w=b, then w=",
+        "options": {
+            "A": "b/3",
+            "B": "b×3",
+            "C": "b+3",
+            "D": "3-b",
+            "E": "b-3"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.09851315009023408,
+            "B": 0.07664889675790801,
+            "C": 0.16657925822111536,
+            "D": 0.17379651150947986,
+            "E": 0.4757371272374009,
+            "Omitted": 0.008725056183861742
+        }
+    },
+    {
+        "question_id": "2013-8M7 #2 M120701",
+        "question": "Sally can buy 20 pencils for $0.99. What is the greatest number of pencils Sally can buy for $3.00?",
+        "options": {
+            "A": "30",
+            "B": "45",
+            "C": "60",
+            "D": "75",
+            "E": "90"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.06453742585967019,
+            "B": 0.04418155571063808,
+            "C": 0.8326155584721977,
+            "D": 0.030891104166190408,
+            "E": 0.020509221484463876,
+            "Omitted": 0.0072651343068397016
+        }
+    },
+    {
+        "question_id": "2013-8M7 #5 M164401",
+        "question": "Stacie rides her bike 3 miles in 12 minutes. At this rate, how long will it take her to ride her bike 7 miles?",
+        "options": {
+            "A": "22 minutes",
+            "B": "28 minutes",
+            "C": "36 minutes",
+            "D": "43 minutes",
+            "E": "84 minutes"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.05543195782060601,
+            "B": 0.7470182161914074,
+            "C": 0.06021329315279729,
+            "D": 0.024120253500135073,
+            "E": 0.10916805561721674,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "2013-8M7 #7 M168201",
+        "question": "Which of the following geometric solids has both of the properties listed? The base is a polygon with 4 sides of equal length. The other faces of the solid meet at a common vertex.",
+        "options": {
+            "A": "Cone",
+            "B": "Cube",
+            "C": "Rectangular prism",
+            "D": "Right cylinder",
+            "E": "Square pyramid"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.027559133136734543,
+            "B": 0.3173429676787783,
+            "C": 0.13543736649010274,
+            "D": 0.0243731565541485,
+            "E": 0.4829963804875692,
+            "Omitted": 0.01229099565266668
+        }
+    },
+    {
+        "question_id": "2013-8M7 #8 M166101",
+        "question": "Helga’s process of calculating the tip to leave in a restaurant starts with the bill for food and drink. First, she rounds the bill to the nearest ten cents. Then she moves the decimal point in the rounded total one place to the left. Finally, she doubles that amount. Helga’s process calculates approximately what percent of the original bill?",
+        "options": {
+            "A": "2%",
+            "B": "5%",
+            "C": "10%",
+            "D": "15%",
+            "E": "20%"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.11391812964053019,
+            "B": 0.16278975267927884,
+            "C": 0.3059071292828834,
+            "D": 0.12350757683598022,
+            "E": 0.27431106004449934,
+            "Omitted": 0.019566351516828
+        }
+    },
+    {
+        "question_id": "2013-8M7 #13 M164801",
+        "question": "The ratio of boys to girls to adults at a school party was 6:5:2. There were 78 people at the party. How many of them were adults?",
+        "options": {
+            "A": "6",
+            "B": "12",
+            "C": "18",
+            "D": "30",
+            "E": "36"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.19734933110644529,
+            "B": 0.4377055685125001,
+            "C": 0.18397892064455573,
+            "D": 0.07693626843302663,
+            "E": 0.0861022211768093,
+            "Omitted": 0.017927690126662947
+        }
+    },
+    {
+        "question_id": "1990-8M9 #1 M027031",
+        "question": "(150÷3)+(6×2) Did you use the calculator on this question?",
+        "options": {
+            "A": "10",
+            "B": "58",
+            "C": "62",
+            "D": "112"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.005521795757465076,
+            "B": 0.017204474503690753,
+            "C": 0.9417932390031956,
+            "D": 0.028449162690090617,
+            "Omitted": 0.007031328045557988
+        }
+    },
+    {
+        "question_id": "1990-8M9 #2 M027131",
+        "question": "If n+n+n=60, what is the value of n ?",
+        "options": {
+            "A": "6",
+            "B": "10",
+            "C": "15",
+            "D": "20",
+            "E": "30"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.019913162854935138,
+            "B": 0.024624283243959873,
+            "C": 0.03137764674138127,
+            "D": 0.8879905748793321,
+            "E": 0.024747926116888485,
+            "Omitted": 0.011346406163503124
+        }
+    },
+    {
+        "question_id": "1990-8M9 #7 M027631",
+        "question": "In the model town that a class is building, a car 15 feet long is represented by a scale model 3 inches long. If the same scale is used, a house 35 feet high would be represented by a scale model how many inches high?",
+        "options": {
+            "A": "4535",
+            "B": "3",
+            "C": "5",
+            "D": "7",
+            "E": "353"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.09525202648252677,
+            "B": 0.03648054405437626,
+            "C": 0.12573725902538294,
+            "D": 0.5726239985589069,
+            "E": 0.1442518063513691,
+            "Omitted": 0.025654365527438015
+        }
+    },
+    {
+        "question_id": "1990-8M9 #11 M028031",
+        "question": "Kate bought a book for $14.95, a record for $5.85, and a tape for $9.70. If the sales tax on these items is 6 percent and all 3 items are taxable, what is the total amount she must pay for the 3 items, including tax?",
+        "options": {
+            "A": "$32.33",
+            "B": "$32.06",
+            "C": "$30.56",
+            "D": "$30.50",
+            "E": "$ 1.83"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.44538522614551906,
+            "B": 0.16584313019689773,
+            "C": 0.1900694010746049,
+            "D": 0.12390918266911234,
+            "E": 0.037953946424070344,
+            "Omitted": 0.036839113489795565
+        }
+    },
+    {
+        "question_id": "1990-8M9 #13 M028231",
+        "question": "Ground beef costs $2.59 per pound. What is the cost of 0.93 pound of ground beef?",
+        "options": {
+            "A": "$3.52",
+            "B": "$2.78",
+            "C": "$2.47",
+            "D": "$2.41",
+            "E": "$1.66"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.129778259752752,
+            "B": 0.14908761439318183,
+            "C": 0.12628251197070947,
+            "D": 0.4374779682849584,
+            "E": 0.1372389676636717,
+            "Omitted": 0.020134677934726612
+        }
+    },
+    {
+        "question_id": "1990-8M9 #14 M028331",
+        "question": "What is the ratio of the length of a side of an equilateral triangle to its perimeter?",
+        "options": {
+            "A": "1:1",
+            "B": "1:2",
+            "C": "1:3",
+            "D": "2:1",
+            "E": "3:1"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.1466532674466642,
+            "B": 0.1216919068486681,
+            "C": 0.41992788652477003,
+            "D": 0.15543534945341317,
+            "E": 0.09602782299163,
+            "Omitted": 0.06026376673485449
+        }
+    },
+    {
+        "question_id": "1990-8M9 #18 M028731",
+        "question": "If the price of a can of beans is raised from 50 cents to 60 cents, what is the percent increase in the price?",
+        "options": {
+            "A": "83.3%",
+            "B": "20%",
+            "C": "18.2%",
+            "D": "16.7%",
+            "E": "10%"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.024771515241772474,
+            "B": 0.1592988890998134,
+            "C": 0.04953163726559669,
+            "D": 0.0384633067001303,
+            "E": 0.7192211672532021,
+            "Omitted": 0.008713484439485037
+        }
+    },
+    {
+        "question_id": "1990-8M9 #20 M028931",
+        "question": "If 10.35.62=n4.78, then, of the following, which is closest to n?",
+        "options": {
+            "A": "2.61",
+            "B": "3.83",
+            "C": "8.76",
+            "D": "8.82",
+            "E": "12.11"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.13008648681451532,
+            "B": 0.10150554465029202,
+            "C": 0.44483353360085764,
+            "D": 0.2402093922263938,
+            "E": 0.08004380436065585,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "2007-8M9 #1 M013431",
+        "question": "What is the greatest number of 30-cent apples that can be purchased with $5.00 ?",
+        "options": {
+            "A": "6",
+            "B": "15",
+            "C": "16",
+            "D": "17",
+            "E": "20"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.16321642357375418,
+            "B": 0.09870983524071644,
+            "C": 0.6218980532482279,
+            "D": 0.07921747031897602,
+            "E": 0.02872702596188805,
+            "Omitted": 0.00823119165643739
+        }
+    },
+    {
+        "question_id": "2007-8M9 #4 M091701",
+        "question": "If 15 + 3x = 42, then x =",
+        "options": {
+            "A": "9",
+            "B": "11",
+            "C": "12",
+            "D": "14",
+            "E": "19"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.8205027260778315,
+            "B": 0.019417586743596907,
+            "C": 0.04447974432696441,
+            "D": 0.06261491557500383,
+            "E": 0.03943380410309594,
+            "Omitted": 0.0135512231735076
+        }
+    },
+    {
+        "question_id": "2007-8M9 #5 M072801",
+        "question": "Of the following, which is the best estimate for the area of a typical classroom floor?",
+        "options": {
+            "A": "700 feet",
+            "B": "700 square feet",
+            "C": "700 cubic feet",
+            "D": "700 yards",
+            "E": "700 square yards"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.12844645607741068,
+            "B": 0.6804796030413084,
+            "C": 0.12642875017041327,
+            "D": 0.022003427893419768,
+            "E": 0.03404051131695036,
+            "Omitted": 0.008601251500497571
+        }
+    },
+    {
+        "question_id": "2007-8M9 #6 M091501",
+        "question": "In a contest, a prize of 2.72 million dollars was split equally among 32 winners. How much money did each of the 32 winners receive?",
+        "options": {
+            "A": "$0.085",
+            "B": "$62,500",
+            "C": "$62,502.25",
+            "D": "$85,000",
+            "E": "$850,000"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.2861494983861886,
+            "B": 0.053143958387434506,
+            "C": 0.04965673486279309,
+            "D": 0.5053304165806951,
+            "E": 0.0948946150572832,
+            "Omitted": 0.010824776725605525
+        }
+    },
+    {
+        "question_id": "2007-8M9 #7 M091601",
+        "question": "Tammy scored 52 out of 57 possible points on a quiz. Which of the following is closest to the percent of the total number of points that Tammy scored?",
+        "options": {
+            "A": "0.91%",
+            "B": "1.10%",
+            "C": "52%",
+            "D": "91%",
+            "E": "95%"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.11871939934172468,
+            "B": 0.043386927165557025,
+            "C": 0.04522327916668203,
+            "D": 0.6213166852974513,
+            "E": 0.1631375712799346,
+            "Omitted": 0.008216137748650333
+        }
+    },
+    {
+        "question_id": "2007-8M9 #12 M013631",
+        "question": "In which of the following are the three fractions arranged from least to greatest?",
+        "options": {
+            "A": "27, 12, 59",
+            "B": "12, 27, 59",
+            "C": "12, 59, 27",
+            "D": "59, 12, 27",
+            "E": "59, 27, 12"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.4947836725403987,
+            "B": 0.1634412661791214,
+            "C": 0.057540765259137705,
+            "D": 0.044753223348489767,
+            "E": 0.22756854401769863,
+            "Omitted": 0.011912528655153775
+        }
+    },
+    {
+        "question_id": "2007-8M9 #14 M013731",
+        "question": "The temperature in degrees Celsius can be found by subtracting 32 from the temperature in degrees Fahrenheit and multiplying the result by 59. If the temperature of a furnace is 393 degrees Fahrenheit, what is it in degrees Celsius, to the nearest degree?",
+        "options": {
+            "A": "649",
+            "B": "375",
+            "C": "219",
+            "D": "201",
+            "E": "187"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.13555939428034444,
+            "B": 0.21933614853373626,
+            "C": 0.16996006001211722,
+            "D": 0.3547200101457545,
+            "E": 0.0878989286820418,
+            "Omitted": 0.032525458346005835
+        }
+    },
+    {
+        "question_id": "2009-8M10 #1 M142001",
+        "question": "Which of the following equations has the same solution as the equation 2x + 6 = 32 ?",
+        "options": {
+            "A": "2x = 38",
+            "B": "x - 3 = 16",
+            "C": "x + 6 = 16",
+            "D": "2(x - 3) = 16",
+            "E": "2(x + 3) = 32"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.12545365655710955,
+            "B": 0.030466926516681748,
+            "C": 0.08607696230454837,
+            "D": 0.05470604636366762,
+            "E": 0.6836770424535823,
+            "Omitted": 0.019619365804410465
+        }
+    },
+    {
+        "question_id": "2009-8M10 #2 M142101",
+        "question": "Megan drew a rectangle that has an area of 24 square centimeters. Which of the following could be the dimensions of her rectangle?",
+        "options": {
+            "A": "2 centimeters by 12 centimeters",
+            "B": "3 centimeters by 9 centimeters",
+            "C": "4 centimeters by 20 centimeters",
+            "D": "6 centimeters by 6 centimeters",
+            "E": "12 centimeters by 12 centimeters"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.7026118368518028,
+            "B": 0.07314713947110185,
+            "C": 0.07346997835739585,
+            "D": 0.045287101245305106,
+            "E": 0.09641990352645262,
+            "Omitted": 0.009064040547941715
+        }
+    },
+    {
+        "question_id": "2009-8M10 #4 M142301",
+        "question": "In which of the following numbers is the digit 6 in the hundredths place?",
+        "options": {
+            "A": "682.3",
+            "B": "382.6",
+            "C": "6.832",
+            "D": "4.836",
+            "E": "2.862"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.1492145654450901,
+            "B": 0.04863732782229666,
+            "C": 0.03620006748140737,
+            "D": 0.08079734130081771,
+            "E": 0.6782866192053397,
+            "Omitted": 0.0068640787450484205
+        }
+    },
+    {
+        "question_id": "2009-8M10 #8 M142701",
+        "question": "The length of a rectangle is 3 feet less than twice the width, w (in feet). What is the length of the rectangle in terms of w ?",
+        "options": {
+            "A": "3 - 2w",
+            "B": "2(w + 3)",
+            "C": "2(w - 3)",
+            "D": "2w + 3",
+            "E": "2w - 3"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.20796251528424933,
+            "B": 0.07578716148029326,
+            "C": 0.1315713198186536,
+            "D": 0.0673810509446818,
+            "E": 0.5067627940345979,
+            "Omitted": 0.010535158437524122
+        }
+    },
+    {
+        "question_id": "2009-8M10 #11 M143001",
+        "question": "For a school report, Luke contacted a car dealership to collect data on recent sales. He asked, \"What color do buyers choose most often for their car?\" White was the response. What statistical measure does the response \"white\" represent?",
+        "options": {
+            "A": "Mean",
+            "B": "Median",
+            "C": "Mode",
+            "D": "Range",
+            "E": "Interquartile range"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.18203510945831736,
+            "B": 0.09946737028960415,
+            "C": 0.5911742481464124,
+            "D": 0.07696235708869419,
+            "E": 0.04161877587766669,
+            "Omitted": 0.00874213913930525
+        }
+    },
+    {
+        "question_id": "2003-8M10 #3 M068101",
+        "question": "If the value of the expression x+2 is less than 12, which of the following could be a value of x?",
+        "options": {
+            "A": "16",
+            "B": "14",
+            "C": "12",
+            "D": "10",
+            "E": "8"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.005442036362396313,
+            "B": 0.024743498700039113,
+            "C": 0.016803103668028604,
+            "D": 0.16833202745258652,
+            "E": 0.7718205398177992,
+            "Omitted": 0.012858793999150216
+        }
+    },
+    {
+        "question_id": "2003-8M10 #10 M093101",
+        "question": "Which of the following ratios is equivalent to the ratio of 6 to 4?",
+        "options": {
+            "A": "12 to 18",
+            "B": "12 to 8",
+            "C": "8 to 6",
+            "D": "4 to 6",
+            "E": "2 to 3"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.028128157569927804,
+            "B": 0.5975676414249146,
+            "C": 0.11237084284035664,
+            "D": 0.1882072063355489,
+            "E": 0.06515672224750083,
+            "Omitted": 0.008569429581751319
+        }
+    },
+    {
+        "question_id": "2003-8M10 #11 M091801",
+        "question": "In a coordinate plane, the points (2,4) and (3,-1) are on a line. Which of the following must be true?",
+        "options": {
+            "A": "The line crosses the x-axis.",
+            "B": "The line passes through (0,0).",
+            "C": "The line stays above the x-axis at all times.",
+            "D": "The line rises from the lower left to the upper right.",
+            "E": "The line is parallel to the y-axis."
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.43920609372182406,
+            "B": 0.13392733920731487,
+            "C": 0.1256025881971572,
+            "D": 0.15474125369507874,
+            "E": 0.11666518317457598,
+            "Omitted": 0.029857542004049168
+        }
+    },
+    {
+        "question_id": "2003-8M10 #12 M093001",
+        "question": "3+15÷3-4×2=",
+        "options": {
+            "A": "-9",
+            "B": "-2",
+            "C": "0",
+            "D": "4",
+            "E": "5"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.03830324358558878,
+            "B": 0.052598515818644165,
+            "C": 0.5166796958042871,
+            "D": 0.35499541457127676,
+            "E": 0.024779062829486408,
+            "Omitted": 0.012644067390716758
+        }
+    },
+    {
+        "question_id": "2003-8M10 #14 M093201",
+        "question": "The cruise ship Titanic was 882 feet long. Which of the following is closest to that length?",
+        "options": {
+            "A": "Two moving-van lengths",
+            "B": "Fifty car lengths",
+            "C": "One hundred skateboard lengths",
+            "D": "Five hundred school-bus lengths",
+            "E": "One thousand bicycle lengths"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.03171697914428509,
+            "B": 0.38543714417492836,
+            "C": 0.051761520155919456,
+            "D": 0.42219559267434653,
+            "E": 0.09646162205877178,
+            "Omitted": 0.012427141791748824
+        }
+    },
+    {
+        "question_id": "2003-8M10 #17 M086201",
+        "question": "If n represents an even number greater than 2, what is the next larger even number?",
+        "options": {
+            "A": "n+1",
+            "B": "2n+1",
+            "C": "2n",
+            "D": "n+2",
+            "E": "n2"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.04881138568659014,
+            "B": 0.10119212559384916,
+            "C": 0.1912320095556498,
+            "D": 0.4546222568689058,
+            "E": 0.19291626341526696,
+            "Omitted": 0.011225958879738094
+        }
+    },
+    {
+        "question_id": "2007-8M11 #1 M105601",
+        "question": "The weight of an object is 1,700 pounds, rounded to the nearest hundred. Of the following, which could be the actual weight of the object?",
+        "options": {
+            "A": "1,640",
+            "B": "1,645",
+            "C": "1,649",
+            "D": "1,749",
+            "E": "1,751"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.04969605269413642,
+            "B": 0.03857806464683704,
+            "C": 0.20460444370644734,
+            "D": 0.5808442862607773,
+            "E": 0.11165964337931462,
+            "Omitted": 0.014617509312487207
+        }
+    },
+    {
+        "question_id": "2007-8M11 #5 M106101",
+        "question": "Which of the following numbers is five million, eighty thousand?",
+        "options": {
+            "A": "5,800,000",
+            "B": "5,008,000",
+            "C": "5,000,008",
+            "D": "5,080,000",
+            "E": "580,000"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.0813876801535232,
+            "B": 0.0751305891392889,
+            "C": 0.0,
+            "D": 0.8191614062905747,
+            "E": 0.01627716714014504,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "2007-8M11 #6 M106201",
+        "question": "If m represents the total number of months that Jill worked and p represents Jill's average monthly pay, which of the following expressions represents Jill's total pay for the months she worked?",
+        "options": {
+            "A": "m+p",
+            "B": "m÷p",
+            "C": "m×p",
+            "D": "p÷m",
+            "E": "m-p"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.11755504626891328,
+            "B": 0.08807938682061447,
+            "C": 0.7260322611908683,
+            "D": 0.05349238766117469,
+            "E": 0.010003536547222134,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "2007-8M11 #12 M106801",
+        "question": "Mr. Elkins plans to buy a refrigerator. He can choose from five different refrigerators whose interior dimensions, in inches, are given below. Which refrigerator has the greatest capacity (volume)?",
+        "options": {
+            "A": "42 x 34 x 30",
+            "B": "42 x 30 x 32",
+            "C": "42 x 28 x 32",
+            "D": "40 x 34 x 30",
+            "E": "40 x 30 x 28"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.7589474596230097,
+            "B": 0.08973660900694128,
+            "C": 0.05967472307492317,
+            "D": 0.059962401299155754,
+            "E": 0.023809069029893225,
+            "Omitted": 0.007869737966076729
+        }
+    },
+    {
+        "question_id": "2007-8M11 #15 M107101",
+        "question": "At the school carnival, Carmen sold 3 times as many hot dogs as Shawn. The two of them sold 152 hot dogs altogether. How many hot dogs did Carmen sell?",
+        "options": {
+            "A": "21",
+            "B": "38",
+            "C": "51",
+            "D": "114",
+            "E": "148"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.028549967813723046,
+            "B": 0.1602024132194086,
+            "C": 0.2804951269226497,
+            "D": 0.4655711766932662,
+            "E": 0.04766072059665756,
+            "Omitted": 0.01752059475429484
+        }
+    },
+    {
+        "question_id": "2007-8M11 #16 M107201",
+        "question": "Li's English book weighs 3 pounds, her math book weighs 5 pounds, her history book weighs 4 pounds, and her science book weighs 6 pounds.How many different combinations of one or more books can Li pack in her backpack so that the total weight of the books is 12 pounds or less?",
+        "options": {
+            "A": "9",
+            "B": "10",
+            "C": "11",
+            "D": "12",
+            "E": "18"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.3382793907369458,
+            "B": 0.15174640704089462,
+            "C": 0.1812770253797395,
+            "D": 0.17650551975255768,
+            "E": 0.1419853961970523,
+            "Omitted": 0.010206260892810055
+        }
+    },
+    {
+        "question_id": "2007-8M11 #19 M107601",
+        "question": "An airplane climbs at a rate of 66.8 feet per minute. It descends at twice the rate that it climbs. Assuming it descends at a constant rate, how many feet will the airplane descend in 30 minutes?",
+        "options": {
+            "A": "96.8",
+            "B": "133.6",
+            "C": "1,002",
+            "D": "2,004",
+            "E": "4,008"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.0671608933462178,
+            "B": 0.1821767376021864,
+            "C": 0.10868819585945735,
+            "D": 0.2752338053309471,
+            "E": 0.36654637919815547,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "1992-12M12 #1 M053501",
+        "question": "If k can be replaced by any number, how many different values can the expression k+6 have?",
+        "options": {
+            "A": "None",
+            "B": "One",
+            "C": "Six",
+            "D": "Seven",
+            "E": "Infinitely many"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.04058127847596352,
+            "B": 0.06371273467720234,
+            "C": 0.1465793883790956,
+            "D": 0.021954490488896427,
+            "E": 0.7225290683092581,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "1992-12M12 #2 M053601",
+        "question": "42, 51, 49, 58, 56, . . .\nIf the pattern in the list above continues, what will be the next number after 56?",
+        "options": {
+            "A": "54",
+            "B": "63",
+            "C": "64",
+            "D": "65",
+            "E": "67"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.11813607080054649,
+            "B": 0.12627937224657193,
+            "C": 0.09458958229339938,
+            "D": 0.6137864422058644,
+            "E": 0.03576426677528843,
+            "Omitted": 0.0114442656783294
+        }
+    },
+    {
+        "question_id": "1992-12M12 #3 M053701",
+        "question": "What is the difference between the smallest positive 3-digit number and the largest positive 2-digit number?",
+        "options": {
+            "A": "1",
+            "B": "9",
+            "C": "10",
+            "D": "90",
+            "E": "900"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.5822043753057875,
+            "B": 0.06130682189661511,
+            "C": 0.1301827031366999,
+            "D": 0.08379073418326304,
+            "E": 0.12201651753520575,
+            "Omitted": 0.020498847942428684
+        }
+    },
+    {
+        "question_id": "1992-12M12 #5 M053901",
+        "question": "Ken bought a used car for $5,375. He had to pay an additional 15 percent of the purchase price to cover both sales tax and extra fees. Of the following, which is closest to the total amount Ken paid?",
+        "options": {
+            "A": "$806",
+            "B": "$5,510",
+            "C": "$5,760",
+            "D": "$5,940",
+            "E": "$6,180"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.24818090238108909,
+            "B": 0.1449963865106475,
+            "C": 0.12285018880410428,
+            "D": 0.07426332734896161,
+            "E": 0.39875317267038357,
+            "Omitted": 0.010956022284813934
+        }
+    },
+    {
+        "question_id": "1996-8M12 #1 M069201",
+        "question": "Anita is making bags of treats for her sister's birthday party. She divides 65 pieces of candy equally among 15 bags so that each bag contains as many pieces as possible. How many pieces will she have left?",
+        "options": {
+            "A": "33",
+            "B": "5",
+            "C": "4",
+            "D": "3",
+            "E": "0.33"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.06280966846739935,
+            "B": 0.350824685617352,
+            "C": 0.39975770619847933,
+            "D": 0.05097701621672688,
+            "E": 0.12405014134144682,
+            "Omitted": 0.011580782158595588
+        }
+    },
+    {
+        "question_id": "1996-12M12 #3 M069401",
+        "question": "Of the following, which is the best unit to use when measuring the growth of a plant every other day during a 2-week period?",
+        "options": {
+            "A": "Centimeter",
+            "B": "Meter",
+            "C": "Kilometer",
+            "D": "Foot",
+            "E": "Yard"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.7800268824902118,
+            "B": 0.08145865395045987,
+            "C": 0.04281628638851454,
+            "D": 0.05883239121666286,
+            "E": 0.03130429036492806,
+            "Omitted": 0.005561495589222849
+        }
+    },
+    {
+        "question_id": "1996-12M12 #4 M069501",
+        "question": "If each of the counting numbers from 1 through 10 is multiplied by 13, how many of the resulting numbers will be even?",
+        "options": {
+            "A": "One",
+            "B": "Four",
+            "C": "Five",
+            "D": "Six",
+            "E": "Ten"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.05188847263600208,
+            "B": 0.14332475917957374,
+            "C": 0.6496755175107072,
+            "D": 0.09037803116539296,
+            "E": 0.05345562555336322,
+            "Omitted": 0.011277593954960778
+        }
+    },
+    {
+        "question_id": "1996-8M12 #7 M069801",
+        "question": "A car odometer registered 41,256.9 miles when a highway sign warned of a detour 1,200 feet ahead. What will the odometer read when the car reaches the detour? (5, 280 feet = 1 mile)",
+        "options": {
+            "A": "42,456.9",
+            "B": "41,279.9",
+            "C": "41,261.3",
+            "D": "41,259.2",
+            "E": "41,257.1"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.3670086076827915,
+            "B": 0.06740456658500746,
+            "C": 0.18696862267235337,
+            "D": 0.08444273439307304,
+            "E": 0.26031968734429667,
+            "Omitted": 0.03385578132247801
+        }
+    },
+    {
+        "question_id": "2005-8M12 #1 M109801",
+        "question": "What is 4 hundredths written in decimal notation?",
+        "options": {
+            "A": "0.004",
+            "B": "0.04",
+            "C": "0.400",
+            "D": "4.00",
+            "E": "400.0"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.14336116225274864,
+            "B": 0.6744911763010415,
+            "C": 0.08868583459709083,
+            "D": 0.025793543415013852,
+            "E": 0.05830411513037135,
+            "Omitted": 0.009364168303733763
+        }
+    },
+    {
+        "question_id": "2005-8M12 #2 M110001",
+        "question": "A rectangular playground has a perimeter of 390 feet. The width of the playground is 75 feet. What is its length?",
+        "options": {
+            "A": "5.2 feet",
+            "B": "97.5 feet",
+            "C": "120 feet",
+            "D": "130 feet",
+            "E": "240 feet"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.1926113990460932,
+            "B": 0.11119179157118345,
+            "C": 0.39824418403591216,
+            "D": 0.08766517498250692,
+            "E": 0.18969251098331497,
+            "Omitted": 0.02059493938098937
+        }
+    },
+    {
+        "question_id": "2005-8M12 #3 M110101",
+        "question": "Which of the following is equal to 6(x+6)>?",
+        "options": {
+            "A": "x + 12",
+            "B": "6x + 6",
+            "C": "6x + 12",
+            "D": "6x + 36",
+            "E": "6x + 66"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.07721402864564185,
+            "B": 0.3905843276350356,
+            "C": 0.08481809939150174,
+            "D": 0.4350215905523479,
+            "E": 0.005426001013266374,
+            "Omitted": 0.006935952762206542
+        }
+    },
+    {
+        "question_id": "2005-8M12 #6 M110401",
+        "question": "The prices of gasoline in a certain region are $1.41, $1.36, $1.57, and $1.45 per gallon. What is the median price per gallon for gasoline in this region?",
+        "options": {
+            "A": "$1.41",
+            "B": "$1.43",
+            "C": "$1.44",
+            "D": "$1.45",
+            "E": "$1.47"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.09590961519413098,
+            "B": 0.5075181947856966,
+            "C": 0.16412169379594949,
+            "D": 0.14753070606176605,
+            "E": 0.07586535318981304,
+            "Omitted": 0.0090544369726439
+        }
+    },
+    {
+        "question_id": "2005-8M12 #9 M110701",
+        "question": "The endpoints of a line segment are the points with coordinates (2, 1) and (8, 9). What are the coordinates of the midpoint of this line segment?",
+        "options": {
+            "A": "(2, 3½)",
+            "B": "(3, 4)",
+            "C": "(5, 5)",
+            "D": "(4½, 5½)",
+            "E": "(10, 10)"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.06820985352149381,
+            "B": 0.2779614222288375,
+            "C": 0.3829169125798412,
+            "D": 0.16511735542688147,
+            "E": 0.07950413135153193,
+            "Omitted": 0.0262903248914141
+        }
+    },
+    {
+        "question_id": "2005-8M12 #11 M110901",
+        "question": "Ms. Thierry and 3 friends ate dinner at a restaurant. The bill was $67. In addition, they left a $13 tip. Approximately what percent of the total bill did they leave as a tip?",
+        "options": {
+            "A": "10%",
+            "B": "13%",
+            "C": "15%",
+            "D": "20%",
+            "E": "25%"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.18309597503590383,
+            "B": 0.19405817709561915,
+            "C": 0.2507716400131448,
+            "D": 0.2954683650488782,
+            "E": 0.05693663864028576,
+            "Omitted": 0.019669204166168314
+        }
+    },
+    {
+        "question_id": "2005-8M12 #13 M111201",
+        "question": "1, 9, 25, 49, 81, ...The same rule is applied to each number in the pattern above.  What is the 6th number in the pattern?",
+        "options": {
+            "A": "40",
+            "B": "100",
+            "C": "121",
+            "D": "144",
+            "E": "169"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.03499642066319785,
+            "B": 0.13631825935395775,
+            "C": 0.599540202251755,
+            "D": 0.11156008544719195,
+            "E": 0.09782200219016442,
+            "Omitted": 0.01976303009373311
+        }
+    },
+    {
+        "question_id": "2005-8M12 #15 M111401",
+        "question": "One of the acute angles in a right triangle measures 28 degrees. What is the measure, in degrees, of the other acute angle?",
+        "options": {
+            "A": "17°",
+            "B": "28°",
+            "C": "62°",
+            "D": "90°",
+            "E": "152°"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.12297646167944952,
+            "B": 0.23878295763641566,
+            "C": 0.48060387131908816,
+            "D": 0.09089887130608407,
+            "E": 0.05636410312089756,
+            "Omitted": 0.010373734938065033
+        }
+    },
+    {
+        "question_id": "1992-12M14 #1 M054701",
+        "question": "Which of the following is both a multiple of 3 and a multiple of 7?",
+        "options": {
+            "A": "7,007",
+            "B": "8,192",
+            "C": "21,567",
+            "D": "22,287",
+            "E": "40,040"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.06827128333515627,
+            "B": 0.045196993265342905,
+            "C": 0.7679665605097056,
+            "D": 0.05295074845058889,
+            "E": 0.027965444230370205,
+            "Omitted": 0.037648970208836174
+        }
+    },
+    {
+        "question_id": "1992-12M14 #4 M055001",
+        "question": "33+4(8-5)÷6= Did you use the calculator on this question?",
+        "options": {
+            "A": "6.5",
+            "B": "11",
+            "C": "27.5",
+            "D": "29",
+            "E": "34.16"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.26204870739313063,
+            "B": 0.10068581581444,
+            "C": 0.15231466708331481,
+            "D": 0.2185078414442984,
+            "E": 0.21686464987547846,
+            "Omitted": 0.049578318389337656
+        }
+    },
+    {
+        "question_id": "1992-8M15 #10 M049101",
+        "question": "A certain reference file contains approximately one billion facts. About how many millions is that?",
+        "options": {
+            "A": "1,000,000",
+            "B": "100,000",
+            "C": "10,000",
+            "D": "1,000",
+            "E": "100"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.4043186005434357,
+            "B": 0.09665221094223303,
+            "C": 0.04986105353186988,
+            "D": 0.21867217723836582,
+            "E": 0.22675554785716925,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "1992-8M15 #15 M049601",
+        "question": "Harriet, Jim, Roberto, Maria, and Willie are in the same eighth-grade class. One of them is this year's class president. Based on the following information, who is the class president? The class president was last year's class vice president and lives on Vine Street. Willie is this year's class vice president. Jim and Maria live on Cypress Street. Roberto was not last year's class vice president.",
+        "options": {
+            "A": "Harriet",
+            "B": "Jim",
+            "C": "Roberto",
+            "D": "Maria",
+            "E": "Willie"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.6215540453055634,
+            "B": 0.03855801735515745,
+            "C": 0.13687393820483273,
+            "D": 0.03627722066918545,
+            "E": 0.1569059548490609,
+            "Omitted": 0.009830823616200168
+        }
+    },
+    {
+        "question_id": "2005-12M3 #8 M094901",
+        "question": "The cost to mail a first-class letter is 33 cents for the first ounce. Each additional ounce costs 22 cents. (Fractions of an ounce are rounded up to the next whole ounce.) How much would it cost to mail a letter that weighs 2.7 ounces?",
+        "options": {
+            "A": "55 cents",
+            "B": "66 cents",
+            "C": "77 cents",
+            "D": "88 cents",
+            "E": "99 cents"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.07490712940851814,
+            "B": 0.12607229170176673,
+            "C": 0.6647217579037717,
+            "D": 0.06495866547217458,
+            "E": 0.06104970816314446,
+            "Omitted": 0.008290447350624208
+        }
+    },
+    {
+        "question_id": "2005-12M3 #10 M011331",
+        "question": "If a 2 by 18 rectangle has the same area as a square, what is the length of a side of the square?",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "10",
+            "E": "12"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.09468291654213347,
+            "B": 0.5664035398538337,
+            "C": 0.16397851080848633,
+            "D": 0.1180253406585194,
+            "E": 0.03071044866089317,
+            "Omitted": 0.026199243476133866
+        }
+    },
+    {
+        "question_id": "2005-12M3 #13 M094801",
+        "question": "In a school fund-raiser, 10 students in class A sold an average (arithmetic mean) of 4 boxes of cookies. In class B, 15 students sold an average of 9 boxes. What was the average number of boxes of cookies sold by the 25 students?",
+        "options": {
+            "A": "1325",
+            "B": "1",
+            "C": "612",
+            "D": "7",
+            "E": "13613"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.26333259325644504,
+            "B": 0.04191717395128574,
+            "C": 0.30924306015456793,
+            "D": 0.2405857049111608,
+            "E": 0.11057996412307006,
+            "Omitted": 0.03434150360347045
+        }
+    },
+    {
+        "question_id": "2005-12M4 #4 M071601",
+        "question": "Easy Ride Van Company finds that about 40 percent of the time a person who makes an advance reservation for transportation does not keep the reservation. Therefore, for each of their 10-passenger vans, the Easy Ride Van Company schedules 13 persons on the basis of advance reservations. Based on the information above, about how many riders out of the 13 scheduled would not keep their reservations?",
+        "options": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "7",
+            "E": "9"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.00917183972011284,
+            "B": 0.2472343999895102,
+            "C": 0.6407971123827187,
+            "D": 0.07718910452798869,
+            "E": 0.01745361078489215,
+            "Omitted": 0.008153932594777551
+        }
+    },
+    {
+        "question_id": "2005-12M4 #9 M059001",
+        "question": "If the digit in the tens place of 37,241 is increased by one and the digit in the thousands place is decreased by one, how has the number been changed?",
+        "options": {
+            "A": "The number has been decreased by 990.",
+            "B": "The number has been decreased by 1,000.",
+            "C": "The number has been decreased by 1,010.",
+            "D": "The number has been increased by 10.",
+            "E": "The number has been increased by 1,010."
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.5467809721631604,
+            "B": 0.10394442490090898,
+            "C": 0.16665280516495265,
+            "D": 0.0673545158712901,
+            "E": 0.10823839385354452,
+            "Omitted": 0.007028888046143464
+        }
+    },
+    {
+        "question_id": "2005-12M4 #11 M053201",
+        "question": "In the solution of the system of equations above, what is the value of x ?",
+        "options": {
+            "A": "- 1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.1953760139834478,
+            "B": 0.1144222951844489,
+            "C": 0.48350075922619545,
+            "D": 0.07785015818093796,
+            "E": 0.07609693006814236,
+            "Omitted": 0.05275384335682754
+        }
+    },
+    {
+        "question_id": "2005-12M4 #14 M059601",
+        "question": "The remainder when a number n is divided by 7 is 2. Which of the following is the remainder when 2n + 1 is divided by 7?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.13020147353608422,
+            "B": 0.09169858886225812,
+            "C": 0.2684869704946984,
+            "D": 0.22164372135583213,
+            "E": 0.25204981412261,
+            "Omitted": 0.03591943162851709
+        }
+    },
+    {
+        "question_id": "2005-12M4 #16 M019401",
+        "question": "What are all values of x such that x2+7x+6≥0 ?",
+        "options": {
+            "A": "-6≤x≤-1",
+            "B": "-6≤x≤1",
+            "C": "1≤x≤6",
+            "D": "x≤-6 or x≥-1",
+            "E": "x≤1 or x≥6"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.13009746302692615,
+            "B": 0.17219696947811886,
+            "C": 0.2465052176539101,
+            "D": 0.3005525012469047,
+            "E": 0.09810170256068468,
+            "Omitted": 0.05254614603345551
+        }
+    },
+    {
+        "question_id": "1992-12M5 #5 M024101",
+        "question": "Which of the following is NOT a property of every rectangle?",
+        "options": {
+            "A": "The opposite sides are equal in length.",
+            "B": "The opposite sides are parallel.",
+            "C": "All angles are equal in measure.",
+            "D": "All sides are equal in length.",
+            "E": "The diagonals are equal in length."
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.019171395346854244,
+            "B": 0.08269745132194121,
+            "C": 0.09419539531612096,
+            "D": 0.706486922820905,
+            "E": 0.08179614104028422,
+            "Omitted": 0.015652694153894368
+        }
+    },
+    {
+        "question_id": "1992-12M5 #6 M024201",
+        "question": "6×1033×105",
+        "options": {
+            "A": "0.5×102",
+            "B": "2×102",
+            "C": "2×100.6",
+            "D": "0.5×10-2",
+            "E": "2×10-2"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.061152244317003036,
+            "B": 0.27510944220791017,
+            "C": 0.08852091255357207,
+            "D": 0.06314990723404787,
+            "E": 0.47991587762647325,
+            "Omitted": 0.032151616060993524
+        }
+    },
+    {
+        "question_id": "1992-12M5 #7 M024301",
+        "question": "1gallon=4quarts1quart=2pintsThe number of pints in 10 gallons could be determined by performing which of the following operations?",
+        "options": {
+            "A": "Multiplying 10 by 2",
+            "B": "Dividing 10 by 6",
+            "C": "Multiplying 10 by 6",
+            "D": "Dividing 40 by 2",
+            "E": "Multiplying 40 by 2"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.12758534873212726,
+            "B": 0.06829270357556684,
+            "C": 0.09231097707681073,
+            "D": 0.19371619281309888,
+            "E": 0.4899113714335207,
+            "Omitted": 0.02818340636887565
+        }
+    },
+    {
+        "question_id": "1992-12M5 #10 M024601",
+        "question": "Which of the following is closest to the height of the door to your classroom?",
+        "options": {
+            "A": "1 meter",
+            "B": "2 meters",
+            "C": "4 meters",
+            "D": "7 meters"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.05617682181762785,
+            "B": 0.5862132716395164,
+            "C": 0.23020708196186088,
+            "D": 0.12163937631067182,
+            "Omitted": 0.005763448270323021
+        }
+    },
+    {
+        "question_id": "1992-12M5 #13 M024901",
+        "question": "A rectangular pool 24 feet long, 8 feet wide, and 4 feet deep is filled with water. Water is leaking from the pool at the rate of 0.40 cubic foot per minute. At this rate, how many hours will it take for the water level to drop 1 foot?",
+        "options": {
+            "A": "4",
+            "B": "8",
+            "C": "12",
+            "D": "16",
+            "E": "32"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.17905303307901616,
+            "B": 0.26356379887262105,
+            "C": 0.19857670329004573,
+            "D": 0.11537167022531118,
+            "E": 0.1437069155916483,
+            "Omitted": 0.09972787894135755
+        }
+    },
+    {
+        "question_id": "1992-12M5 #14 M025001",
+        "question": "If x=-4, the value of -4x is",
+        "options": {
+            "A": "-16",
+            "B": "-8",
+            "C": "8",
+            "D": "16"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.09401459170424165,
+            "B": 0.07270311251604789,
+            "C": 0.06762005303910303,
+            "D": 0.7510873229417598,
+            "Omitted": 0.014574919798847624
+        }
+    },
+    {
+        "question_id": "1992-12M5 #15 M025101",
+        "question": "It takes 28 minutes for a certain bacteria population to double. If there are 5,241,763 bacteria in this population at 1:00 p.m., which of the following is closest to the number of bacteria in millions at 2:30 p.m. on the same day?",
+        "options": {
+            "A": "80",
+            "B": "40",
+            "C": "20",
+            "D": "15",
+            "E": "10"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.06789608485304012,
+            "B": 0.3078232911374011,
+            "C": 0.18976799637642866,
+            "D": 0.31894228135207353,
+            "E": 0.07890912241468821,
+            "Omitted": 0.03666122386636839
+        }
+    },
+    {
+        "question_id": "1992-12M5 #17 M025302",
+        "question": "In a recent election between Candidates A and B, 48 percent of the male voters and 55 percent of the female voters voted for Candidate A. Did Candidate A receive more votes than Candidate B?",
+        "options": {
+            "A": "YES",
+            "B": "NO",
+            "C": "CANNOT TELL"
+        },
+        "answer": null,
+        "student_scores": {
+            "Incorrect": 0.1753202838174654,
+            "Correct": 0.2568537640389903,
+            "Omitted": 0.04991009473100701
+        }
+    },
+    {
+        "question_id": "1992-12M5 #20 M025401",
+        "question": "If f(x)=2x+13 and g(x)=2x2+2, then f(g(2))=",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "7",
+            "D": "7 5/9",
+            "E": "16 2/3"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.045562289444583966,
+            "B": 0.12677706384882087,
+            "C": 0.5927077196720031,
+            "D": 0.1478202688931865,
+            "E": 0.08676488414076386,
+            "Omitted": 0.0
+        }
+    },
+    {
+        "question_id": "1992-12M7 #5 M057601",
+        "question": "It takes 64 identical cubes to half fill a rectangular box. If each cube has a volume of 8 cubic centimeters, what is the volume of the box in cubic centimeters?",
+        "options": {
+            "A": "1,024",
+            "B": "512",
+            "C": "128",
+            "D": "16",
+            "E": "8"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.5312558111350193,
+            "B": 0.3022582573257028,
+            "C": 0.064524012550372,
+            "D": 0.03958670350041221,
+            "E": 0.050401450295156636,
+            "Omitted": 0.011973765193337043
+        }
+    },
+    {
+        "question_id": "1992-12M7 #6 M057701",
+        "question": "For what value of x is 812=16x?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "8",
+            "D": "9",
+            "E": "12"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.05835410599824216,
+            "B": 0.2555212786617756,
+            "C": 0.1604850398338563,
+            "D": 0.34211818937723526,
+            "E": 0.09980300511993039,
+            "Omitted": 0.08371838100896023
+        }
+    },
+    {
+        "question_id": "1992-12M7 #7 M057801",
+        "question": "What is the distance between the points (2,10) and (-4,2) in the xy-plane?",
+        "options": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "14",
+            "E": "18"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.14244109961785129,
+            "B": 0.23028858459581175,
+            "C": 0.3247095765356988,
+            "D": 0.20047250473587336,
+            "E": 0.03166043358211431,
+            "Omitted": 0.07042780093265046
+        }
+    },
+    {
+        "question_id": "1992-12M7 #8 M057901",
+        "question": "Suppose 4r=3s=10t, where r, s, and t are positive integers. What is the sum of the least values of r, s, and t for which this equality is true?",
+        "options": {
+            "A": "7",
+            "B": "17",
+            "C": "41",
+            "D": "82",
+            "E": "120"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.09985389131237571,
+            "B": 0.22834808744633558,
+            "C": 0.2994456820853938,
+            "D": 0.08980413310993468,
+            "E": 0.15236373728554478,
+            "Omitted": 0.13018446876041542
+        }
+    },
+    {
+        "question_id": "1992-12M7 #10 M058101",
+        "question": "In the xy-plane, a line parallel to the x-axis intersects the y-axis at the point (0, 4). This line also intersects a circle in two points. The circle has a radius of 5 and its center is at the origin. What are the coordinates of the two points of intersection?",
+        "options": {
+            "A": "(1, 2) and (2, 1)",
+            "B": "(2, 1) and (2, -1)",
+            "C": "(3, 4) and (3, -4)",
+            "D": "(3, 4) and (-3, 4)",
+            "E": "(5, 0) and (-5, 0)"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.03588417904631852,
+            "B": 0.10894692577557183,
+            "C": 0.24021972519653992,
+            "D": 0.3231032095214883,
+            "E": 0.15253219479106703,
+            "Omitted": 0.1393137656690144
+        }
+    },
+    {
+        "question_id": "1990-12M9 #1 M029031",
+        "question": "What is 23 of 15 marbles? Did you use the calculator on this question?",
+        "options": {
+            "A": "10 marbles",
+            "B": "9 marbles",
+            "C": "8 marbles",
+            "D": "5 marbles"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.7441260002083981,
+            "B": 0.06688621292941922,
+            "C": 0.07447614368654079,
+            "D": 0.10386998439507622,
+            "Omitted": 0.010641658780565631
+        }
+    },
+    {
+        "question_id": "1990-12M9 #4 M029331",
+        "question": "Pencils sell individually for $0.07 each or in packs of 12 for $0.79 per pack. How much is saved when 24 pencils are purchased by the pack instead of individually?",
+        "options": {
+            "A": "$0.01",
+            "B": "$0.05",
+            "C": "$0.10",
+            "D": "$0.72",
+            "E": "$1.44"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.04399682050171652,
+            "B": 0.08356367062851133,
+            "C": 0.7695066796723299,
+            "D": 0.056780423715358734,
+            "E": 0.03566972649747147,
+            "Omitted": 0.010482678984612009
+        }
+    },
+    {
+        "question_id": "1990-12M9 #5 M029431",
+        "question": "If the diameter of a circle is 30 centimeters, what is the radius of the circle?",
+        "options": {
+            "A": "10 cm",
+            "B": "15 cm",
+            "C": "60 cm",
+            "D": "90 cm",
+            "E": "180 cm"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.04164843698798675,
+            "B": 0.7862769753238975,
+            "C": 0.08902328351685528,
+            "D": 0.05164869099021826,
+            "E": 0.018797399021454504,
+            "Omitted": 0.012605214159587859
+        }
+    },
+    {
+        "question_id": "1990-12M9 #7 M029631",
+        "question": "A contractor is building 5 different model homes on 5 adjacent lots on one side of a street. If 1 house is to be built on each lot, how many different arrangements of the 5 houses are possible?",
+        "options": {
+            "A": "120",
+            "B": "60",
+            "C": "25",
+            "D": "10",
+            "E": "5"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.10121489975095244,
+            "B": 0.03943317484579461,
+            "C": 0.4980328929167614,
+            "D": 0.05542369066873575,
+            "E": 0.2849212037086394,
+            "Omitted": 0.020974138109116514
+        }
+    },
+    {
+        "question_id": "1990-12M9 #8 M029731",
+        "question": "A circle with diameter 10 centimeters is to be cut from a square of paper 10 centimeters on a side. Of the following, which is closest to the amount of paper left over after the circle is cut out?",
+        "options": {
+            "A": "9 square centimeters",
+            "B": "21 square centimeters",
+            "C": "24 square centimeters",
+            "D": "69 square centimeters",
+            "E": "84 square centimeters"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.37884695323450723,
+            "B": 0.2545734788184374,
+            "C": 0.1609613590934849,
+            "D": 0.07146660574766915,
+            "E": 0.037193813052582694,
+            "Omitted": 0.09695779005331863
+        }
+    },
+    {
+        "question_id": "1990-12M9 #10 M029931",
+        "question": "What percent of 175 is 7?",
+        "options": {
+            "A": "4%",
+            "B": "12.25%",
+            "C": "25%",
+            "D": "40%"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.49130667590884064,
+            "B": 0.2475577980576828,
+            "C": 0.2302503995160663,
+            "D": 0.018947509896337648,
+            "Omitted": 0.011937616621072577
+        }
+    },
+    {
+        "question_id": "1990-12M9 #12 M030231",
+        "question": "If d=110 and a=20 in the formula d=a2(2t-1), then t=",
+        "options": {
+            "A": "1522",
+            "B": "158",
+            "C": "5",
+            "D": "11120",
+            "E": "6"
+        },
+        "answer": "E",
+        "student_scores": {
+            "A": 0.043279621565330946,
+            "B": 0.09733383969325389,
+            "C": 0.20854002192068896,
+            "D": 0.14356683592181654,
+            "E": 0.4471236266863937,
+            "Omitted": 0.06015605421251589
+        }
+    },
+    {
+        "question_id": "1990-12M9 #13 M030331",
+        "question": "The postal rate is 25 cents for the first ounce and 20 cents for each additional ounce or part of an ounce. What would it cost to mail a package that weighs 6.8 ounces?",
+        "options": {
+            "A": "$1.25",
+            "B": "$1.40",
+            "C": "$1.45",
+            "D": "$1.70",
+            "E": "$1.75"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.08371752792352805,
+            "B": 0.3305812449038865,
+            "C": 0.3678502270105371,
+            "D": 0.1504637917371271,
+            "E": 0.05865952000332742,
+            "Omitted": 0.008727688421593766
+        }
+    },
+    {
+        "question_id": "1990-12M9 #16 M030631",
+        "question": "How many integers are there between 15 and 63?",
+        "options": {
+            "A": "Three",
+            "B": "Four",
+            "C": "Five",
+            "D": "Six",
+            "E": "Seven"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.19109360990986757,
+            "B": 0.4702842930565545,
+            "C": 0.1470740636066767,
+            "D": 0.06409703417273988,
+            "E": 0.06936814947300492,
+            "Omitted": 0.05808284978115639
+        }
+    },
+    {
+        "question_id": "1996-12M10 #8 M062201",
+        "question": "cos2(3x)+sin2(3x)",
+        "options": {
+            "A": "0",
+            "B": "1",
+            "C": "3",
+            "D": "6",
+            "E": "9"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.09108470102229688,
+            "B": 0.2671745231261245,
+            "C": 0.18353014294248016,
+            "D": 0.18642935049060172,
+            "E": 0.14688164607085483,
+            "Omitted": 0.12489963634764197
+        }
+    },
+    {
+        "question_id": "1996-12M12 #7 M070301",
+        "question": "The population of the United States is approximately 250 million, and the national debt is approximately 4 trillion dollars. If this debt were divided equally among the population, what would be the debt, in dollars, per person?",
+        "options": {
+            "A": "16",
+            "B": "1,600",
+            "C": "16,000",
+            "D": "1,600,000",
+            "E": "16,000,000"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.13915717824548365,
+            "B": 0.12370388238377396,
+            "C": 0.394904704687338,
+            "D": 0.14813520210977016,
+            "E": 0.1552167289198923,
+            "Omitted": 0.038882303653741915
+        }
+    },
+    {
+        "question_id": "2005-12M12 #5 M127501",
+        "question": "The first term in a sequence of numbers is 12. Each term after the first term is 1 more than twice its previous term. What is the 4th term?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "5",
+            "D": "11",
+            "E": "23"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.09142291129560676,
+            "B": 0.13544105031925194,
+            "C": 0.12855808750432263,
+            "D": 0.47988981956040727,
+            "E": 0.14724286458784408,
+            "Omitted": 0.017445266732567372
+        }
+    },
+    {
+        "question_id": "2005-12M12 #6 M133101",
+        "question": "Rosa is twice as old as Byron. Fred is one year older than Byron. If Fred's age is represented by F, which of the following represents the ages of Rosa and Byron, respectively?",
+        "options": {
+            "A": "12(F-1) and F-1",
+            "B": "12(F+1) and F+1",
+            "C": "2(F-1) and F-1",
+            "D": "2(F+1) and F+1",
+            "E": "2F and F-1"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.06409778792324554,
+            "B": 0.10323840836647982,
+            "C": 0.4296588867073182,
+            "D": 0.26944116446140026,
+            "E": 0.11712017433160474,
+            "Omitted": 0.016443578209951376
+        }
+    },
+    {
+        "question_id": "2005-12M12 #9 M130001",
+        "question": "A particular flu vaccine is effective for 90 percent of the patients who receive it. What is the probability that it will be effective for both of the next two randomly selected patients?",
+        "options": {
+            "A": "0.54",
+            "B": "0.63",
+            "C": "0.72",
+            "D": "0.81",
+            "E": "0.90"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.07716617909970708,
+            "B": 0.06411060883190815,
+            "C": 0.0959729453244928,
+            "D": 0.23607463509792403,
+            "E": 0.4948620688477386,
+            "Omitted": 0.03181356279822936
+        }
+    },
+    {
+        "question_id": "2005-12M12 #10 M127901",
+        "question": "An election involving four candidates for mayor has been held. Of the following, which is the best way to present the percentage of votes each candidate received?",
+        "options": {
+            "A": "Circle graph",
+            "B": "Line graph",
+            "C": "Box plot",
+            "D": "Scatterplot",
+            "E": "Histogram"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.6008583539559273,
+            "B": 0.25258533890943696,
+            "C": 0.059226778034590054,
+            "D": 0.03149903833861002,
+            "E": 0.05031952926134118,
+            "Omitted": 0.005510961500094462
+        }
+    },
+    {
+        "question_id": "2005-12M12 #13 M135301",
+        "question": "The town of Mayville taxes property at a rate of $42 for each $1,000 of estimated value. What is the estimated value of a property on which the owner owes $5,250 in property tax?",
+        "options": {
+            "A": "$42,000",
+            "B": "$47,250",
+            "C": "$125,000",
+            "D": "$220,500",
+            "E": "$5,250,000"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.0519329458828205,
+            "B": 0.06425925187757121,
+            "C": 0.4812007297700106,
+            "D": 0.3345939922944311,
+            "E": 0.05024358996390638,
+            "Omitted": 0.017769490211260248
+        }
+    },
+    {
+        "question_id": "2005-12M12 #14 M127001",
+        "question": "The number of bacteria present in a laboratory sample after t days can be represented by 500(2t). What is the initial number of bacteria present in this sample?",
+        "options": {
+            "A": "250",
+            "B": "500",
+            "C": "750",
+            "D": "1,000",
+            "E": "2,000"
+        },
+        "answer": "B",
+        "student_scores": {
+            "A": 0.10019922855958369,
+            "B": 0.330678842022105,
+            "C": 0.0510376512763649,
+            "D": 0.4596353850903531,
+            "E": 0.03589999808459748,
+            "Omitted": 0.02254889496699579
+        }
+    },
+    {
+        "question_id": "2005-12M12 #15 M135401",
+        "question": "A cat lies crouched on level ground 50 feet away from the base of a tree. The cat can see a bird's nest directly above the base of the tree. The angle of elevation from the cat to the bird's nest is 40°. To the nearest foot, how far above the base of the tree is the bird's nest?",
+        "options": {
+            "A": "32",
+            "B": "38",
+            "C": "42",
+            "D": "60",
+            "E": "65"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.12870544644225027,
+            "B": 0.15680530857395833,
+            "C": 0.41345473764118623,
+            "D": 0.1930883393454205,
+            "E": 0.06436355863801717,
+            "Omitted": 0.04358260935916749
+        }
+    },
+    {
+        "question_id": "2005-12M12 #17 M130101",
+        "question": "Yvonne has studied the cost of tickets over time for her favorite sports team. She has created a model to predict the cost of a ticket in the future. Let C represent the cost of a ticket in dollars and y represent the number of years in the future. Her model is as follows.C=2.50y+13Based on this model, how much will the cost of a ticket increase in two years?",
+        "options": {
+            "A": "$5",
+            "B": "$8",
+            "C": "$13",
+            "D": "$18",
+            "E": "$26"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.2642909278045329,
+            "B": 0.07402657216099041,
+            "C": 0.10062078663112325,
+            "D": 0.49601012271561307,
+            "E": 0.047310333601462896,
+            "Omitted": 0.01774125708627747
+        }
+    },
+    {
+        "question_id": "1996-12M13 #3 M060101",
+        "question": "A certain machine produces 300 nails per minute. At this rate, how long will it take the machine to produce enough nails to fill 5 boxes of nails if each box will contain 250 nails?",
+        "options": {
+            "A": "4 min",
+            "B": "4 min 6 sec",
+            "C": "4 min 10 sec",
+            "D": "4 min 50 sec",
+            "E": "5 min"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.09114892761818894,
+            "B": 0.17997796448888534,
+            "C": 0.493128161421861,
+            "D": 0.15190298410843492,
+            "E": 0.06970289639585059,
+            "Omitted": 0.01413906596677924
+        }
+    },
+    {
+        "question_id": "1996-12M13 #5 M060301",
+        "question": "Which of the following pieces of information would NOT be useful in deciding what type of car is the most economical to drive?",
+        "options": {
+            "A": "Median income of drivers",
+            "B": "Range of insurance costs",
+            "C": "Average miles per gallon",
+            "D": "Typical cost of repairs per year",
+            "E": "Cost of routine maintenance"
+        },
+        "answer": "A",
+        "student_scores": {
+            "A": 0.721247794961391,
+            "B": 0.10513433955746461,
+            "C": 0.05361981494601086,
+            "D": 0.058927859783387854,
+            "E": 0.05044296858039734,
+            "Omitted": 0.010627222171348316
+        }
+    },
+    {
+        "question_id": "1992-12M15 #5 M061201",
+        "question": "In a group of 1,200 adults, there are 300 vegetarians. What is the ratio of nonvegetarians to vegetarians in the group?",
+        "options": {
+            "A": "1 to 3",
+            "B": "1 to 4",
+            "C": "3 to 1",
+            "D": "4 to 1",
+            "E": "4 to 3"
+        },
+        "answer": "C",
+        "student_scores": {
+            "A": 0.07673334838676045,
+            "B": 0.27544489563557756,
+            "C": 0.2530178782425241,
+            "D": 0.3505444579927472,
+            "E": 0.039043682067713824,
+            "Omitted": 0.005215737674676851
+        }
+    },
+    {
+        "question_id": "1992-12M15 #7 M061401",
+        "question": "A certain company keeps a list of 50 employees and their annual salaries. When the salary of the very highly paid president is added to this list, which of the following statistics is most likely to be approximately the same or nearly the same for the original list and the new list?",
+        "options": {
+            "A": "The highest salary",
+            "B": "The range",
+            "C": "The mean",
+            "D": "The median",
+            "E": "The standard deviation"
+        },
+        "answer": "D",
+        "student_scores": {
+            "A": 0.17242137310881034,
+            "B": 0.1983714338889089,
+            "C": 0.1932550758513644,
+            "D": 0.20799803164116692,
+            "E": 0.1970400111102354,
+            "Omitted": 0.030914074399514043
+        }
+    }
+]

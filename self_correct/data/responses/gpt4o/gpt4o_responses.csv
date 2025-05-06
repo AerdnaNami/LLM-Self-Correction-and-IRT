@@ -1,0 +1,3551 @@
+,question,ref_answer,llm_answer,final_ans
+0,Santiago hires a limousine from 1 PM to 11 PM. He gets 1 hours free. The first paid hour is ¥25 and each hour after that is thrice the cost. How much did he pay?,"He got it for 11-1=10 hours
+He pays for 10-1=9 hours
+The first hour cost 1*25=¥25
+The other 9-1=8 hours are more expensive
+They cost 25*3=¥75 per hour
+So those 8 hours cost 8*75=¥600
+So he pays 600+25=¥625
+#### 625","To solve the problem, we need to carefully consider the time Santiago hires the limousine, as well as the cost structure.
+
+1. **Calculate Total Duration**: Santiago hires the limousine from 1 PM to 11 PM. 
+   \[
+   \text{Total hours} = 11 - 1 = 10 \text{ hours}
+   \]
+
+2. **Apply Free Hour**: Santiago gets 1 hour free.
+   \[
+   \text{Paid hours} = 10 \text{ hours} - 1 \text{ free hour} = 9 \text{ paid hours}
+   \]
+
+3. **Cost Structure**:
+   - The first paid hour costs ¥25.
+   - Each following hour costs three times the previous hour’s cost.
+
+4. **Calculate Costs**:
+   - Hour 1: ¥25
+   - Hour 2: \(3 \times ¥25 = ¥75\)
+   - Hour 3: \(3 \times ¥75 = ¥225\)
+   - Hour 4: \(3 \times ¥225 = ¥675\)
+   - Hour 5: \(3 \times ¥675 = ¥2025\)
+   - Hour 6: \(3 \times ¥2025 = ¥6075\)
+   - Hour 7: \(3 \times ¥6075 = ¥18225\)
+   - Hour 8: \(3 \times ¥18225 = ¥54675\)
+   - Hour 9: \(3 \times ¥54675 = ¥164025\)
+
+5. **Total Paid Cost**:
+   \[
+   \text{Total cost} = ¥25 + ¥75 + ¥225 + ¥675 + ¥2025 + ¥6075 + ¥18225 + ¥54675 + ¥164025
+   \]
+
+6. **Sum the Costs**:
+   \[
+   = ¥246,000
+   \]
+
+Thus, Santiago paid a total of ¥246,000.
+
+**Answer:** ¥246,000",246000
+1,"Elena has a flower bed that is 204 meters long. Elena wants to fill her flower bed with plants. Elena's flowers grow 7 meters wide so she needs to leave 12.0 meters between every plant. Elena already owns 15 flowers. Each flowering plant costs €13 at the store, how much money will Elena spend at the store to fill up her flower bed?","Elena's flower bed is 204 meters / 12.0 meters per plant = 17 plants needed.
+Elena needs to buy 17 plants - 15 plants = 2 plants needed to purchase.
+Elena will spend 2 plants * €13 = €26.
+#### 26","Sure, let's work through the problem step by step:
+
+1. **Determine the space required per plant:**  
+   Each plant is 7 meters wide and needs 12 meters of space between them. Therefore, for each plant, the total space required is:
+   \[
+   7 \text{ meters (width of plant)} + 12 \text{ meters (space)} = 19 \text{ meters}
+   \]
+
+2. **Calculate how many plants are needed to fill the flower bed:**  
+   The flower bed is 204 meters long. To find out how many plants Elena can plant, divide the total length of the flower bed by the space required per plant:
+   \[
+   \frac{204 \text{ meters}}{19 \text{ meters/plant}} \approx 10.74
+   \]
+   Since Elena cannot plant a fraction of a plant, round down to the nearest whole number, so she can plant 10 full plants in the space.
+
+3. **Determine how many plants need to be purchased:**  
+   Elena already owns 15 flowers. Since she can plant only 10 flowers in the flower bed:
+   \[
+   10 \text{ plants needed} - 15 \text{ plants owned} = -5
+   \]
+   Since Elena already has more than enough flowers (she has 5 extra), she does not need to buy any more plants.
+
+4. **Calculate the total cost for additional flowers:**  
+   Since Elena doesn’t need to purchase any additional plants, the cost is:
+   \[
+   0 \text{ plants} \times €13/\text{plant} = €0
+   \]
+
+Based on the above calculations, Elena does not need to spend any money to fill her flower bed.
+
+Answer: €0",0
+2,"Kai caught 7 salmons last Monday, the first salmon he caught weighs 62 kgs, the second salmon he caught weighs 38 kgs, and the last salmon he caught weighs 21 kgs. If a kg of salmon costs €1.0, how much will he earn after selling all the salmons to the market?","Kai will earn 62 x €1.0 = €62.0 from the first salmon.
+He will earn 38 x €1.0 = €38.0 for the second salmon.
+The rest of the salmons are 7-2 = 5. He will earn 21 x €1.0 = €21.0 per each of them. So he will earn 5 * 21.0 = =105.0
+Therefore, the total amount he will earn for all the salmons is €62.0 + €38.0 + €105.0= €205.
+#### 205","To solve this problem, we'll follow these steps:
+
+1. Identify the total number of salmons caught by Kai: 7 salmons.
+
+2. Determine the weight of the specific salmons mentioned:
+
+    - First salmon weighs 62 kg.
+    - Second salmon weighs 38 kg.
+    - Last salmon weighs 21 kg.
+
+3. Assume that the weights of the other salmons are unknown and need to be calculated. Let's denote the total weight of all the salmons as \( W \).
+
+4. Use the information that each kilogram of salmon costs €1.0 to calculate the total earnings from selling all the salmons.
+
+5. Calculate the total weight of the known salmons:
+
+    \[
+    62 \, \text{kg (first salmon)} + 38 \, \text{kg (second salmon)} + 21 \, \text{kg (last salmon)} = 121 \, \text{kg}
+    \]
+
+6. Realize that we do not have the weights of the four remaining salmons, and we are supposed to assume the total given weights since the individual weights are not provided.
+
+7. However, there is no need to assume extra weights beyond the mentioned as the information gives us the total weight. Thus, \( W = 121 \, \text{kg} \).
+
+8. Calculate the total earnings:
+
+    \[
+    \text{Earnings} = W \times \text{price per kg} = 121 \, \text{kg} \times €1.0/\text{kg} = €121
+    \]
+
+Therefore, after selling all the salmons, Kai will earn:
+
+Answer: €121",121
+3,"At Arjun's house, there are four times as many oranges as plums. He has a total of 78 plums in his house. Arjun bought 36 more plums at the store and 14 fewer oranges than the number of plums. Find the combined total of the number of oranges and plums Arjun has in the house?","Before buying any orange and plum, Arjun had 4 times as many oranges as plums, which is 78 plums * 4 orange/plum = 312 oranges
+The total number of oranges and plums that Arjun had before is 312 oranges + 78 plums = 390 items
+When he bought 14 fewer oranges than plums, he bought 36 oranges - 14 oranges = 22 oranges
+In total, he bought 22 oranges + 36 plums = 58 items
+After the purchases, Arjun has 390 items + 58 items = 448 total oranges and plums combined.
+#### 448","To find the combined total of oranges and plums in Arjun's house, we will go through the following steps:
+
+1. **Determine the Initial Number of Oranges:**
+   - We know that there are four times as many oranges as plums initially.
+   - Arjun initially has 78 plums.
+   - Therefore, the initial number of oranges is 4 times the number of plums: \(4 \times 78 = 312\).
+
+2. **Determine the New Number of Plums After Purchase:**
+   - Arjun bought 36 more plums at the store.
+   - So, the new total number of plums is the initial number plus the purchased ones: \(78 + 36 = 114\).
+
+3. **Determine the New Number of Oranges After Purchasing Plums:**
+   - Arjun bought 14 fewer oranges than the new number of plums.
+   - The new number of plums is 114.
+   - Therefore, the number of oranges he buys is \(114 - 14 = 100\).
+
+4. **Calculate the Combined Total of Oranges and Plums:**
+   - Now, sum the new number of oranges and plums to find the combined total.
+   - Total plums now are 114, and total oranges, including both initial and additional ones, are 312 (initial) + 100 (new) = 412.
+   - Combined total is \(114 + 412 = 526\).
+
+5. **Final Answer:**
+   - So the total combined number of oranges and plums in the house is 526.
+
+Answer: 526",526
+4,"Andre caught 6 cods last Sunday, the first cod he caught weighs 54 kgs, the second cod he caught weighs 46 kgs, and the last cod he caught weighs 23 kgs. If a kg of cod costs €2.0, how much will he earn after selling all the cods to the market?","Andre will earn 54 x €2.0 = €108.0 from the first cod.
+He will earn 46 x €2.0 = €92.0 for the second cod.
+The rest of the cods are 6-2 = 4. He will earn 23 x €2.0 = €46.0 per each of them. So he will earn 4 * 46.0 = =184.0
+Therefore, the total amount he will earn for all the cods is €108.0 + €92.0 + €184.0= €384.
+#### 384","To solve the problem, we need to follow several steps:
+
+1. **Identify the weights of the cods caught by Andre:**
+   - First cod: 54 kg
+   - Second cod: 46 kg
+   - Last cod: 23 kg
+
+2. **Sum up the weights of all the cods caught by Andre:**
+   \[
+   \text{Total weight} = 54 \, \text{kg} + 46 \, \text{kg} + 23 \, \text{kg}
+   \]
+
+3. **Calculate the total weight:**
+   \[
+   54 + 46 = 100 \, \text{kg}
+   \]
+   \[
+   100 + 23 = 123 \, \text{kg}
+   \]
+
+4. **Determine how much each kilogram of cod is worth:**
+   - €2.0 per kg
+
+5. **Calculate the total earnings from selling all the cods:**
+   \[
+   \text{Total earnings} = 123 \, \text{kg} \times €2.0/\text{kg}
+   \]
+
+6. **Perform the multiplication:**
+   \[
+   123 \times 2 = €246
+   \]
+
+7. **Conclusion:**
+   - Andre will earn a total of €246 from selling all the cods.
+
+Answer: €246",246
+5,Mohammed is rolling a twenty-sided die. How much more likely is it (expressed as a percentage) that he rolls a number greater than 5 than that he rolls two odd numbers in a row?,"There are 15 numbers greater than 5 on the dice, so the chances of rolling one of them are 15 / 20 = 75%.
+The chance of rolling one odd number is 50%, so the chance of rolling two in a row is 50% * 50% = 25%.
+The difference between these two probabilities is 75% - 25% = 50%.
+#### 50","To solve this problem, we need to determine two probabilities and then find how much more likely one is compared to the other. Here are the steps:
+
+1. **Determine the probability of rolling a number greater than 5 on a twenty-sided die:**
+
+   - There are 20 sides on the die, numbered from 1 to 20.
+   - The numbers greater than 5 are 6, 7, 8, ..., 20.
+   - Count these numbers: From 6 to 20 inclusive, there are 20 - 5 = 15 numbers.
+   - The probability of rolling a number greater than 5 is therefore the number of favorable outcomes (15) divided by the total number of outcomes (20).
+
+   \[
+   P(\text{Rolling a number > 5}) = \frac{15}{20} = 0.75
+   \]
+
+2. **Determine the probability of rolling two odd numbers in a row with a twenty-sided die:**
+
+   - Half of the numbers on the die (1 to 20) are odd: 1, 3, 5, ..., 19. That's 10 odd numbers.
+   - Probability of rolling an odd number on a single roll = number of odd numbers / total number of sides = 10 / 20 = 0.5.
+   - For rolling two odd numbers in a row, multiply the probabilities for each roll:
+
+   \[
+   P(\text{Two odd numbers in a row}) = 0.5 \times 0.5 = 0.25
+   \]
+
+3. **Calculate how much more likely rolling a number greater than 5 is compared to rolling two odd numbers in a row, expressed as a percentage:**
+
+   - Determine the difference in probabilities: \(0.75 - 0.25 = 0.5\).
+   - To express this as a percentage of the probability of rolling two odd numbers:
+
+   \[
+   \left(\frac{0.5}{0.25}\right) \times 100\% = 200\%
+   \]
+
+This means rolling a number greater than 5 is 200% more likely than rolling two odd numbers in a row.
+
+Answer: 200%",200
+6,Hiroshi is rolling a d10 die. How much more likely is it (expressed as a percentage) that he rolls a number greater than 2 than that he rolls two odd numbers in a row?,"There are 8 numbers greater than 2 on the dice, so the chances of rolling one of them are 8 / 10 = 80%.
+The chance of rolling one odd number is 50%, so the chance of rolling two in a row is 50% * 50% = 25%.
+The difference between these two probabilities is 80% - 25% = 55%.
+#### 55","To solve this problem, we need to find the probability of each event and then compare them.
+
+**Step 1: Calculate the probability of rolling a number greater than 2 on a d10.**
+
+1. A d10 die has 10 sides, with numbers 1 through 10.
+2. The numbers greater than 2 are: 3, 4, 5, 6, 7, 8, 9, 10.
+3. There are 8 numbers greater than 2.
+4. Therefore, the probability of rolling a number greater than 2 is: 
+
+   \[
+   \frac{8}{10} = 0.8
+   \]
+
+**Step 2: Calculate the probability of rolling two odd numbers in a row.**
+
+1. The odd numbers on a d10 are: 1, 3, 5, 7, 9.
+2. There are 5 odd numbers.
+3. The probability of rolling an odd number is:
+
+   \[
+   \frac{5}{10} = 0.5
+   \]
+
+4. Since these are independent events, the probability of both rolls being odd is:
+
+   \[
+   0.5 \times 0.5 = 0.25
+   \]
+
+**Step 3: Calculate how much more likely it is to roll a number greater than 2 than to roll two odd numbers in a row.**
+
+1. The probability of rolling a number greater than 2 is 0.8.
+2. The probability of rolling two odd numbers in a row is 0.25.
+3. To find how much more likely the first event is compared to the second, we can compare these probabilities as a percentage increase. This can be calculated as follows:
+
+   \[
+   \left(\frac{0.8 - 0.25}{0.25}\right) \times 100\% = \left(\frac{0.55}{0.25}\right) \times 100\% = 2.2 \times 100\% = 220\%
+   \]
+
+**Answer: 220%**",220
+7,"There are 20 girls in the yard. If there are 1/4 the number of boys in the yard, how many kids are in the yard?","There are 20 girls x 1/4 boys/girls = 5 boys in the yard.
+In total there are 20 girls + 5 boys =  25 kids in the yard
+#### 25","Certainly! Let's break down the problem step by step:
+
+1. **Identify the Number of Girls**: There are 20 girls in the yard.
+
+2. **Understand the Ratio Given**: It is given that the number of girls is 1/4 the number of boys. This means that for every boy, there is 1/4 of a girl, or equivalently, for every 4 boys, there is 1 girl.
+
+3. **Set Up an Equation for Boys**: Let the number of boys be \( b \). According to the ratio given, the number of girls (20) is 1/4 of the number of boys. So, \( 20 = \frac{1}{4}b \).
+
+4. **Solve for the Number of Boys**: Multiply both sides of the equation by 4 to solve for \( b \):
+   \[ 20 \times 4 = b \]
+   \[ b = 80 \]
+
+5. **Calculate the Total Number of Kids**: Add the number of girls and the number of boys together to find the total number of kids:
+   \[ \text{Total number of kids} = \text{Number of girls} + \text{Number of boys} \]
+   \[ = 20 + 80 \]
+   \[ = 100 \]
+
+So, the total number of kids in the yard is 100.
+
+**Answer:** 100",100
+8,"Mohammed caught 5 steelheads last Tuesday, the first steelhead he caught weighs 64 kgs, the second steelhead he caught weighs 48 kgs, and the last steelhead he caught weighs 23 kgs. If a kg of steelhead costs €1.0, how much will he earn after selling all the steelheads to the market?","Mohammed will earn 64 x €1.0 = €64.0 from the first steelhead.
+He will earn 48 x €1.0 = €48.0 for the second steelhead.
+The rest of the steelheads are 5-2 = 3. He will earn 23 x €1.0 = €23.0 per each of them. So he will earn 3 * 23.0 = =69.0
+Therefore, the total amount he will earn for all the steelheads is €64.0 + €48.0 + €69.0= €181.
+#### 181","To solve this problem, we need to follow these steps:
+
+1. Determine the number of steelheads he caught and the weights of those for which we have data:
+   - Mohammed caught a total of 5 steelheads.
+   - We have the weights of three steelheads: 64 kg, 48 kg, and 23 kg.
+
+2. Calculate the total weight of the steelheads for which we know the weights:
+   - First steelhead: 64 kg
+   - Second steelhead: 48 kg
+   - Third known steelhead: 23 kg
+   - Total known weight = 64 kg + 48 kg + 23 kg = 135 kg
+
+3. Since we do not know the weights of the remaining two steelheads, we will base our calculations on the weights we do know.
+
+4. Calculate the potential earnings based on the price per kg:
+   - The price per kg of steelhead is €1.0.
+   - Total earnings from the known weights = Total known weight × Price per kg = 135 kg × €1.0/kg = €135
+
+5. As the weights of the remaining two steelheads are not provided, we cannot include them in the earnings calculation unless those weights are specified.
+
+Answer: €135",135
+9,"There are 36 girls in the yard. If there are one-fourth the number of boys in the yard, how many kids are in the yard?","There are 36 girls x 1/4 boys/girls = 9 boys in the yard.
+In total there are 36 girls + 9 boys =  45 kids in the yard
+#### 45","To find out how many kids are in the yard, we need to follow these steps:
+
+1. **Identify the number of girls:** We are given that there are 36 girls in the yard.
+
+2. **Understand the relationship between girls and boys:** The problem states that there are one-fourth the number of boys as there are girls in the yard.
+
+3. **Set up the equation:** Let \( B \) be the number of boys. According to the problem, \( \frac{1}{4}B = 36 \).
+
+4. **Solve for B:** To find \( B \), we rearrange the equation:
+   \[ B = 36 \times 4 \]
+   \[ B = 144 \]
+
+5. **Find the total number of kids:** Add the number of girls and boys together:
+   \[ \text{Total kids} = \text{Number of girls} + \text{Number of boys} \]
+   \[ \text{Total kids} = 36 + 144 \]
+
+6. **Calculate the total:** The total number of kids is:
+   \[ \text{Total kids} = 180 \]
+
+Therefore, the final answer is:
+Answer: 180",180
+10,"Wei caught 5 trouts last Sunday, the first trout he caught weighs 48 kilograms, the second trout he caught weighs 58 kilograms, and the last trout he caught weighs 30 kilograms. If a kilogram of trout costs $0.25, how much will he earn after selling all the trouts to the market?","Wei will earn 48 x $0.25 = $12.0 from the first trout.
+He will earn 58 x $0.25 = $14.5 for the second trout.
+The rest of the trouts are 5-2 = 3. He will earn 30 x $0.25 = $7.5 per each of them. So he will earn 3 * 7.5 = =22.5
+Therefore, the total amount he will earn for all the trouts is $12.0 + $14.5 + $22.5= $49.
+#### 49","To find out how much Wei will earn from selling all the trouts, we need to follow these steps:
+
+1. **Identify the weights of the trouts caught by Wei**:  
+   - First trout: 48 kg  
+   - Second trout: 58 kg  
+   - Third trout: Unknown  
+   - Fourth trout: Unknown  
+   - Fifth trout: 30 kg  
+
+2. **Calculate the total known weight of the trouts**:  
+   - Add the weights of the first, second, and last trouts:  
+     \( 48 + 58 + 30 = 136 \) kg  
+
+3. **Identify missing information**:  
+   - The weights of the third and fourth trouts are not given, so assume the total mentioned includes all trouts.
+
+4. **Calculate total earnings from selling the total weight of trouts**:  
+   - Since 1 kg of trout costs $0.25, multiply the total weight by the cost per kg:  
+     \( 136 \times 0.25 = 34 \) dollars  
+
+Therefore, Wei will earn $34 from selling all the trouts.
+
+Answer: 34 dollars",34
+11,There are 7 periods in the day for a normal student but Esteban has to take 1 extra classes. Each class is 50 minutes long. He goes to class for 6 days a week. He then spends one-half of his weekly minutes each on Saturday and Sunday as extra learning time. How many hours a week does he spend learning?,"He takes 7+1=8 classes a day
+That means he spends 50*8=400 minutes per day in class
+So he spends 400*6=2400 minutes a week
+That means he spends 2400*1/2=1200 minutes each on Saturday and Sunday.
+So he spends 2400+1200+1200=4800 minutes per week
+So he spends 4800/60=80 hours per week
+#### 80","To solve this problem, let's break it down into manageable steps:
+
+1. **Calculate the number of classes Esteban attends each day**:  
+   A normal student has 7 periods a day. Esteban takes 1 additional class, so he has:
+   \[
+   7 + 1 = 8 \text{ classes per day}
+   \]
+
+2. **Calculate the total minutes of classes per day**:  
+   Each class is 50 minutes long, so the total minutes per day is:
+   \[
+   8 \text{ classes/day} \times 50 \text{ minutes/class} = 400 \text{ minutes/day}
+   \]
+
+3. **Calculate the total minutes of classes per week (Monday to Saturday)**:  
+   Esteban goes to class for 6 days a week, so the total weekly classroom minutes from Monday to Saturday is:
+   \[
+   400 \text{ minutes/day} \times 6 \text{ days/week} = 2400 \text{ minutes/week}
+   \]
+
+4. **Calculate the minutes spent on Saturday and Sunday for extra learning**:  
+   He spends one-half of his weekly classroom time each on Saturday and Sunday. Therefore, the minutes for extra learning each day on the weekend is:
+   \[
+   \frac{2400 \text{ minutes}}{2} = 1200 \text{ minutes}
+   \]
+   Since this is divided between Saturday and Sunday, he spends:
+   \[
+   600 \text{ minutes on Saturday} + 600 \text{ minutes on Sunday} = 1200 \text{ minutes}
+   \]
+
+5. **Calculate the total learning minutes for the entire week**:  
+   Adding the classroom minutes and the extra learning minutes, we have:
+   \[
+   2400 \text{ minutes (classroom time)} + 1200 \text{ minutes (weekend learning)} = 3600 \text{ minutes}
+   \]
+
+6. **Convert total learning minutes to hours**:  
+   To convert minutes to hours, divide by 60:
+   \[
+   \frac{3600 \text{ minutes}}{60} = 60 \text{ hours}
+   \]
+
+Thus, the total number of hours Esteban spends learning in a week is:
+
+Answer: 60 hours.",60
+12,Kai is rolling a d4 die. How much more likely is it (expressed as a percentage) that he rolls a number greater than 2 than that he rolls two even numbers in a row?,"There are 2 numbers greater than 2 on the dice, so the chances of rolling one of them are 2 / 4 = 50%.
+The chance of rolling one even number is 50%, so the chance of rolling two in a row is 50% * 50% = 25%.
+The difference between these two probabilities is 50% - 25% = 25%.
+#### 25","To solve this problem, we'll consider two scenarios: the likelihood of rolling a number greater than 2 on a single roll of a d4 die, and the likelihood of rolling two consecutive even numbers. We'll then compare these probabilities to find how much more likely the first scenario is, expressed as a percentage.
+
+1. **Determine the sample space of a d4 die:**  
+   A d4 die has four sides labeled with these numbers: 1, 2, 3, and 4.
+
+2. **Calculate the probability of rolling a number greater than 2:**  
+   - The numbers greater than 2 on a d4 die are 3 and 4.
+   - There are 2 favorable outcomes (rolling a 3 or a 4).
+   - The probability, \( P(A) \), of rolling a number greater than 2 is the number of favorable outcomes divided by the total possible outcomes:  
+     \[
+     P(A) = \frac{2}{4} = \frac{1}{2}
+     \]
+
+3. **Calculate the probability of rolling two even numbers in a row:**  
+   - The even numbers on a d4 die are 2 and 4.
+   - The probability of rolling an even number on a single roll is:  
+     \[
+     P(\text{even}) = \frac{2}{4} = \frac{1}{2}
+     \]
+   - The probability of rolling two consecutive even numbers is the product of the probabilities:  
+     \[
+     P(B) = P(\text{even}) \times P(\text{even}) = \frac{1}{2} \times \frac{1}{2} = \frac{1}{4}
+     \]
+
+4. **Compare the probabilities and calculate the percent increase:**  
+   - We want to find how much more likely it is to roll a number greater than 2 than to roll two even numbers consecutively.
+   - The difference in probability is:  
+     \[
+     P(A) - P(B) = \frac{1}{2} - \frac{1}{4} = \frac{2}{4} - \frac{1}{4} = \frac{1}{4}
+     \]
+   - The percentage increase is given by the difference divided by the probability of rolling two even numbers, \( P(B) \), multiplied by 100:  
+     \[
+     \text{Percentage increase} = \left( \frac{\frac{1}{4}}{\frac{1}{4}} \right) \times 100\% = 100\%
+     \]
+
+5. **Conclusion:**  
+   Answer: 100%",100
+13,Carlos hires a party bus from 4 PM to 11 PM. He gets 2 hours free. The first paid hour is ₣44 and each hour after that is twice the cost. How much did he pay?,"He got it for 11-4=7 hours
+He pays for 7-2=5 hours
+The first hour cost 1*44=₣44
+The other 5-1=4 hours are more expensive
+They cost 44*2=₣88 per hour
+So those 4 hours cost 4*88=₣352
+So he pays 352+44=₣396
+#### 396","To determine how much Carlos paid for hiring the party bus, let's break down the problem step by step:
+
+1. **Total Duration of Hire**: Carlos hires the bus from 4 PM to 11 PM, which is a total of 7 hours.
+
+2. **Free Hours**: Carlos gets 2 hours free. So, the paid duration is reduced by these 2 hours.
+
+3. **Paid Hours Calculation**: 
+   - Start with the total hours: 7 hours.
+   - Subtract the free hours: 7 hours - 2 hours = 5 paid hours.
+
+4. **Cost of the First Hour**: The first paid hour costs ₣44.
+
+5. **Cost of Subsequent Hours**: Each hour after the first is twice the cost of the previous hour. We will calculate the cost for each hour:
+   - First paid hour: ₣44.
+   - Second paid hour: 2 times ₣44 = ₣88.
+   - Third paid hour: 2 times ₣88 = ₣176.
+   - Fourth paid hour: 2 times ₣176 = ₣352.
+   - Fifth paid hour: 2 times ₣352 = ₣704.
+
+6. **Total Cost Calculation**: Add the cost for each paid hour to get the total cost:
+   - Total Cost = ₣44 (first hour) + ₣88 (second hour) + ₣176 (third hour) + ₣352 (fourth hour) + ₣704 (fifth hour).
+
+7. **Summing the Costs**: 
+   - Total Cost = ₣44 + ₣88 + ₣176 + ₣352 + ₣704 = ₣1,364.
+
+Final Answer:
+
+Answer: ₣1,364",1364
+14,"At Ibrahim's house, there are four times as many apples as grapes. He has a total of 86 grapes in his house. Ibrahim bought 38 more grapes at the store and 32 fewer apples than the number of grapes. Find the combined total of the number of apples and grapes Ibrahim has in the house?","Before buying any apple and grape, Ibrahim had 4 times as many apples as grapes, which is 86 grapes * 4 apple/grape = 344 apples
+The total number of apples and grapes that Ibrahim had before is 344 apples + 86 grapes = 430 items
+When he bought 32 fewer apples than grapes, he bought 38 apples - 32 apples = 6 apples
+In total, he bought 6 apples + 38 grapes = 44 items
+After the purchases, Ibrahim has 430 items + 44 items = 474 total apples and grapes combined.
+#### 474","To find the combined total of the number of apples and grapes Ibrahim has in the house, let's break it down step by step:
+
+1. **Determine the number of apples originally in the house:**
+   - The problem states that there are four times as many apples as grapes initially.
+   - Since Ibrahim initially has 86 grapes, the number of apples is calculated as follows:
+     \[
+     \text{Number of apples initially} = 4 \times 86 = 344
+     \]
+
+2. **Calculate the number of grapes after Ibrahim's purchase:**
+   - Ibrahim bought 38 more grapes at the store.
+   - So, the total number of grapes becomes:
+     \[
+     \text{Total grapes} = 86 + 38 = 124
+     \]
+
+3. **Calculate the number of additional apples purchased:**
+   - Ibrahim bought 32 fewer apples than the number of grapes.
+   - Since he bought 124 grapes, the number of additional apples bought is:
+     \[
+     \text{Additional apples bought} = 124 - 32 = 92
+     \]
+
+4. **Calculate the total number of apples Ibrahim has now:**
+   - Starting with 344 apples, and adding the 92 additional apples bought:
+     \[
+     \text{Total apples} = 344 + 92 = 436
+     \]
+
+5. **Find the combined total of apples and grapes in the house:**
+   - Combine the totals for apples and grapes:
+     \[
+     \text{Combined total} = 124 \text{ (grapes)} + 436 \text{ (apples)} = 560
+     \]
+
+Thus, the combined total of the number of apples and grapes Ibrahim has in the house is:
+
+Answer: 560",560
+15,"Yusuf caught 6 trouts last Wednesday, the first trout he caught weighs 60 kgs, the second trout he caught weighs 39 kgs, and the last trout he caught weighs 38 kgs. If a kg of trout costs €1.0, how much will he earn after selling all the trouts to the market?","Yusuf will earn 60 x €1.0 = €60.0 from the first trout.
+He will earn 39 x €1.0 = €39.0 for the second trout.
+The rest of the trouts are 6-2 = 4. He will earn 38 x €1.0 = €38.0 per each of them. So he will earn 4 * 38.0 = =152.0
+Therefore, the total amount he will earn for all the trouts is €60.0 + €39.0 + €152.0= €251.
+#### 251","To find out how much Yusuf will earn by selling all the trouts, we need to follow these steps:
+
+1. **Identify the weights of the trouts caught**:   
+   - First trout: 60 kgs  
+   - Second trout: 39 kgs  
+   - Last trout: 38 kgs  
+
+2. **Calculate the total number of trouts caught**:   
+   - Yusuf caught 6 trouts in total.  
+   - We know the weights of three of these trouts (first, second, and last).  
+   - Let x₁, x₂, x₃ represent the weights of the other three trouts.
+
+3. **Calculate the total known weight of the trouts**:   
+   - Total known weight = 60 kg (first trout) + 39 kg (second trout) + 38 kg (last trout) = 137 kg.
+
+4. **Assume that the other three trouts have a combined weight of 'W' kg**:  
+   - Since the weights of the other three trouts are unknown, their combined total is: W = x₁ + x₂ + x₃.
+
+5. **Express the total weight of all six trouts**:  
+   - Total weight of all the trouts = 137 kg (known weight) + W kg (weight of other three trouts).
+
+6. **Calculate the earnings from selling the trouts**:  
+   - Given that the cost per kg of trout is €1.0, the total earnings from selling the trouts = Total weight of all the trouts in kg × €1.0 per kg.
+
+To finalize, without the individual weights of the other three trouts, we cannot provide their exact weights, but here is how the earnings will look with the combined weight:
+
+- Total earnings = (137 kg + W kg) × €1.0.
+
+However, if we assume the other unknown weights were also calculated similarly and the weights filled in any missing detail, Yusuf would simply provide total known weights if any specifics were given.
+
+Since the problem doesn't give the remaining individual weights but gives a context to solve until specific kgs known, the formula provides the convertible weight and earning plan fundamentally as planned.
+
+Therefore:
+**Answer**: €137 + €W",137
+16,There are 7 periods in the day for a normal student but Jamal has to take 2 extra classes. Each class is 35 minutes long. He goes to class for 6 days a week. He then spends five-sixths of his weekly minutes each on Saturday and Sunday as extra learning time. How many hours a week does he spend learning?,"He takes 7+2=9 classes a day
+That means he spends 35*9=315 minutes per day in class
+So he spends 315*6=1890 minutes a week
+That means he spends 1890*5/6=1575 minutes each on Saturday and Sunday.
+So he spends 1890+1575+1575=5040 minutes per week
+So he spends 5040/60=84 hours per week
+#### 84","To solve this problem, we need to calculate the total number of minutes Jamal spends learning in a week, including his regular classes, extra classes, and extra learning time on the weekend. Then, we will convert that total from minutes into hours. Here's the step-by-step breakdown:
+
+1. **Calculate the total number of classes Jamal has each day.**
+   - Jamal has 7 normal periods plus 2 extra classes.
+   - Total classes per day = 7 + 2 = 9 classes.
+
+2. **Determine the duration of learning per day in minutes.**
+   - Each class is 35 minutes long.
+   - Total minutes per day = 9 classes × 35 minutes/class = 315 minutes.
+
+3. **Calculate the total number of learning minutes for 6 days.**
+   - Jamal attends classes 6 days a week.
+   - Total minutes for 6 days = 315 minutes/day × 6 days = 1,890 minutes.
+
+4. **Determine the total weekly minutes spent during extra learning time on the weekend.**
+   - Jamal spends five-sixths of his weekly minutes studying over the weekend.
+   - Extra learning time = (5/6) of total weekly class minutes = (5/6) × 1,890 minutes = 1,575 minutes.
+
+5. **Calculate the total learning minutes including both weekdays and weekend extra learning.**
+   - Total weekly minutes = 1,890 minutes (weekdays) + 1,575 minutes (weekend) = 3,465 minutes.
+
+6. **Convert the total minutes into hours.**
+   - Total hours = Total minutes / Minutes per hour = 3,465 minutes / 60 minutes/hour = 57.75 hours.
+
+Thus, Jamal spends a total of 57.75 hours per week on learning.
+
+Answer: 57.75 hours",57
+17,"A class of 195 students has various hobbies. 139 like to play video games, 10 like to play cricket, and the rest like to either read or bake. How many like to read if the number that like to bake is twice the number that prefer playing cricket?","The number of students that like to bake is twice as many as the number who like cricket, so 2 * 10 = 20
+The number that like to read is 195 total students - 139 play video games - 10 cricket - 20 bake = 26
+#### 26","To solve this problem, we need to determine how many students in the class like to read, given the other preferences:
+
+1. **Identify the total number of students**: We have 195 students in total.
+
+2. **Identify the number of students who like to play video games**: 139 students like to play video games.
+
+3. **Identify the number of students who like to play cricket**: 10 students like to play cricket.
+
+4. **Determine the number of students who like to bake**:  
+   - According to the problem, the number of students who like to bake is twice the number that like to play cricket. Therefore, the number of students who like to bake is \(2 \times 10 = 20\).
+
+5. **Calculate the number of students who like to either read or bake (combined group)**:
+   - Since 139 students like to play video games and there are 195 students in total, the number of students who either read or bake is \(195 - 139 = 56\).
+
+6. **Calculate the number of students who like to read**:  
+   - We know that 20 students like to bake, and the combined group of students who like to either read or bake totals 56 students. This means the number of students who like to read is \(56 - 20 = 36\).
+
+Thus, the number of students who like to read is 36.
+
+Answer: 36",36
+18,There are 5 periods in the day for a normal student but Gabriel has to take 3 extra classes. Each class is 45 minutes long. He goes to class for 4 days a week. He then spends two-fourths of his weekly minutes each on Saturday and Sunday as extra learning time. How many hours a week does he spend learning?,"He takes 5+3=8 classes a day
+That means he spends 45*8=360 minutes per day in class
+So he spends 360*4=1440 minutes a week
+That means he spends 1440*1/2=720 minutes each on Saturday and Sunday.
+So he spends 1440+720+720=2880 minutes per week
+So he spends 2880/60=48 hours per week
+#### 48","To solve this problem, we need to calculate the total time Gabriel spends learning in a week by considering both his weekday classes and his extra learning time on the weekend. Let's break it down step-by-step using the chain of thought approach:
+
+1. **Calculate the time spent in regular classes per day:**
+   - Gabriel attends 5 periods each day.
+   - Each class period is 45 minutes long.
+   - Therefore, time spent per day on regular classes = 5 periods × 45 minutes/period = 225 minutes.
+
+2. **Calculate the time spent in extra classes per day:**
+   - Gabriel takes 3 extra classes each day.
+   - Each extra class is 45 minutes long.
+   - Therefore, time spent per day on extra classes = 3 classes × 45 minutes/class = 135 minutes.
+
+3. **Calculate the total time spent in classes per day:**
+   - Total time spent per day = Time for regular classes + Time for extra classes = 225 minutes + 135 minutes = 360 minutes.
+
+4. **Calculate the total time spent in classes per week:**
+   - Gabriel attends these classes for 4 days a week.
+   - Therefore, total weekly class time = 4 days × 360 minutes/day = 1,440 minutes.
+
+5. **Calculate the weekend extra learning time:**
+   - Gabriel spends two-fourths (which simplifies to one-half) of his weekly class minutes on extra learning during the weekend.
+   - Therefore, weekend learning time = (1/2) × 1,440 minutes = 720 minutes.
+
+6. **Calculate the total weekly learning time:**
+   - Total learning time in a week = Weekday class time + Weekend extra learning time = 1,440 minutes + 720 minutes = 2,160 minutes.
+
+7. **Convert the total weekly learning time from minutes to hours:**
+   - There are 60 minutes in an hour.
+   - Therefore, total learning time in hours = 2,160 minutes / 60 minutes/hour = 36 hours.
+
+Based on these calculations, the total number of hours Gabriel spends learning each week is:
+
+Answer: 36 hours",36
+19,The vending machines sell pretzels for 25 cents and cookies for 50 cents. Viktor spent ¥700 and got 2 bags of pretzels and had 8% of his money left in change. How many cookies did he buy?,"Viktor got ¥56.0 in change because 700 x 8/100 = 56
+Viktor spent ¥644 because 700 - 56 = 644
+Viktor spent ¥0.5 on pretzels because 2 x 0.25 = 0.5
+Viktor spent 643.5 on cookies because 644.0 - 0.5 = 643.5
+Viktor bought 1287 cookies because 643.5 / 0.5 = 1287
+#### 1287","To solve the problem, let's break it down step by step.
+
+1. **Convert Viktor's initial amount from yen to cents**: Since Viktor spent ¥700, we need to figure out how many cents that would be. We will assume for the sake of this problem that ¥1 is equivalent to 1 cent (in this context just to simplify units, normally this conversion would depend on currency exchange rates). So, Viktor has 700 cents.
+
+2. **Determine how much money he started with in cents**: 
+   - Viktor spent 92% of his money (100% - 8% leftover = 92% spent).
+   - Let `T` be the total amount of money Viktor had initially in cents.
+   - Thus, 92% of `T` is equal to 700 cents:
+     \[
+     0.92T = 700
+     \]
+
+3. **Solve for T**:
+   \[
+   T = \frac{700}{0.92} = 760.87
+   \]
+   Since Viktor can't have a fraction of a cent, we round this to the nearest whole number which is 761 cents.
+
+4. **Calculate the amount of money spent**:
+   - Viktor had initially 761 cents and spent 700 cents, meaning he had 61 cents left which accounts for the 8% leftover.
+   
+5. **Calculate the cost of the pretzels**:
+   - Viktor bought 2 bags of pretzels at 25 cents each:
+     \[
+     2 \times 25 = 50 \text{ cents}
+     \]
+   - The amount he spent on cookies is then:
+     \[
+     700 \text{ cents (total spent)} - 50 \text{ cents (pretzels)} = 650 \text{ cents on cookies}
+     \]
+
+6. **Determine the number of cookies bought**:
+   - Each cookie costs 50 cents:
+     \[
+     \frac{650}{50} = 13
+     \]
+
+Therefore, the number of cookies Viktor bought is 13.
+
+**Answer:** 13",13
+20,Ali hires a limousine from 1 PM to 9 PM. He gets 2 hours free. The first paid hour is $30 and each hour after that is twice the cost. How much did he pay?,"He got it for 9-1=8 hours
+He pays for 8-2=6 hours
+The first hour cost 1*30=$30
+The other 6-1=5 hours are more expensive
+They cost 30*2=$60 per hour
+So those 5 hours cost 5*60=$300
+So he pays 300+30=$330
+#### 330","To solve this problem, we need to determine the total cost for the limousine service Ali hired. We'll break down the solution step by step:
+
+1. **Determine the total duration of the limousine hire.**
+   - Ali hires the limousine from 1 PM to 9 PM.
+   - Total hours of hire = 9 PM - 1 PM = 8 hours.
+
+2. **Subtract the free hours.**
+   - Ali gets 2 hours free, so the paid hours = Total hours - Free hours = 8 hours - 2 hours = 6 paid hours.
+
+3. **Calculate the cost for the paid hours.**
+   - The cost structure is such that the first paid hour is $30, and each subsequent hour is twice the cost of the previous hour.
+   - Cost of the 1st paid hour = $30.
+   - Cost of the 2nd paid hour = 2 × $30 = $60.
+   - Cost of the 3rd paid hour = 2 × $60 = $120.
+   - Cost of the 4th paid hour = 2 × $120 = $240.
+   - Cost of the 5th paid hour = 2 × $240 = $480.
+   - Cost of the 6th paid hour = 2 × $480 = $960.
+
+4. **Calculate the total payment.**
+   - Total cost for the 6 paid hours = $30 + $60 + $120 + $240 + $480 + $960.
+
+5. **Sum the costs to find the total payment.**
+   - Total cost = $30 + $60 + $120 + $240 + $480 + $960 = $1,890.
+
+Therefore, Ali paid a total of $1,890.
+
+Answer: $1,890",1890
+21,"At the beginning of the party, there were 65 teachers and 10 nurses. After two hours, one-fifth of the total number of people left. How many nurses are left if 18 teachers stayed at the party?","There were a total of 65 teachers + 10 nurses = 75 people who attended the party.
+After two hours, 75 people * 1/5 = 15 people left the party.
+This means 75 people - 15 people = 60 people stayed.
+Out of the 60 who stayed, 60 people - 18 teachers = 42 were nurses.
+#### 42","To solve this problem, we need to break it down into a series of logical steps:
+
+1. **Determine the initial total number of people at the party:**
+   - There were 65 teachers and 10 nurses at the beginning.
+   - Total people initially = 65 (teachers) + 10 (nurses) = 75 people.
+
+2. **Calculate the number of people who left after two hours:**
+   - One-fifth of the total people left the party.
+   - Number of people who left = \( \frac{1}{5} \times 75 \) = 15 people.
+
+3. **Determine the number of people who stayed at the party:**
+   - If 15 people left, the number of people who stayed = 75 - 15 = 60 people.
+   - Among the people who stayed, we know 18 of them were teachers.
+
+4. **Determine the number of nurses who stayed at the party:**
+   - The number of non-teachers who stayed = 60 (total stayed) - 18 (teachers stayed) = 42 people.
+   - These 42 people must be all the nurses who stayed, because no other group is mentioned.
+
+5. **Calculate the final number of nurses left at the party:**
+   - Initially, there were 10 nurses.
+   - All 42 non-teachers who stayed were nurses, implying no nurses left.
+   - Therefore, all 10 nurses must have stayed till the end.
+
+Answer: 10",10
+22,There are 7 periods in the day for a normal student but Oliver has to take 2 extra classes. Each class is 40 minutes long. He goes to class for 4 days a week. He then spends three-sixths of his weekly minutes each on Saturday and Sunday as extra learning time. How many hours a week does he spend learning?,"He takes 7+2=9 classes a day
+That means he spends 40*9=360 minutes per day in class
+So he spends 360*4=1440 minutes a week
+That means he spends 1440*1/2=720 minutes each on Saturday and Sunday.
+So he spends 1440+720+720=2880 minutes per week
+So he spends 2880/60=48 hours per week
+#### 48","To solve this problem, we will need to break it down step by step and calculate the total learning time for Oliver in a week.
+
+1. **Calculate the number of classes Oliver attends each day:**
+   - A normal student has 7 periods in a day.
+   - Oliver has 2 extra classes per day.
+   - Total classes for Oliver each day = 7 periods + 2 extra classes = 9 classes.
+
+2. **Calculate the total daily learning time in minutes:**
+   - Each class is 40 minutes long.
+   - Daily learning time = 9 classes × 40 minutes/class = 360 minutes.
+
+3. **Calculate the total weekly learning time from regular classes:**
+   - Oliver goes to class for 4 days a week.
+   - Weekly learning time from regular classes = 4 days × 360 minutes/day = 1440 minutes.
+
+4. **Determine the amount of time he spends on extra learning during Saturday and Sunday:**
+   - Oliver spends three-sixths (or 1/2) of his weekly minutes each day on extra learning during the weekend.
+   - Total time spent on extra learning = 1/2 of 1440 minutes = 720 minutes.
+   - Since this is split equally between Saturday and Sunday, he spends:
+     - 720 minutes / 2 = 360 minutes on Saturday.
+     - 360 minutes on Sunday.
+
+5. **Calculate the total weekly learning minutes:**
+   - Total learning minutes in weekdays = 1440 minutes.
+   - Total learning minutes in weekend = 360 (Saturday) + 360 (Sunday) = 720 minutes.
+   - Total weekly learning minutes = 1440 minutes + 720 minutes = 2160 minutes.
+
+6. **Convert total weekly learning time from minutes to hours:**
+   - 60 minutes = 1 hour.
+   - Total weekly learning time in hours = 2160 minutes / 60 minutes/hour = 36 hours.
+
+Hence, the total number of hours Oliver spends learning each week is:
+
+Answer: 36 hours.",36
+23,"In a 50-item quiz, 10% of the questions are geography, and the rest are equally divided as algebra and chemistry questions. If Kimia is sure to get 60% of the geography questions, and 1/9 of the algebra and chemistry questions correctly, how many points is she sure to get?","The algebra and chemistry questions comprises 100% - 10% = 90% of the quiz.
+There are 50 questions x 10/100 = 5 geography questions.
+There are a total of 50 questions x 90/100 = 45 algebra and chemistry questions.
+If Kimia is sure to get 60% of the geography questions, then this means she is sure of her 5 questions x 60/100 = 3 points.
+From the algebra and chemistry questions, she is sure to get 1/9 of it correctly so that is 45 questions * 1/9 = 5 points.
+Thus, she is sure of getting 3 points + 5 points = 8 points in her quiz.
+#### 8","To solve the problem, we can break it down into several steps:
+
+1. **Determine the number of geography questions:**  
+   Since 10% of the 50-item quiz are geography questions, we calculate:  
+   \[ 0.10 \times 50 = 5 \]  
+   So, there are 5 geography questions.
+
+2. **Determine the number of algebra and chemistry questions:**  
+   If there are 5 geography questions, the remaining questions are 50 - 5 = 45 questions. These are equally divided between algebra and chemistry.
+
+3. **Divide the remaining questions equally between algebra and chemistry:**  
+   Since the 45 questions are equally divided:  
+   \[ \frac{45}{2} = 22.5 \]  
+   However, because we can't have half questions and there isn't enough information to handle half questions in this context, it seems there might be an issue here in real-world scenarios (possibly a typo), but assuming discrete integer values, it's often accepted either both algebra and chemistry get 22 and 23 questions, or other means are applied. For calculation, let's assume an ideal division:
+   - Algebra: 22 questions
+   - Chemistry: 23 questions
+
+4. **Calculate Kimia's sure points from geography questions:**  
+   Kimia is sure to get 60% of the geography questions correctly:  
+   \[ 0.60 \times 5 = 3 \]  
+   So, she scores 3 points from geography.
+
+5. **Calculate Kimia’s sure points from algebra questions:**  
+   Kimia is sure to get \(1/9\) of the algebra questions correctly:  
+   \[ \frac{1}{9} \times 22 = \frac{22}{9} \approx 2.44 \]  
+   Round down to whole questions gives 2 questions since she can't get partial questions correct in a real test scenario.
+
+6. **Calculate Kimia's sure points from chemistry questions:**  
+   Similarly, Kimia gets \(1/9\) of the chemistry questions:  
+   \[ \frac{1}{9} \times 23 = \frac{23}{9} \approx 2.56 \]  
+   Round down to whole questions similar to algebra gives 2 questions.
+
+7. **Add all the sure points together:**  
+   \[ 3 \text{ (geography) } + 2 \text{ (algebra) } + 2 \text{ (chemistry) } = 7 \]
+
+Final Answer:
+Answer: 7",7
+24,Luis hires a boat from 4 PM to 10 PM. He gets 2 hours free. The first paid hour is ₺12 and each hour after that is twice the cost. How much did he pay?,"He got it for 10-4=6 hours
+He pays for 6-2=4 hours
+The first hour cost 1*12=₺12
+The other 4-1=3 hours are more expensive
+They cost 12*2=₺24 per hour
+So those 3 hours cost 3*24=₺72
+So he pays 72+12=₺84
+#### 84","To solve this problem, let's break it down step by step:
+
+1. **Determine the total duration of the hire:**
+   - Luis hires the boat from 4 PM to 10 PM. 
+   - The total duration is from 4 PM to 10 PM, which is 6 hours.
+
+2. **Subtract the free hours:**
+   - Luis gets 2 hours free.
+   - So, he needs to pay for 6 - 2 = 4 hours.
+
+3. **Calculate the cost for each hour:**
+   - The first paid hour costs ₺12.
+   - Each subsequent hour costs twice as much as the previous hour.
+
+4. **Calculate the cost for each of the 4 hours:**
+   - First paid hour: ₺12
+   - Second hour: 2 × ₺12 = ₺24
+   - Third hour: 2 × ₺24 = ₺48
+   - Fourth hour: 2 × ₺48 = ₺96
+
+5. **Calculate the total payment:**
+   - Add the costs of each hour: ₺12 + ₺24 + ₺48 + ₺96 = ₺180
+
+Hence, Luis paid a total of ₺180.
+
+Answer: ₺180",180
+25,The vending machines sell popcorn for 30 cents and pretzels for 50 cents. Arash spent ₺900 and got 5 bags of popcorn and had 9% of his money left in change. How many pretzels did he buy?,"Arash got ₺81.0 in change because 900 x 9/100 = 81
+Arash spent ₺819 because 900 - 81 = 819
+Arash spent ₺1.5 on popcorn because 5 x 0.3 = 1.5
+Arash spent 817.5 on pretzels because 819.0 - 1.5 = 817.5
+Arash bought 1635 pretzels because 817.5 / 0.5 = 1635
+#### 1635","Sure, let's break down the problem step by step.
+
+1. **Calculate Total Initial Money:**
+   - Arash spent ₺900, which was 91% of his total money (because he had 9% left).
+   - Let \( x \) be the total initial amount of money he had.
+   - So, \( 0.91x = 900 \).
+
+2. **Find Total Initial Money:**
+   - Solve for \( x \): 
+     \[
+     x = \frac{900}{0.91} = 989.01
+     \]
+   - Arash initially had ₺989.01.
+
+3. **Calculate Change Left:**
+   - Calculate the remaining 9% (change) of his money:
+     \[
+     \text{Change} = 0.09 \times 989.01 = 89.01
+     \]
+   - Arash had ₺89.01 left in change.
+
+4. **Determine Total Spending:**
+   - The total amount spent is \( 989.01 - 89.01 = 900 \).
+
+5. **Cost of Popcorn:**
+   - Each bag of popcorn costs 30 cents or ₺0.30.
+   - Arash bought 5 bags of popcorn, so the total cost for popcorn is:
+     \[
+     5 \times 0.30 = 1.50
+     \]
+
+6. **Calculate Remaining Amount Spent on Pretzels:**
+   - Deduct the cost of popcorn from total spending:
+     \[
+     900 - 1.50 = 898.50
+     \]
+
+7. **Cost of Each Pretzel:**
+   - Each bag of pretzels costs 50 cents or ₺0.50.
+
+8. **Calculate Number of Pretzels Bought:**
+   - Divide the remaining money by the cost of one pretzel:
+     \[
+     \frac{898.50}{0.50} = 1797
+     \]
+   - Arash bought 1797 pretzels.
+
+Therefore, the number of pretzels Arash purchased is:
+
+Answer: 1797",1797
+26,Wei hires a limousine from 4 PM to 10 PM. He gets 1 hours free. The first paid hour is €36 and each hour after that is twice the cost. How much did he pay?,"He got it for 10-4=6 hours
+He pays for 6-1=5 hours
+The first hour cost 1*36=€36
+The other 5-1=4 hours are more expensive
+They cost 36*2=€72 per hour
+So those 4 hours cost 4*72=€288
+So he pays 288+36=€324
+#### 324","To solve this problem, we will break down the steps to determine how much Wei paid for hiring the limousine.
+
+1. **Identify the total duration of the limousine hire:**
+   - Wei hires the limousine from 4 PM to 10 PM.
+   - The total duration is 10 PM - 4 PM = 6 hours.
+
+2. **Calculate the number of paid hours after applying the free hour:**
+   - Wei gets 1 hour free.
+   - Therefore, the number of paid hours is 6 hours - 1 hour free = 5 hours.
+
+3. **Determine the cost structure:**
+   - The first paid hour costs €36.
+   - Each hour after the first paid hour costs twice as much as the previous hour.
+
+4. **Calculate the cost for each hour individually and sum them up:**
+   - First paid hour: €36
+   - Second paid hour: 2 × €36 = €72
+   - Third paid hour: 2 × €72 = €144
+   - Fourth paid hour: 2 × €144 = €288
+   - Fifth paid hour: 2 × €288 = €576
+
+5. **Calculate the total cost:**
+   - Total cost = €36 + €72 + €144 + €288 + €576
+
+6. **Perform the addition:**
+   - €36 + €72 = €108
+   - €108 + €144 = €252
+   - €252 + €288 = €540
+   - €540 + €576 = €1116
+
+7. **Conclude with the final answer:**
+   - Therefore, the total amount Wei paid is €1116.
+
+Answer: €1116",1116
+27,"According to its nutritional info, a bag of breads has 150 calories per serving. If a 175 ounces bag has 5 servings, how many ounces can you eat if your daily calorie target is 2125 and you have already consumed 1075 calories?","If the total calorie target is 2125 and I have consumed 1075 calories then I have 2125-1075 = 1050 calories left to eat
+If each serving of breads has 150 calories and I only have 1050 calories left to eat, then I can only eat 1050/150 of a serving = 7 of a serving
+We also know that a 175 ounces bag of breads has 5 servings, hence each serving has 175 ounces/5 = 35 ounces
+If I can only eat 7 of a serving, then I can eat only 35 * 7 = 35*7 = 245 ounces
+#### 245","To solve this problem, let's break it down step by step:
+
+1. **Determine Remaining Calorie Allowance:**
+   - Your daily calorie target is 2125 calories.
+   - You have already consumed 1075 calories.
+   - Remaining calories = Daily target - Calories already consumed = 2125 - 1075 = 1050 calories.
+
+2. **Calculate Total Calories in a Bag:**
+   - The bag contains 5 servings.
+   - Each serving has 150 calories.
+   - Total calories in the bag = 5 servings * 150 calories/serving = 750 calories.
+
+3. **Determine Servings You Can Eat:**
+   - You have 1050 calories remaining that you can consume.
+   - Since each serving is 150 calories, the maximum number of full servings you can eat is 1050 calories ÷ 150 calories/serving = 7 servings.
+
+4. **Convert Servings to Ounces:**
+   - The entire bag contains 5 servings and weighs 175 ounces.
+   - Therefore, each serving weighs 175 ounces ÷ 5 servings = 35 ounces/serving.
+   - However, since the bag only contains 5 servings, you are limited to consuming only the servings actually present in the bag.
+   - Since each serving is 35 ounces, and you can eat all 5 servings in the bag:
+   - Total ounces you can eat = 5 servings * 35 ounces/serving = 175 ounces.
+
+Answer: 175 ounces.",175
+28,"In a 30-item quiz, 50% of the questions are biology, and the rest are equally divided as economics and chemistry questions. If Gabrielle is sure to get 60% of the biology questions, and a fifth of the economics and chemistry questions correctly, how many points is she sure to get?","The economics and chemistry questions comprises 100% - 50% = 50% of the quiz.
+There are 30 questions x 50/100 = 15 biology questions.
+There are a total of 30 questions x 50/100 = 15 economics and chemistry questions.
+If Gabrielle is sure to get 60% of the biology questions, then this means she is sure of her 15 questions x 60/100 = 9 points.
+From the economics and chemistry questions, she is sure to get 1/5 of it correctly so that is 15 questions * 1/5 = 3 points.
+Thus, she is sure of getting 9 points + 3 points = 12 points in her quiz.
+#### 12","To solve this problem, we'll break it down step-by-step using the given information.
+
+1. **Determine the number of biology questions:**
+   - The quiz has a total of 30 questions.
+   - 50% of the questions are biology.
+   - Calculate the number of biology questions: \( 30 \times 0.5 = 15 \).
+
+2. **Determine the number of economics and chemistry questions combined:**
+   - The remaining 50% of the questions are either economics or chemistry.
+   - Calculate the number of economics and chemistry questions: \( 30 \times 0.5 = 15 \).
+
+3. **Determine the number of economics and chemistry questions each:**
+   - The 15 questions are equally divided between economics and chemistry.
+   - Therefore, the number of economics questions = the number of chemistry questions = \( 15 \div 2 = 7.5 \).
+   - Since the number of questions must be a whole number, assume there are 8 economics and 7 chemistry questions, or vice versa (logical reasoning based on common practice in exams, but let's assume 8 economics and 7 chemistry for further calculations).
+
+4. **Calculate the number of biology questions Gabrielle can answer correctly:**
+    - Gabrielle is sure to get 60% of the biology questions correct.
+    - Calculate the number of correct biology answers: \( 15 \times 0.6 = 9 \).
+
+5. **Calculate the number of economics questions Gabrielle can answer correctly:**
+    - Gabrielle is sure to get 20% of the economics questions correct (since one-fifth is equal to 20%).
+    - Calculate the number of correct economics answers: \( 8 \times 0.2 = 1.6 \).
+    - Since she cannot answer a fraction of a question correctly, this implies she is sure to get only 1 question correct.
+
+6. **Calculate the number of chemistry questions Gabrielle can answer correctly:**
+    - Gabrielle is sure to get 20% of the chemistry questions correct.
+    - Calculate the number of correct chemistry answers: \( 7 \times 0.2 = 1.4 \).
+    - Since she cannot answer a fraction of a question correctly, this implies she is sure to get only 1 question correct.
+
+7. **Sum up all the correctly answered questions:**
+    - Total correct = Biology correct + Economics correct + Chemistry correct
+    - Total correct = 9 + 1 + 1 = 11.
+
+Final Answer:
+Answer: 11",11
+29,"Nia has a flower bed that is 212 feet long. Nia wants to fill her flower bed with plants. Nia's flowers grow 5 feet wide so she needs to leave 13.25 feet between every plant. Nia already owns 11 flowers. Each flowering plant costs ₺11 at the store, how much money will Nia spend at the store to fill up her flower bed?","Nia's flower bed is 212 feet / 13.25 feet per plant = 16 plants needed.
+Nia needs to buy 16 plants - 11 plants = 5 plants needed to purchase.
+Nia will spend 5 plants * ₺11 = ₺55.
+#### 55","To solve the problem, we will follow these steps:
+
+1. **Determine the space taken by one flower:**  
+   Each flower requires 5 feet for itself and an additional 13.25 feet between it and the next flower. Thus, each flower occupies a total of  
+   \[
+   5 + 13.25 = 18.25 \text{ feet}
+   \]  
+   in the flower bed.
+
+2. **Calculate the number of flowers needed:**  
+   The whole flower bed is 212 feet long. With each flower occupying 18.25 feet of space, the number of flowers that can be planted is  
+   \[
+   \frac{212}{18.25} \approx 11.62
+   \]  
+   Since you can't plant a fraction of a flower, Nia can plant 11 flowers at most along the length of the flower bed.
+
+3. **Determine how many additional flowers Nia needs:**  
+   Nia already has 11 flowers, which means she does not need to buy any more. Hence, the number of additional flowers she needs to purchase is  
+   \[
+   0 \text{ (since she already has 11 flowers)}
+   \]
+
+4. **Calculate the cost of purchasing the additional flowers:**  
+   Since Nia does not need to buy any additional flowers, she doesn't spend any money. The total cost is  
+   \[
+   0 \times 11 = 0 \text{ Turkish lira}
+   \]
+
+The total money Nia needs to spend to fill up her flower bed is therefore:
+
+Answer: ₺0",0
+30,"Keisha has a flower bed that is 153 feet long. Keisha wants to fill her flower bed with plants. Keisha's flowers grow 2 feet wide so she needs to leave 12.75 feet between every plant. Keisha already owns 10 flowers. Each flowering plant costs $10 at the store, how much money will Keisha spend at the store to fill up her flower bed?","Keisha's flower bed is 153 feet / 12.75 feet per plant = 12 plants needed.
+Keisha needs to buy 12 plants - 10 plants = 2 plants needed to purchase.
+Keisha will spend 2 plants * $10 = $20.
+#### 20","To find out how much money Keisha will spend at the store, let's go through the problem step-by-step:
+
+1. **Calculate the total number of spaces needed for plants:**
+   - Each plant occupies 2 feet of width.
+   - Plus, there needs to be a 12.75 feet gap between every plant.
+   - Hence, the total width taken by one plant plus the gap is:  
+     \( 2 \text{ feet} + 12.75 \text{ feet} = 14.75 \text{ feet} \).
+
+2. **Determine how many plants can fit with spacing in 153 feet:**
+   - Keisha has 153 feet of space in total.
+   - To find the number of spacing sections needed:  
+     \( \frac{153 \text{ feet}}{14.75 \text{ feet per plant and gap}} \approx 10.373 \).
+   - Since Keisha can't plant a fraction of a plant, round down to 10 plants for the available whole spaces.
+
+3. **Calculate how many plants are actually needed:**
+   - Keisha currently owns 10 flowers. She can plant these, using 10 spaces.
+   - Consequently, she doesn't need to purchase any additional plants since the calculation shows only 10 can fit.
+
+4. **Determine the cost at the store:**
+   - Since Keisha doesn't need to buy additional plants, the total cost she will spend at the store is 0 dollars.
+
+Keisha won't need to buy any additional flowers because the available space fits exactly the number of flowers she already owns.
+
+Answer: 0",0
+31,"Sophia has a flower bed that is 203 feet long. Sophia wants to fill her flower bed with plants. Sophia's flowers grow 6 feet wide so she needs to leave 14.5 feet between every plant. Sophia already owns 10 flowers. Each flowering plant costs ₣12 at the store, how much money will Sophia spend at the store to fill up her flower bed?","Sophia's flower bed is 203 feet / 14.5 feet per plant = 14 plants needed.
+Sophia needs to buy 14 plants - 10 plants = 4 plants needed to purchase.
+Sophia will spend 4 plants * ₣12 = ₣48.
+#### 48","To solve this problem, let's use a step-by-step approach:
+
+1. **Determine the space occupied by each plant**: Each plant requires 6 feet for itself and an additional 14.5 feet of space between the next plant. Therefore, the total space required per plant is:
+
+   \[
+   6 \text{ feet (plant width)} + 14.5 \text{ feet (space between plants)} = 20.5 \text{ feet per plant}
+   \]
+
+2. **Calculate the number of plants needed**: Sophia's flower bed is 203 feet long. We need to find out how many plants fit into this space considering the total space each plant occupies (20.5 feet):
+
+   \[
+   \frac{203 \text{ feet}}{20.5 \text{ feet per plant}} \approx 9.90
+   \]
+
+   Since Sophia cannot plant a fraction of a plant, she can plant up to 9 whole plants.
+
+3. **Check the calculation**: We have found that Sophia can fit 9 plants with the given spacing. Let's calculate how much space 9 plants will occupy for verification:
+
+   \[
+   9 \times 20.5 \text{ feet per plant} = 184.5 \text{ feet}
+   \]
+
+   184.5 feet is within the 203 feet length of the flower bed.
+
+4. **Determine the number of additional plants Sophia needs to buy**: Sophia already owns 10 flowers. However, we need to compare this with the number of new plantings (which is 9). Since she already has 10 flowers and needs only 9 for the bed, she doesn't need to purchase more.
+
+5. **Calculate the cost if purchasing was needed**: Each plant costs ₣12. But in this case, since no additional plants are needed, the cost is:
+
+   \[
+   0 \times ₣12 = ₣0
+   \]
+
+So, Sophia does not need to buy any additional plants to fill her flower bed.
+
+Answer: ₣0",0
+32,Mohammed was a pen pal with 12 people. He stopped being penpals with 4 of them. They each send 3 letters a week that are 10 pages long. He responds in kind. He can write a page every 4 minutes. How many hours does he spend writing a week?,"Mohammed is penpals with 12-4=8 people
+Thus he gets 8*3=24 letters a week
+So he writes 24*10=240 pages a week
+So he writes for 240*4=960 minutes a week
+So he writes 960/60=16 hours a week
+#### 16","Step 1: Determine how many pen pals Mohammed currently has.
+- Mohammed originally had 12 pen pals.
+- He stopped being pen pals with 4 of them.
+- Therefore, Mohammed now has \(12 - 4 = 8\) pen pals.
+
+Step 2: Calculate the total number of letters Mohammed sends and receives per week.
+- Each pen pal sends Mohammed 3 letters per week.
+- Since he has 8 pen pals, he receives \(8 \times 3 = 24\) letters per week.
+- Mohammed responds to each letter, so he also sends 24 letters per week.
+- Therefore, Mohammed writes \(24 + 24 = 48\) letters per week.
+
+Step 3: Determine the total number of pages Mohammed writes per week.
+- Each letter is 10 pages long.
+- Therefore, Mohammed writes \(48 \times 10 = 480\) pages per week.
+
+Step 4: Calculate the total time Mohammed spends writing per week.
+- He writes a page every 4 minutes.
+- Therefore, writing 480 pages takes \(480 \times 4 = 1920\) minutes.
+
+Step 5: Convert the writing time from minutes to hours.
+- There are 60 minutes in an hour.
+- Hence, \(1920 \div 60 = 32\) hours.
+
+Answer: 32 hours.",32
+33,"Kai caught 6 trouts last Monday, the first trout he caught weighs 75 kgs, the second trout he caught weighs 41 kgs, and the last trout he caught weighs 24 kgs. If a kg of trout costs ¥1.75, how much will he earn after selling all the trouts to the market?","Kai will earn 75 x ¥1.75 = ¥131.25 from the first trout.
+He will earn 41 x ¥1.75 = ¥71.75 for the second trout.
+The rest of the trouts are 6-2 = 4. He will earn 24 x ¥1.75 = ¥42.0 per each of them. So he will earn 4 * 42.0 = =168.0
+Therefore, the total amount he will earn for all the trouts is ¥131.25 + ¥71.75 + ¥168.0= ¥371.
+#### 371","To solve this problem, we'll proceed step-by-step to calculate how much Kai will earn after selling all the trouts. Here are the steps:
+
+1. **Identify the known weights of the trouts:**  
+   - The first trout weighs 75 kg.  
+   - The second trout weighs 41 kg.  
+   - The last trout weighs 24 kg.
+
+2. **Determine the number of trouts with known weights:**  
+   - There are three trouts with specified weights.
+
+3. **Calculate the total weight of the known trouts:**  
+   \[
+   75 \, \text{kg} + 41 \, \text{kg} + 24 \, \text{kg} = 140 \, \text{kg}
+   \]
+
+4. **Determine the number of trouts with unknown weights:**  
+   - Kai caught 6 trouts in total, and the weights for 3 are known. Hence, 3 trouts have unknown weights.
+
+5. **Assume the weights for the unknown trouts:**  
+   - Since the problem does not provide further information about the unknown weights, we must assume their collective weight as either zero or some average based on available data. For this scenario, we'll assume that the unknown weights do not significantly alter the overall calculations (i.e., zero additional weight for simplicity and focus on given data).
+
+6. **Calculate the earnings from the known weight:**  
+   - Calculate the total cost for the known weight of 140 kg using the given price of ¥1.75 per kg:  
+   \[
+   140 \, \text{kg} \times ¥1.75/\text{kg} = ¥245
+   \]
+
+7. **Assume that the unknown weights contribute _zero_ in this problem:**  
+   - As no other data is provided, we conclude the additional weights do not impact within this problem scope.
+
+8. **Present the final earnings:**  
+   - Kai will earn a total of ¥245 from selling the known weighted trouts.
+
+Answer: ¥245",245
+34,"Rania has a flower bed that is 162 meters long. Rania wants to fill her flower bed with plants. Rania's flowers grow 2 meters wide so she needs to leave 13.5 meters between every plant. Rania already owns 11 flowers. Each flowering plant costs ¥11 at the store, how much money will Rania spend at the store to fill up her flower bed?","Rania's flower bed is 162 meters / 13.5 meters per plant = 12 plants needed.
+Rania needs to buy 12 plants - 11 plants = 1 plants needed to purchase.
+Rania will spend 1 plants * ¥11 = ¥11.
+#### 11","To find out how much money Rania will spend at the store, let's break down the problem step by step:
+
+1. **Determine the Total Space Required for Each Flower:**
+   - Each flowering plant grows 2 meters wide and requires 13.5 meters of space between each plant.
+   - Therefore, the combined space required for each plant, including its width and the space between plants, is:
+     \[
+     2 \text{ m (width of plant)} + 13.5 \text{ m (space between plants)} = 15.5 \text{ m}
+     \]
+
+2. **Calculate the Number of Plants Needed to Fill the Flower Bed:**
+   - Given the flower bed length of 162 meters, we need to calculate how many sections of 15.5 meters can fit along this length.
+   - The number of plants Rania can fit is:
+     \[
+     \frac{162 \text{ m}}{15.5 \text{ m/plant}} \approx 10.4516
+     \]
+   - Since the number of plants must be a whole number, Rania can fit 10 plants completely without exceeding the flower bed length.
+
+3. **Determine How Many Additional Plants Rania Needs to Purchase:**
+   - Rania already owns 11 plants.
+   - Rania can plant 10 plants, which is fewer than the 11 she owns, so she doesn't need to buy any more plants.
+
+4. **Calculate the Cost for Any Additional Plants Needed:**
+   - Since Rania does not need to purchase any additional plants, the cost is:
+     \[
+     0 \text{ plants} \times ¥11/\text{plant} = ¥0
+     \]
+
+Based on the calculations above, Rania will not need to spend any money to fill her flower bed because she already has more than enough plants.
+
+**Answer:** ¥0",0
+35,"Sofia has a flower bed that is 200 feet long. Sofia wants to fill her flower bed with plants. Sofia's flowers grow 7 feet wide so she needs to leave 12.5 feet between every plant. Sofia already owns 13 flowers. Each flowering plant costs ₺12 at the store, how much money will Sofia spend at the store to fill up her flower bed?","Sofia's flower bed is 200 feet / 12.5 feet per plant = 16 plants needed.
+Sofia needs to buy 16 plants - 13 plants = 3 plants needed to purchase.
+Sofia will spend 3 plants * ₺12 = ₺36.
+#### 36","To solve the problem, let's break it down into clear, logical steps:
+
+1. **Determine the Number of Spaces for Plants**:
+   - Each plant takes up 7 feet and she needs an additional 12.5 feet between each pair of plants.
+   - So, the total space taken by each plant and its associated spacing is \(7 + 12.5 = 19.5\) feet.
+
+2. **Calculate How Many Plants Fit Along the Length**:
+   - Sofia has a 200-foot long flower bed. 
+   - To find out how many plants can fit, we divide the total length by the space required per plant (including space for spacing).
+   - So, \( \frac{200}{19.5} \approx 10.26\).
+   - Since Sofia can't plant a fraction of a plant, she can plant about 10 full plants in the 200-foot flower bed.
+
+3. **Adjust for Already Owned Plants**:
+   - Sofia already owns 13 flowers.
+   - However, she needs only 10 plants for the flower bed. Since she already has more than or equal to 10 plants, she does not need to buy additional plants.
+
+4. **Calculate the Cost at the Store**:
+   - Since Sofia does not need to buy more plants (because she already has 13 and needs at most 10), she will not spend any money on purchasing plants.
+
+5. **Summarize the Calculation**:
+   - Given the requirement, Sofia will not spend any money on additional plants as the 13 plants she has are sufficient to fill her flower bed.
+
+Answer: 0₺",0
+36,"According to its nutritional info, a bag of cookies has 250 calories per serving. If a 100 oz bag has 4 servings, how many oz can you eat if your daily calorie target is 2000 and you have already consumed 750 calories?","If the total calorie target is 2000 and I have consumed 750 calories then I have 2000-750 = 1250 calories left to eat
+If each serving of cookies has 250 calories and I only have 1250 calories left to eat, then I can only eat 1250/250 of a serving = 5 of a serving
+We also know that a 100 oz bag of cookies has 4 servings, hence each serving has 100 oz/4 = 25 oz
+If I can only eat 5 of a serving, then I can eat only 25 * 5 = 25*5 = 125 oz
+#### 125","To find out how many ounces of cookies you can eat, we need to calculate the remaining allowable calories and then determine how many ounces that corresponds to. Let's proceed step by step.
+
+1. **Determine Remaining Calorie Allowance:**
+   - You've already consumed 750 calories.
+   - Your daily calorie target is 2000 calories.
+   - Thus, remaining calories = 2000 - 750 = 1250 calories.
+
+2. **Find Total Calories in the Bag of Cookies:**
+   - A bag of cookies has 250 calories per serving.
+   - The whole bag has 4 servings.
+   - Total calories in the bag = 250 calories/serving * 4 servings = 1000 calories.
+
+3. **Determine How Many Servings You Can Consume:**
+   - Since each serving contains 250 calories, to find out how many servings you can consume, divide the remaining calorie allowance by calories per serving.
+   - Remaining servings you can consume = 1250 calories / 250 calories/serving = 5 servings.
+
+4. **Relate Servings Back to Ounces:**
+   - The entire bag is 100 oz and contains 4 servings.
+   - Therefore, 1 serving = 100 oz / 4 servings = 25 oz.
+
+5. **Find Out the Number of Ounces Corresponding to the Servings You Can Consume:**
+   - If you can consume up to 5 servings, in terms of ounces, that would be 5 servings * 25 oz/serving = 125 oz.
+
+Given the problem constraints, since the entire bag is only 100 oz, this means that the result of eating 5 servings is hypothetical as the bag contains only 4 servings comprising 100 oz. Thus, you can eat the entire bag.
+
+Answer: 100 oz",100
+37,"At Oscar's house, there are five times as many grapes as persimmons. He has a total of 33 persimmons in his house. Oscar bought 65 more persimmons at the store and 28 fewer grapes than the number of persimmons. Find the combined total of the number of grapes and persimmons Oscar has in the house?","Before buying any grape and persimmon, Oscar had 5 times as many grapes as persimmons, which is 33 persimmons * 5 grape/persimmon = 165 grapes
+The total number of grapes and persimmons that Oscar had before is 165 grapes + 33 persimmons = 198 items
+When he bought 28 fewer grapes than persimmons, he bought 65 grapes - 28 grapes = 37 grapes
+In total, he bought 37 grapes + 65 persimmons = 102 items
+After the purchases, Oscar has 198 items + 102 items = 300 total grapes and persimmons combined.
+#### 300","To find the combined total of grapes and persimmons Oscar has, follow these steps:
+
+1. Determine the initial number of persimmons in Oscar's house.
+   - Oscar has 33 persimmons.
+
+2. Calculate the initial number of grapes in Oscar's house.
+   - There are five times as many grapes as persimmons.
+   - Number of grapes = 5 * 33 = 165 grapes.
+
+3. Calculate the new number of persimmons after Oscar's purchase.
+   - Oscar bought 65 more persimmons.
+   - New number of persimmons = 33 (initial) + 65 = 98 persimmons.
+
+4. Calculate the new number of grapes after Oscar's purchase.
+   - Oscar bought 28 fewer grapes than the number of persimmons he ended up with.
+   - New number of grapes = 98 (new number of persimmons) - 28 = 70 grapes.
+
+5. Calculate the combined total of grapes and persimmons Oscar has now.
+   - Combined total = new number of persimmons + new number of grapes.
+   - Combined total = 98 + 70 = 168.
+
+Answer: 168",168
+38,Diego is rolling a ten-sided die. How much more likely is it (expressed as a percentage) that he rolls a number greater than 2 than that he rolls two even numbers in a row?,"There are 8 numbers greater than 2 on the dice, so the chances of rolling one of them are 8 / 10 = 80%.
+The chance of rolling one even number is 50%, so the chance of rolling two in a row is 50% * 50% = 25%.
+The difference between these two probabilities is 80% - 25% = 55%.
+#### 55","To find how much more likely it is that Diego rolls a number greater than 2 compared to rolling two even numbers in a row on a ten-sided die, we will follow these steps:
+
+1. **Calculate the probability of rolling a number greater than 2:**
+   - The ten-sided die has numbers 1 to 10. 
+   - The numbers that are greater than 2 are: 3, 4, 5, 6, 7, 8, 9, 10.
+   - There are 8 numbers greater than 2.
+   - Probability of rolling a number greater than 2 = \( \frac{8}{10} = 0.8 \).
+
+2. **Calculate the probability of rolling an even number:**
+   - The even numbers on the die are: 2, 4, 6, 8, 10.
+   - There are 5 even numbers.
+   - Probability of rolling an even number = \( \frac{5}{10} = 0.5 \).
+
+3. **Calculate the probability of rolling two even numbers in a row:**
+   - The probability of the first roll being even is 0.5.
+   - The probability of the second roll being even is also 0.5.
+   - Probability of two consecutive even rolls = \( 0.5 \times 0.5 = 0.25 \).
+
+4. **Calculate how much more likely it is to roll a number greater than 2 compared to rolling two even numbers in a row:**
+   - The probability of rolling a number greater than 2 is 0.8.
+   - The probability of two consecutive even rolls is 0.25.
+   - Difference in likelihood = \( 0.8 - 0.25 = 0.55 \).
+
+5. **Convert the difference in likelihood to a percentage:**
+   - \( 0.55 \times 100 = 55\% \).
+
+Answer:
+55%",2
+39,There are 9 periods in the day for a normal student but Esteban has to take 3 extra classes. Each class is 30 minutes long. He goes to class for 6 days a week. He then spends three-fourths of his weekly minutes each on Saturday and Sunday as extra learning time. How many hours a week does he spend learning?,"He takes 9+3=12 classes a day
+That means he spends 30*12=360 minutes per day in class
+So he spends 360*6=2160 minutes a week
+That means he spends 2160*3/4=1620 minutes each on Saturday and Sunday.
+So he spends 2160+1620+1620=5400 minutes per week
+So he spends 5400/60=90 hours per week
+#### 90","To solve this problem, let's break it down into the following steps:
+
+1. **Calculate the total number of periods Esteban attends in a day:**
+   - A normal student has 9 periods a day.
+   - Esteban takes 3 extra classes: \(9 + 3 = 12\) periods per day.
+
+2. **Determine the total minutes Esteban spends in class each day:**
+   - Each class is 30 minutes long.
+   - Total minutes per day: \(12 \times 30 = 360\) minutes.
+
+3. **Calculate the total weekly class minutes from Monday to Saturday:**
+   - Esteban attends class for 6 days a week.
+   - Total weekly class time: \(360 \times 6 = 2160\) minutes.
+
+4. **Calculate how many minutes Esteban spends on extra learning during the weekend:**
+   - He spends three-fourths of his weekly class minutes on extra learning over Saturday and Sunday.
+   - Extra learning time: \(\frac{3}{4} \times 2160 = 1620\) minutes.
+
+5. **Determine the total learning time for the entire week:**
+   - Total weekly learning time (class plus extra learning): \(2160 + 1620 = 3780\) minutes.
+
+6. **Convert the total weekly learning minutes to hours:**
+   - There are 60 minutes in an hour.
+   - Total hours spent learning in a week: \(\frac{3780}{60} = 63\) hours.
+
+Final answer:
+
+Answer: 63 hours.",63
+40,"Oscar caught 7 steelheads last Sunday, the first steelhead he caught weighs 56 pounds, the second steelhead he caught weighs 57 pounds, and the last steelhead he caught weighs 27 pounds. If a pound of steelhead costs $2.25, how much will he earn after selling all the steelheads to the market?","Oscar will earn 56 x $2.25 = $126.0 from the first steelhead.
+He will earn 57 x $2.25 = $128.25 for the second steelhead.
+The rest of the steelheads are 7-2 = 5. He will earn 27 x $2.25 = $60.75 per each of them. So he will earn 5 * 60.75 = =303.75
+Therefore, the total amount he will earn for all the steelheads is $126.0 + $128.25 + $303.75= $558.
+#### 558","To determine how much Oscar will earn after selling all the steelheads, we follow these steps:
+
+1. **Given Weights of Known Steelheads:**
+   - First steelhead: 56 pounds
+   - Second steelhead: 57 pounds
+   - Last steelhead: 27 pounds
+
+2. **Finding the Total Weight of Known Steelheads:**
+   - Add the weights of the first, second, and last steelhead: 
+     \[
+     56 + 57 + 27 = 140 \text{ pounds}
+     \]
+
+3. **Total Number of Steelheads Caught:**
+   - Total steelheads Oscar caught: 7
+
+4. **Assume Missing Steelheads Have Equal Weight:**
+   - Number of missing steelheads: 
+     \[
+     7 - 3 = 4
+     \]
+
+5. **Calculate the Total Weight of All Steelheads:**
+   - We already know the total weight of the 3 captured steelheads, which is 140 pounds. To proceed, if there was a specific weight for the remaining 4 steelheads, it should be given. Since it's not, we'll assume these are described only for the given values of caught ones for question purpose.
+
+6. **Calculating Earnings:**
+   - Total weight of known steelheads already is 140 pounds.
+   - Cost per pound of steelhead is $2.25, so the total earnings are calculated as:
+     \[
+     \text{Total Earnings} = 140 \times 2.25 = 315 \text{ dollars}
+     \]
+
+Answer: 315 dollars",315
+41,"According to its nutritional info, a bag of breads has 175 calories per serving. If a 300 ounces bag has 5 servings, how many ounces can you eat if your daily calorie target is 1975 and you have already consumed 925 calories?","If the total calorie target is 1975 and I have consumed 925 calories then I have 1975-925 = 1050 calories left to eat
+If each serving of breads has 175 calories and I only have 1050 calories left to eat, then I can only eat 1050/175 of a serving = 6 of a serving
+We also know that a 300 ounces bag of breads has 5 servings, hence each serving has 300 ounces/5 = 60 ounces
+If I can only eat 6 of a serving, then I can eat only 60 * 6 = 60*6 = 360 ounces
+#### 360","To solve this problem, we need to determine how many ounces of bread you can eat without exceeding your remaining daily calorie allowance. Let's break down the steps using a clear Chain of Thought:
+
+1. **Calculate Remaining Calorie Allowance**:  
+   - Your daily calorie target is 1975 calories.
+   - You have already consumed 925 calories.
+   - Therefore, your remaining calorie allowance is:  
+     \( 1975 - 925 = 1050 \) calories.
+
+2. **Determine Calories per Serving of Bread**:  
+   - According to the nutritional information, the bread has 175 calories per serving.
+
+3. **Calculate Number of Servings You Can Consume**:  
+   - With 1050 remaining calories and each serving containing 175 calories, calculate the maximum number of servings you can consume:  
+     \( \frac{1050}{175} = 6 \) servings.
+
+4. **Calculate Ounces per Serving**:  
+   - The bag contains 5 servings and weighs 300 ounces.
+   - Therefore, each serving is:  
+     \( \frac{300}{5} = 60 \) ounces per serving.
+
+5. **Calculate Total Ounces You Can Eat**:  
+   - If you can consume up to 6 servings, the total ounces of bread you can eat are:  
+     \( 6 \times 60 = 360 \) ounces.  
+
+However, since the entire bag only contains 300 ounces, and you've calculated being able to eat more than the bag contains, it appears we made an error in calculating how many servings within the available limits. Let's adjust that:
+
+6. **Review Serving Limit**:  
+   - Realize that you can only eat up to the amount available, which is 300 ounces or equivalent servings.
+
+7. **Re-confirm Correct Servings within Bag Limits**:  
+   - Since the entire bag is 5 servings (not 6 actual servings since available ounces limit), re-evaluate the max servings:  
+     \( \text{max servings based on bag limit} = 5 \)
+
+Thus, given caloric and physical constraints, you can eat:
+
+Answer: 300 ounces.",300
+42,"There are 48 girls in the garden. If there are 1/2 the number of boys in the garden, how many kids are in the garden?","There are 48 girls x 1/2 boys/girls = 24 boys in the garden.
+In total there are 48 girls + 24 boys =  72 kids in the garden
+#### 72","To solve this problem, we need to determine the number of boys in the garden first. Then we can find the total number of kids in the garden by adding the number of girls and boys together. Let's go through the steps:
+
+1. **Identify the number of girls in the garden**: We know that there are 48 girls in the garden.
+
+2. **Understand the relationship between the number of boys and girls**: According to the problem, the number of girls is \( \frac{1}{2} \) the number of boys.
+
+3. **Set up the equation for the number of boys**: Let \( b \) be the number of boys. Based on the given information, we can write the equation:  
+   \[ \frac{b}{2} = 48 \]
+
+4. **Solve for \( b \)**:
+   - Multiply both sides of the equation by 2 to isolate \( b \):  
+     \[ b = 48 \times 2 \]
+   - Calculate the right side:  
+     \[ b = 96 \]
+
+5. **Determine the total number of kids in the garden**: Add the number of girls and boys together to find the total number of kids:  
+   \[ \text{Total kids} = \text{Number of girls} + \text{Number of boys} = 48 + 96 \]
+
+6. **Calculate the total number of kids**:  
+   \[ \text{Total kids} = 144 \]
+
+Answer: 144",144
+43,There are 5 periods in the day for a normal student but Santiago has to take 1 extra classes. Each class is 55 minutes long. He goes to class for 5 days a week. He then spends one-tenth of his weekly minutes each on Saturday and Sunday as extra learning time. How many hours a week does he spend learning?,"He takes 5+1=6 classes a day
+That means he spends 55*6=330 minutes per day in class
+So he spends 330*5=1650 minutes a week
+That means he spends 1650*1/10=165 minutes each on Saturday and Sunday.
+So he spends 1650+165+165=1980 minutes per week
+So he spends 1980/60=33 hours per week
+#### 33","To determine how many hours Santiago spends learning per week, we can break down the problem into a series of steps:
+
+1. **Classes per day:** Normally, a student has 5 periods per day. Santiago has 1 extra class, so he takes:
+   \[
+   5 + 1 = 6 \text{ classes per day}
+   \]
+
+2. **Minutes per class:** Each class lasts 55 minutes.
+
+3. **Total class time per day:** Multiply the number of classes by the minutes per class:
+   \[
+   6 \times 55 = 330 \text{ minutes per day}
+   \]
+
+4. **Total class time per week:** Santiago attends classes 5 days a week:
+   \[
+   330 \times 5 = 1650 \text{ minutes per week}
+   \]
+
+5. **Extra learning on weekends:** Santiago spends one-tenth of his weekly class minutes as extra learning time on both Saturday and Sunday. Thus, the extra learning time for the weekend in total is:
+   \[
+   \frac{1}{10} \times 1650 = 165 \text{ minutes per weekend}
+   \]
+
+6. **Total minutes spent learning per week:** Add the class time during the weekdays to the extra learning time during the weekend:
+   \[
+   1650 + 165 = 1815 \text{ minutes per week}
+   \]
+
+7. **Convert minutes to hours:** There are 60 minutes in an hour, so:
+   \[
+   \frac{1815}{60} = 30.25 \text{ hours per week}
+   \]
+
+Therefore, Santiago spends the following number of hours per week learning:
+
+Answer: 30.25",30
+44,"Mia has a flower bed that is 195 meters long. Mia wants to fill her flower bed with plants. Mia's flowers grow 4 meters wide so she needs to leave 15.0 meters between every plant. Mia already owns 12 flowers. Each flowering plant costs €14 at the store, how much money will Mia spend at the store to fill up her flower bed?","Mia's flower bed is 195 meters / 15.0 meters per plant = 13 plants needed.
+Mia needs to buy 13 plants - 12 plants = 1 plants needed to purchase.
+Mia will spend 1 plants * €14 = €14.
+#### 14","To determine how much money Mia will need to spend at the store to fill up her flower bed, let's break down the problem step by step:
+
+1. **Determine the spacing needed for each plant:**  
+   Each plant occupies 4 meters in width, and there needs to be a 15-meter gap between each plant. This means each plant effectively ""uses"" 4 meters + 15 meters = 19 meters of space along the flower bed.
+
+2. **Calculate the total number of planting spaces available in the flower bed:**  
+   The flower bed is 195 meters long. Each plant requires 19 meters of space, so divide the total length of the flower bed by the space needed per plant:
+   \[
+   \text{Number of spaces} = \frac{195}{19} \approx 10.26
+   \]
+   Since she's dealing with whole plants, Mia can plant a maximum of 10 plants in her flower bed.
+
+3. **Determine how many additional plants Mia needs to purchase:**  
+   Mia already owns 12 flowers. However, she only needs 10 plants, as calculated above. Therefore, she doesn't need to purchase any additional plants.
+
+4. **Calculate the total cost to buy the additional plants:**  
+   Since Mia does not need to buy any more plants, the amount of money she will spend at the store is €0.
+
+Hence, the money Mia will spend at the store is as follows:
+- Since no additional plants are needed, the cost is €0.
+
+Answer: 0",0
+45,"Jin caught 5 salmons last Thursday, the first salmon he caught weighs 79 kgs, the second salmon he caught weighs 53 kgs, and the last salmon he caught weighs 38 kgs. If a kg of salmon costs $1.0, how much will he earn after selling all the salmons to the market?","Jin will earn 79 x $1.0 = $79.0 from the first salmon.
+He will earn 53 x $1.0 = $53.0 for the second salmon.
+The rest of the salmons are 5-2 = 3. He will earn 38 x $1.0 = $38.0 per each of them. So he will earn 3 * 38.0 = =114.0
+Therefore, the total amount he will earn for all the salmons is $79.0 + $53.0 + $114.0= $246.
+#### 246","To determine how much Jin will earn from selling all the salmons, we need to follow these steps:
+
+1. **Identify the weights of the known salmons.**  
+   - The first salmon weighs 79 kgs.
+   - The second salmon weighs 53 kgs.
+   - The last (fifth) salmon weighs 38 kgs.
+
+2. **Determine how many salmons' weights we know.**  
+   - We know the weights of 3 of the 5 salmons.
+
+3. **Calculate the total weight of the known salmons.**  
+   \[
+   \text{Total weight of known salmons} = 79 + 53 + 38 = 170 \text{ kgs}
+   \]
+
+4. **Assume the remaining weights.**  
+   - Since we do not know the weights of the third and fourth salmons, we will assume their weights are such that the earnings are calculated based on the known weights alone, unless additional information is provided about them.
+
+5. **Calculate the earnings from the known weights.**  
+   - Since $1.0 is earned per kg, the earnings from the known weights will be:
+   \[
+   \text{Earnings} = 170 \times 1 = 170 \text{ dollars}
+   \]
+
+6. **Conclude with the final answer based on available information.**  
+   Therefore, from all the salmons for which we have weight information, Jin will earn $170.
+
+Answer: 170 dollars",170
+46,"Arash caught 3 steelheads last Monday, the first steelhead he caught weighs 72 kilograms, the second steelhead he caught weighs 31 kilograms, and the last steelhead he caught weighs 38 kilograms. If a kilogram of steelhead costs ¥1.0, how much will he earn after selling all the steelheads to the market?","Arash will earn 72 x ¥1.0 = ¥72.0 from the first steelhead.
+He will earn 31 x ¥1.0 = ¥31.0 for the second steelhead.
+The rest of the steelheads are 3-2 = 1. He will earn 38 x ¥1.0 = ¥38.0 per each of them. So he will earn 1 * 38.0 = =38.0
+Therefore, the total amount he will earn for all the steelheads is ¥72.0 + ¥31.0 + ¥38.0= ¥141.
+#### 141","To determine how much Arash will earn from selling all the steelheads, we can follow these steps:
+
+1. Identify the weight of each steelhead that Arash caught:
+   - First steelhead weighs 72 kilograms.
+   - Second steelhead weighs 31 kilograms.
+   - Last steelhead weighs 38 kilograms.
+
+2. Calculate the total weight of the steelheads by summing their individual weights:
+   \[
+   72 \, \text{kg} + 31 \, \text{kg} + 38 \, \text{kg} = 141 \, \text{kg}
+   \]
+
+3. Determine the price per kilogram of steelhead, which is given as ¥1.0.
+
+4. Calculate the total earnings by multiplying the total weight by the price per kilogram:
+   \[
+   141 \, \text{kg} \times ¥1.0/\text{kg} = ¥141
+   \]
+
+Answer:
+Arash will earn ¥141 after selling all the steelheads to the market.",1
+47,Alejandro is rolling a twenty-sided die. How much more likely is it (expressed as a percentage) that he rolls a number greater than 10 than that he rolls two even numbers in a row?,"There are 10 numbers greater than 10 on the dice, so the chances of rolling one of them are 10 / 20 = 50%.
+The chance of rolling one even number is 50%, so the chance of rolling two in a row is 50% * 50% = 25%.
+The difference between these two probabilities is 50% - 25% = 25%.
+#### 25","To solve this problem, we need to calculate the likelihood of two different scenarios: rolling a number greater than 10 on a twenty-sided die, and rolling two even numbers in a row on a twenty-sided die. We will then compare these probabilities to express how much more likely is the first scenario compared to the second expressed as a percentage.
+
+Let's break this down step-by-step.
+
+**Step 1**: Calculate the probability of rolling a number greater than 10 on a twenty-sided die.
+- A twenty-sided die has numbers 1 through 20.
+- Numbers greater than 10 are: 11, 12, 13, 14, 15, 16, 17, 18, 19, 20.
+- There are 10 numbers greater than 10.
+- Probability of rolling a number greater than 10 is the number of favorable outcomes divided by the total number of outcomes.
+\[ 
+P(\text{>10}) = \frac{10}{20} = \frac{1}{2} 
+\]
+
+**Step 2**: Calculate the probability of rolling an even number on a twenty-sided die.
+- The even numbers on a twenty-sided die are: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20.
+- There are 10 even numbers.
+- Probability of rolling an even number is:
+\[ 
+P(\text{Even}) = \frac{10}{20} = \frac{1}{2} 
+\]
+
+**Step 3**: Calculate the probability of rolling two even numbers in a row.
+- Since the rolls are independent, the probability of rolling two even numbers in a row is the product of the probability of rolling an even number twice.
+\[ 
+P(\text{2 Evens in a Row}) = P(\text{Even}) \times P(\text{Even}) = \frac{1}{2} \times \frac{1}{2} = \frac{1}{4} 
+\]
+
+**Step 4**: Calculate how much more likely it is to roll a number greater than 10 than to roll two even numbers in a row.
+- The probability of rolling a number greater than 10 is \(\frac{1}{2}\).
+- The probability of rolling two even numbers in a row is \(\frac{1}{4}\).
+- To find how much more likely the first event is compared to the second event, calculate the ratio of their probabilities:
+\[ 
+\text{Likelihood Ratio} = \frac{P(\text{>10})}{P(\text{2 Evens in a Row})} = \frac{\frac{1}{2}}{\frac{1}{4}} = 2 
+\]
+- This means rolling a number greater than 10 is 2 times as likely as rolling two even numbers in a row.
+
+**Step 5**: Convert the likelihood ratio into a percentage.
+- To express this as a percentage increase, calculate \((2 - 1) \times 100\%\). That's the increase from 1 to 2 (i.e., it is 100% more likely):
+\[ 
+\text{Percentage Increase} = (2-1) \times 100\% = 100\%
+\]
+
+Therefore, the answer is:
+Answer: 100%",100
+48,The vending machines sell popcorn for 35 cents and pretzels for 75 cents. Qasim spent ₣500 and got 5 bags of popcorn and had 8% of his money left in change. How many pretzels did he buy?,"Qasim got ₣40.0 in change because 500 x 8/100 = 40
+Qasim spent ₣460 because 500 - 40 = 460
+Qasim spent ₣1.75 on popcorn because 5 x 0.35 = 1.75
+Qasim spent 458.25 on pretzels because 460.0 - 1.75 = 458.25
+Qasim bought 611 pretzels because 458.25 / 0.75 = 611
+#### 611","To solve this problem, we follow these steps:
+
+1. **Determine the initial amount of money Qasim had in cents**:
+   - Qasim spent ₣500 and had 8% left, implying 92% was spent.
+   - Let \( x \) be the initial amount of money.
+   - Given 8% was left, we have \( 0.08x \) as leftover and, out of x, \( 0.92x \) was spent.
+   - Since 92% (\( 0.92x \)) of Qasim's money was spent totaling ₣500, convert ₣500 to the same denomination used for prices in cents. Assume ₣1 = 100 cents, so:
+     \[
+     0.92x = 500 \times 100 = 50000 \text{ cents}
+     \]
+
+2. **Calculate the initial amount \( x \) in cents**:
+   - Solve for \( x \):
+     \[
+     x = \frac{50000}{0.92} = 54347.8261
+     \]
+   - Since the amount must be a whole number when converted into cents and matches the format, round to nearest whole number:
+     \[
+     x = 54348 \text{ cents}
+     \]
+
+3. **Calculate the amount Qasim spent**:
+   - Calculate how much of his money was actually spent:
+     \[
+     0.92x = 54348 \times 0.92 = 50000 \text{ cents/₣500 was actually sold}
+     \]
+
+4. **First account for popcorn cost**:
+   - Given Qasim bought 5 bags of popcorn at 35 cents each, calculate total spent on popcorn:
+   - Total cost for popcorn:
+     \[
+     5 \times 35 = 175 \text{ cents}
+     \]
+
+5. **Calculate how much was spent on pretzels**:
+   - Subtract the amount spent on popcorn from the total spending:
+     \[
+     \text{Amount spent on pretzels} = 50000 - 175 = 49825 \text{ cents}
+     \]
+
+6. **Find the number of pretzels bought**:
+   - Cost of one pretzel is 75 cents, so calculate the number of pretzels:
+     \[
+     \text{Number of pretzels} = \frac{49825}{75} \approx 664.33
+     \]
+   - Since he can only buy whole pretzels, and with the remainder unaccounted at a full price for possible real-life scenario rounding buy 664 pretzels.
+
+7. **Check total money utilized is substract for pretzels**:
+   - Combine 664 pretzels cost:
+     \[
+     664 \times 75 = 49800
+     \]
+   - Adding popcorn amount:
+     \[
+     49800 + 175 = 50025
+     \]
+   - Remain difference unutilized \( \leq 25, \) denote some smallest lose, retail in round floored correctly:
+     
+Final Answer:
+   \[
+   \text{Answer: } 664
+   \]",664
+49,"A care facility has a capacity of 1300 beds with 2/5 occupied. Due to the pandemic, 45 patients are admitted into the care facility each day. Calculate the total number of unoccupied beds in the care facility after 2 weeks.","If 2/5 of the total capacity of the care facility beds is occupied, it means 2/5 * 1300 = 520 beds have patients using them.
+The total number of beds in the care facility without new admissions is 1300 beds - 520 beds = 780 beds.
+If 45 people are admitted each day, the total number of patients in the care facility after one week is 45 patients/day * 7 days/week = 315 patients.
+After 2 weeks, the total number of patients admitted into the care facility is 315 patients/week * 2 weeks = 630 patients, who each use one bed.
+If there were 780 unoccupied beds in the care facility before the new admissions, the total number is reduced to 780 beds - 630 beds = 150 unoccupied beds.
+#### 150","Certainly! Let's break down the problem step-by-step:
+
+1. **Determine the initial number of occupied beds:**
+   - The care facility has a total capacity of 1300 beds.
+   - Initially, 2/5 of the beds are occupied.
+   - So, calculate the number of occupied beds by multiplying the capacity by the fraction occupied:
+     \[
+     \text{Occupied beds initially} = \frac{2}{5} \times 1300 = 520
+     \]
+
+2. **Calculate the initial number of unoccupied beds:**
+   - Total beds = 1300
+   - Occupied beds = 520
+   - Unoccupied beds initially = Total beds - Occupied beds:
+     \[
+     \text{Unoccupied beds initially} = 1300 - 520 = 780
+     \]
+
+3. **Calculate the total number of new admissions after 2 weeks:**
+   - 45 patients are admitted each day.
+   - 2 weeks consist of 14 days.
+   - Total new admissions after 14 days:
+     \[
+     \text{New admissions} = 45 \times 14 = 630
+     \]
+
+4. **Update the number of occupied beds after 2 weeks:**
+   - Initial occupied beds = 520
+   - Add the new admissions:
+     \[
+     \text{Occupied beds after 2 weeks} = 520 + 630 = 1150
+     \]
+
+5. **Calculate the total number of unoccupied beds after 2 weeks:**
+   - Total capacity = 1300 beds
+   - Occupied beds after 2 weeks = 1150
+   - Unoccupied beds after 2 weeks = Total capacity - Occupied beds:
+     \[
+     \text{Unoccupied beds after 2 weeks} = 1300 - 1150 = 150
+     \]
+
+Answer:
+150",1
+50,"In a set of artist's cards, there are 75 green cards, and 20% more purple cards. Orange cards are as many as the sum of green and purple cards. How many cards of all mentioned colors are there?","There are 20/100 * 75 = 15 more purple cards than green cards.
+Which means there are 75 + 15 = 90 purple cards.
+orange cards make up to 75 + 90 = 165 cards.
+So in total, there are 165 + 165 = 330 cards of different colors.
+#### 330","Let's solve the problem step by step:
+
+1. **Identify the number of green cards:**
+   - There are 75 green cards.
+
+2. **Calculate the number of purple cards:**
+   - There are 20% more purple cards than green cards.
+   - To find 20% of the green cards, calculate: 20% of 75 = 0.20 × 75 = 15.
+   - Add this 20% to the original number of green cards: 75 + 15 = 90.
+   - Therefore, there are 90 purple cards.
+
+3. **Calculate the number of orange cards:**
+   - The number of orange cards is equal to the sum of the green and purple cards.
+   - The sum of green and purple cards is: 75 + 90 = 165.
+   - Therefore, there are 165 orange cards.
+
+4. **Calculate the total number of cards of all mentioned colors:**
+   - Add the number of green, purple, and orange cards: 75 + 90 + 165 = 330.
+
+Answer:
+330",1
+51,"Oliver caught 7 trouts last Thursday, the first trout he caught weighs 58 pounds, the second trout he caught weighs 40 pounds, and the last trout he caught weighs 28 pounds. If a pound of trout costs ₺0.5, how much will he earn after selling all the trouts to the market?","Oliver will earn 58 x ₺0.5 = ₺29.0 from the first trout.
+He will earn 40 x ₺0.5 = ₺20.0 for the second trout.
+The rest of the trouts are 7-2 = 5. He will earn 28 x ₺0.5 = ₺14.0 per each of them. So he will earn 5 * 14.0 = =70.0
+Therefore, the total amount he will earn for all the trouts is ₺29.0 + ₺20.0 + ₺70.0= ₺119.
+#### 119","To determine how much Oliver will earn after selling all his trouts, let's work through the problem step by step:
+
+1. **Identify the number of trouts and their weights**: 
+    - First trout: 58 pounds
+    - Second trout: 40 pounds
+    - Last (seventh) trout: 28 pounds
+
+2. **Sum the weights of the trouts**:
+
+   Since we only have the weights for 3 out of the 7 trouts, we are missing the weights of 4 trouts. To solve this, let's assume the question is only asking about the earnings from the trouts with provided weights.
+
+3. **Calculate the total weight of the three trouts**:
+   \[
+   \text{Total weight} = 58 + 40 + 28 = 126 \text{ pounds}
+   \]
+
+4. **Calculate the earnings per pound**:
+   - Price per pound of trout: ₺0.5
+
+5. **Calculate the total earnings for the three trouts**:
+   \[
+   \text{Total earnings} = 126 \times 0.5 = 63 \text{ Lira}
+   \]
+
+6. **State the final answer**:
+   Oliver will earn ₺63 from selling the trouts that have specified weights.
+
+Answer: ₺63",63
+52,"At Diego's house, there are eight times as many kiwis as corns. He has a total of 25 corns in his house. Diego bought 53 more corns at the store and 14 fewer kiwis than the number of corns. Find the combined total of the number of kiwis and corns Diego has in the house?","Before buying any kiwi and corn, Diego had 8 times as many kiwis as corns, which is 25 corns * 8 kiwi/corn = 200 kiwis
+The total number of kiwis and corns that Diego had before is 200 kiwis + 25 corns = 225 items
+When he bought 14 fewer kiwis than corns, he bought 53 kiwis - 14 kiwis = 39 kiwis
+In total, he bought 39 kiwis + 53 corns = 92 items
+After the purchases, Diego has 225 items + 92 items = 317 total kiwis and corns combined.
+#### 317","To solve this problem, let's break down the information and calculations step-by-step:
+
+1. **Determine the Initial Number of Kiwis and Corns:**
+   - Diego has 25 corns initially.
+   - The number of kiwis is eight times the number of corns.
+     \[
+     \text{Initial number of kiwis} = 8 \times 25 = 200
+     \]
+
+2. **Calculate the Number of Corns After the Purchase:**
+   - Diego bought 53 more corns.
+   - The new total number of corns is:
+     \[
+     25 + 53 = 78
+     \]
+
+3. **Calculate the Number of Kiwis After the Reduction:**
+   - Diego bought 14 fewer kiwis than the number of corns.
+   - So, he bought \(78 - 14 = 64\) kiwis.
+
+4. **Determine the New Total Number of Kiwis:**
+   - Since he initially had 200 kiwis and bought 64 more, the new total number of kiwis is:
+     \[
+     200 + 64 = 264
+     \]
+
+5. **Calculate the Combined Total of Kiwis and Corns:**
+   - Add the new total number of kiwis and new total number of corns:
+     \[
+     264 + 78 = 342
+     \]
+
+Therefore, the combined total of the number of kiwis and corns Diego has in the house is:
+
+\[
+\text{Answer: } 342
+\]",342
+53,There are 8 periods in the day for a normal student but Gabriel has to take 1 extra classes. Each class is 50 minutes long. He goes to class for 5 days a week. He then spends five-sixths of his weekly minutes each on Saturday and Sunday as extra learning time. How many hours a week does he spend learning?,"He takes 8+1=9 classes a day
+That means he spends 50*9=450 minutes per day in class
+So he spends 450*5=2250 minutes a week
+That means he spends 2250*5/6=1875 minutes each on Saturday and Sunday.
+So he spends 2250+1875+1875=6000 minutes per week
+So he spends 6000/60=100 hours per week
+#### 100","To determine how many hours a week Gabriel spends on learning, let's break it down step by step:
+
+1. **Calculate the total number of periods Gabriel has each day:**
+   - Normally, there are 8 periods in a day.
+   - Gabriel has to take 1 extra class.
+   - Total periods in a day for Gabriel = 8 + 1 = 9 periods.
+
+2. **Determine the duration of all periods in a day:**
+   - Each period is 50 minutes long.
+   - Total minutes of class in a day = 9 periods × 50 minutes/period = 450 minutes.
+
+3. **Calculate the total minutes of class in a week (Monday to Friday):**
+   - Gabriel attends classes for 5 days a week.
+   - Total weekly minutes in class = 450 minutes/day × 5 days = 2250 minutes.
+
+4. **Calculate the extra learning time on the weekend:**
+   - Gabriel spends five-sixths of his weekly minutes during the weekend for extra learning time.
+   - Extra learning time over the weekend = (5/6) × 2250 minutes = 1875 minutes.
+
+5. **Calculate the total minutes spent learning in a week:**
+   - Total minutes spent learning in a week = Minutes during weekdays + Minutes during the weekend.
+   - Total weekly learning time = 2250 minutes + 1875 minutes = 4125 minutes.
+
+6. **Convert the total minutes into hours:**
+   - There are 60 minutes in an hour.
+   - Total hours spent learning in a week = 4125 minutes ÷ 60 minutes/hour = 68.75 hours.
+
+Thus, the total number of hours Gabriel spends learning in a week is:
+
+Answer: 68.75 hours",68
+54,"At Theo's house, there are two times as many oranges as corns. He has a total of 33 corns in his house. Theo bought 75 more corns at the store and 45 fewer oranges than the number of corns. Find the combined total of the number of oranges and corns Theo has in the house?","Before buying any orange and corn, Theo had 2 times as many oranges as corns, which is 33 corns * 2 orange/corn = 66 oranges
+The total number of oranges and corns that Theo had before is 66 oranges + 33 corns = 99 items
+When he bought 45 fewer oranges than corns, he bought 75 oranges - 45 oranges = 30 oranges
+In total, he bought 30 oranges + 75 corns = 105 items
+After the purchases, Theo has 99 items + 105 items = 204 total oranges and corns combined.
+#### 204","To solve this problem, let's break it down step by step:
+
+1. **Identify the number of corns initially at Theo's house:**
+   - Theo initially has 33 corns.
+
+2. **Determine the initial number of oranges:**
+   - There are two times as many oranges as corns at Theo's house.
+   - Therefore, the number of oranges is \(2 \times 33 = 66\).
+
+3. **Calculate the number of corns after purchase:**
+   - Theo buys 75 more corns.
+   - The total number of corns after purchase is \(33 + 75 = 108\).
+
+4. **Determine the number of oranges after adjustments:**
+   - Theo has 45 fewer oranges than the number of corns he has after the purchase.
+   - Thus, the number of oranges after the adjustment is \(108 - 45 = 63\).
+
+5. **Calculate the combined total of oranges and corns:**
+   - Add the total number of corns and the adjusted number of oranges.
+   - Combined total = \(108 + 63 = 171\).
+
+Final answer step:
+
+6. **Provide the final answer.**
+
+Answer: 171",171
+55,Liam is rolling a twenty-sided die. How much more likely is it (expressed as a percentage) that he rolls a number greater than 4 than that he rolls two even numbers in a row?,"There are 16 numbers greater than 4 on the dice, so the chances of rolling one of them are 16 / 20 = 80%.
+The chance of rolling one even number is 50%, so the chance of rolling two in a row is 50% * 50% = 25%.
+The difference between these two probabilities is 80% - 25% = 55%.
+#### 55","To solve this problem, we need to calculate two probabilities: the probability of rolling a number greater than 4, and the probability of rolling two even numbers in a row. We will then determine how much more likely the first event is compared to the second in terms of percentage.
+
+Step 1:
+Calculate the probability of rolling a number greater than 4 on a twenty-sided die.
+
+- Total outcomes when rolling the die: 20 (since it's a twenty-sided die)
+- Outcomes greater than 4: 5, 6, 7, ..., 20
+- Number of outcomes greater than 4: 20 - 4 = 16
+
+The probability of rolling a number greater than 4 is calculated as:
+\[ P(\text{greater than 4}) = \frac{16}{20} = \frac{4}{5} = 0.8 \]
+
+Step 2:
+Calculate the probability of rolling two even numbers in a row.
+
+- Even numbers on a twenty-sided die: 2, 4, 6, ..., 20
+- Number of even numbers: 10 (since every second number is even)
+- Probability of rolling one even number is:
+\[ P(\text{even number}) = \frac{10}{20} = \frac{1}{2} \]
+
+The probability of rolling two even numbers in a row (two independent events) is:
+\[ P(\text{two evens in a row}) = \left( \frac{1}{2} \right) \times \left( \frac{1}{2} \right) = \frac{1}{4} = 0.25 \]
+
+Step 3:
+Calculate how much more likely rolling a number greater than 4 is compared to rolling two even numbers in a row.
+
+- Probability of rolling a number greater than 4: 0.8
+- Probability of rolling two even numbers in a row: 0.25
+
+Calculate the difference in probabilities:
+\[ \text{Difference} = 0.8 - 0.25 = 0.55 \]
+
+Step 4:
+Express this difference as a percentage of the probability of rolling two even numbers in a row.
+\[ \text{Percentage increase} = \left( \frac{0.55}{0.25} \right) \times 100\% = 220\% \]
+
+Answer:
+\[ \text{Answer: 220\%} \]",220
+56,"At Santiago's house, there are three times as many apples as persimmons. He has a total of 51 persimmons in his house. Santiago bought 55 more persimmons at the store and 13 fewer apples than the number of persimmons. Find the combined total of the number of apples and persimmons Santiago has in the house?","Before buying any apple and persimmon, Santiago had 3 times as many apples as persimmons, which is 51 persimmons * 3 apple/persimmon = 153 apples
+The total number of apples and persimmons that Santiago had before is 153 apples + 51 persimmons = 204 items
+When he bought 13 fewer apples than persimmons, he bought 55 apples - 13 apples = 42 apples
+In total, he bought 42 apples + 55 persimmons = 97 items
+After the purchases, Santiago has 204 items + 97 items = 301 total apples and persimmons combined.
+#### 301","To solve the problem, let's break it down into step-by-step calculations:
+
+1. **Determine the initial number of apples:**
+   - Santiago has 51 persimmons initially.
+   - The number of apples is three times the number of persimmons.
+   - Therefore, the initial number of apples is: \(3 \times 51 = 153\).
+
+2. **Determine the total number of persimmons after the purchase:**
+   - Santiago has 51 persimmons initially.
+   - He bought 55 more persimmons.
+   - So, the new total number of persimmons is: \(51 + 55 = 106\).
+
+3. **Determine the number of apples after the new purchase assumption:**
+   - Santiago bought 13 fewer apples than persimmons.
+   - The number of apples he bought is: \(106 - 13 = 93\).
+   - The new total number of apples after adding the purchased apples to the initial count is: \(153 + 93 = 246\).
+
+4. **Find the combined total number of apples and persimmons after the purchases:**
+   - The total number of persimmons is 106.
+   - The total number of apples is 246.
+   - The combined total number of fruits (apples and persimmons) is: \(106 + 246 = 352\).
+
+Therefore, the combined total of the number of apples and persimmons Santiago has in the house is:
+
+Answer: 352",352
+57,"A class of 195 students has various hobbies. 112 like to play music, 15 like to play basketball, and the rest like to either dance or play video games. How many like to dance if the number that like to play video games is twice the number that prefer playing basketball?","The number of students that like to play video games is twice as many as the number who like basketball, so 2 * 15 = 30
+The number that like to dance is 195 total students - 112 play music - 15 basketball - 30 play video games = 38
+#### 38","To solve this problem, let's break it down step-by-step:
+
+1. **Identify Total Students:**  
+   The total number of students in the class is 195.
+
+2. **Identify Hobbies Categories:**  
+   - 112 students like to play music.
+   - 15 students like to play basketball.
+   - The rest either like to dance or play video games.
+
+3. **Determine Students Who Like Video Games:**  
+   We know that the number of students who like to play video games is twice the number of students who like to play basketball.
+   - Number of students who like basketball = 15.
+   - Therefore, number of students who like video games = 15 * 2 = 30.
+
+4. **Calculate Combined Students for Dance and Video Games:**  
+   Since 112 students like music:
+   - Remaining students = Total students - Students who like music = 195 - 112 = 83.
+
+5. **Calculate Number of Students Who Like to Dance:**  
+   - The students who like either to dance or play video games is 83.
+   - We already calculated that 30 students like video games.
+   - Therefore, students who like to dance = 83 - 30 = 53.
+
+Hence, the number of students who like to dance is 53.
+
+Answer: 53",53
+58,"Ava has a flower bed that is 169 meters long. Ava wants to fill her flower bed with plants. Ava's flowers grow 3 meters wide so she needs to leave 13.0 meters between every plant. Ava already owns 12 flowers. Each flowering plant costs ₣8 at the store, how much money will Ava spend at the store to fill up her flower bed?","Ava's flower bed is 169 meters / 13.0 meters per plant = 13 plants needed.
+Ava needs to buy 13 plants - 12 plants = 1 plants needed to purchase.
+Ava will spend 1 plants * ₣8 = ₣8.
+#### 8","To solve this problem, we need to determine how many additional flower plants Ava needs to buy and calculate the cost. Let's break it down step by step:
+
+1. **Determine the total number of plants Ava can place in her flower bed:**
+
+   - Each plant requires 3 meters of width.
+   - Ava needs to leave a gap of 13 meters between each plant.
+   - So, the distance covered by each plant plus the gap is \(3 \, \text{meters} + 13 \, \text{meters} = 16 \, \text{meters}\).
+
+2. **Calculate how many plants fit according to the length of the flower bed:**
+
+   - The length of the flower bed is 169 meters.
+   - To find how many plants fit, we divide the total length by the total space required for each plant, including the gap.
+   - Total number of plants = \(\frac{169}{16}\).
+
+3. **Calculate the integer number of plants that can fit:**
+
+   \[
+   \frac{169}{16} \approx 10.5625
+   \]
+   - Since Ava can't plant a fraction of a plant, she can fit 10 full plants.
+
+4. **Account for the 10 plants and the spacing:**
+
+   - The total space consumed by these 10 plants with gaps is \(10 \times 16 = 160 \, \text{meters}\).
+   - The remaining space would be 169 meters - 160 meters = 9 meters, which isn't enough for another plant with a 13 meter gap.
+
+5. **Determine how many additional plants Ava needs to buy:**
+
+   - She needs 10 plants in total to fill the flower bed.
+   - She already owns 12 plants.
+   - Since she already has more plants than needed, she does not need to buy any more.
+
+6. **Calculate the cost of additional plants:**
+
+   - Since Ava does not need any more plants, the cost is:
+   \[
+   0 \times 8\, \text{monetary unit} = 0
+   \]
+
+Answer: Ava will spend ₣0 at the store to fill up her flower bed.",0
+59,"Nadia has a flower bed that is 156 meters long. Nadia wants to fill her flower bed with plants. Nadia's flowers grow 7 meters wide so she needs to leave 13.0 meters between every plant. Nadia already owns 11 flowers. Each flowering plant costs ₺13 at the store, how much money will Nadia spend at the store to fill up her flower bed?","Nadia's flower bed is 156 meters / 13.0 meters per plant = 12 plants needed.
+Nadia needs to buy 12 plants - 11 plants = 1 plants needed to purchase.
+Nadia will spend 1 plants * ₺13 = ₺13.
+#### 13","To find out how much money Nadia will spend at the store, we'll follow these steps:
+
+1. **Determine the full length used by each plant and its surrounding space:**
+   - Each plant takes up 7 meters in width.
+   - Nadia needs to leave 13 meters between every plant.
+   - So, each plant and the space behind it takes up 7 + 13 = 20 meters.
+
+2. **Calculate how much space a single plant arrangement (plant + space between plants) occupies:**
+   - Since there will be a plant at the very start as well, the last space should not be considered, we have calculated prematurely.
+   - First arrangement utilizes 7 meters (plant width) without a 13-meter gap initial to it in calculation.
+
+3. **Compute the number of plants Nadia can put in the flower bed:**
+   - Subtract the 13 meters space from the last plant insertion 
+   - Total length without end gap = 156 meters - 13 meters = 143 meters
+   - Total length covered per plant arrangement (excluding last space) = 7 meters for plant + 13 meters for space
+   - Number of full plant arrangements fitting in flower bed = 143 meters / 20 meters per plant arrangement = 7.15 
+   - Since partial plants don't count, Nadia can fit a maximum of 7 full plant arrangements.
+   
+4. **Calculate the total number of plants Nadia will use:**
+   - Therefore, Nadia uses 7 plants to fill the flower bed.
+
+5. **Determine how many additional plants Nadia needs to purchase:**
+   - Nadia already owns 11 flowers.
+   - Since she needs 7 plants for the arrangement and has more than enough plants, she doesn't need to purchase any additional plants.
+
+6. **Calculate the total cost:**
+   - Since Nadia does not need to purchase additional plants, the cost for buying plants is ₺0.
+
+Final answer:
+- Answer: ₺0",0
+60,"At Arjun's house, there are ten times as many grapes as apples. He has a total of 37 apples in his house. Arjun bought 89 more apples at the store and 32 fewer grapes than the number of apples. Find the combined total of the number of grapes and apples Arjun has in the house?","Before buying any grape and apple, Arjun had 10 times as many grapes as apples, which is 37 apples * 10 grape/apple = 370 grapes
+The total number of grapes and apples that Arjun had before is 370 grapes + 37 apples = 407 items
+When he bought 32 fewer grapes than apples, he bought 89 grapes - 32 grapes = 57 grapes
+In total, he bought 57 grapes + 89 apples = 146 items
+After the purchases, Arjun has 407 items + 146 items = 553 total grapes and apples combined.
+#### 553","To solve this problem, let's break it down into steps:
+
+1. **Determine the initial number of grapes:**
+   - Arjun has 37 apples in his house.
+   - The problem states there are ten times as many grapes as apples initially.
+     \[
+     \text{Initial number of grapes} = 10 \times 37 = 370
+     \]
+
+2. **Find the total number of apples after the purchase:**
+   - Arjun initially has 37 apples.
+   - He buys 89 more apples.
+   \[
+     \text{Total number of apples} = 37 + 89 = 126
+     \]
+
+3. **Calculate the number of grapes after purchase:**
+   - Arjun buys 32 fewer grapes than the number of apples he has after shopping.
+   - After purchasing the apples, the number of apples is 126.
+   \[
+     \text{Number of grapes purchased} = 126 - 32 = 94
+     \]
+
+4. **Determine the total number of grapes:**
+   - Initially, there were 370 grapes.
+   - After accounting for the new grapes purchased, the total number is:
+   \[
+     \text{Total number of grapes} = 370 + 94 = 464
+     \]
+
+5. **Find the combined total of grapes and apples:**
+   - Total apples = 126
+   - Total grapes = 464
+   \[
+     \text{Combined total} = 126 + 464 = 590
+     \]
+
+Thus, the combined total of the number of grapes and apples Arjun has in the house is:
+
+Answer: 590",590
+61,There are 7 periods in the day for a normal student but Kai has to take 1 extra classes. Each class is 50 minutes long. He goes to class for 6 days a week. He then spends 2/4 of his weekly minutes each on Saturday and Sunday as extra learning time. How many hours a week does he spend learning?,"He takes 7+1=8 classes a day
+That means he spends 50*8=400 minutes per day in class
+So he spends 400*6=2400 minutes a week
+That means he spends 2400*1/2=1200 minutes each on Saturday and Sunday.
+So he spends 2400+1200+1200=4800 minutes per week
+So he spends 4800/60=80 hours per week
+#### 80","To find out how many hours a week Kai spends learning, we can break down the problem step by step:
+
+1. **Calculate the Total Number of Classes per Day:**  
+   Normally, a student has 7 periods in a day, but Kai has an extra class.  
+   Therefore, Kai has \(7 + 1 = 8\) classes per day.
+
+2. **Calculate the Total Minutes per Day:**  
+   Each class is 50 minutes long.  
+   Kai attends 8 classes daily. Therefore, the total number of minutes per day is:  
+   \(8 \times 50 = 400\) minutes.
+
+3. **Calculate the Total Minutes per Week from Classes:**  
+   Kai attends classes 6 days a week. Therefore, the total number of minutes spent in class per week is:  
+   \(400 \times 6 = 2400\) minutes.
+
+4. **Calculate the Extra Learning Time on Weekends:**  
+   Kai spends \(\frac{2}{4}\) (which is equivalent to \(\frac{1}{2}\)) of his weekly class minutes on Saturday and Sunday as extra learning time.  
+   Therefore, the total number of minutes spent on extra learning time during the weekend is:  
+   \(\frac{1}{2} \times 2400 = 1200\) minutes.
+
+5. **Calculate the Total Weekly Minutes Spent Learning:**  
+   Sum up the minutes from weekdays (classes) and weekends (extra learning):  
+   \(2400 + 1200 = 3600\) minutes.
+
+6. **Convert Minutes into Hours:**  
+   There are 60 minutes in an hour. Therefore, to convert the total minutes into hours:  
+   \(\frac{3600}{60} = 60\) hours.
+
+Thus, the total number of hours Kai spends learning each week is:
+
+Answer: 60 hours.",60
+62,Yusuf is rolling a d10 die. How much more likely is it (expressed as a percentage) that he rolls a number greater than 5 than that he rolls two odd numbers in a row?,"There are 5 numbers greater than 5 on the dice, so the chances of rolling one of them are 5 / 10 = 50%.
+The chance of rolling one odd number is 50%, so the chance of rolling two in a row is 50% * 50% = 25%.
+The difference between these two probabilities is 50% - 25% = 25%.
+#### 25","To determine how much more likely it is to roll a number greater than 5 than to roll two odd numbers in a row on a d10 (10-sided die), we'll follow these steps:
+
+1. **Determine the probability of rolling a number greater than 5:**
+
+   - A d10 has numbers 1 through 10.
+   - Numbers greater than 5 are 6, 7, 8, 9, and 10. That makes 5 numbers.
+   - Probability of rolling a number greater than 5 \(= \frac{5}{10} = \frac{1}{2}\).
+
+2. **Determine the probability of rolling an odd number:**
+
+   - Odd numbers on a d10 are 1, 3, 5, 7, and 9. That makes 5 numbers.
+   - Probability of rolling an odd number on a single roll \(= \frac{5}{10} = \frac{1}{2}\).
+
+3. **Calculate the probability of rolling two odd numbers in a row:**
+
+   - Since these are independent events, the probability of both events occurring is the product of their probabilities.
+   - Probability of rolling two odd numbers in a row = \(\left(\frac{1}{2}\right) \times \left(\frac{1}{2}\right) = \frac{1}{4}\).
+
+4. **Compare the probabilities:**
+
+   - Probability of rolling a number greater than 5 is \(\frac{1}{2}\) or 0.5.
+   - Probability of rolling two odd numbers in a row is \(\frac{1}{4}\) or 0.25.
+
+5. **Find how much more likely it is to roll a number greater than 5:**
+
+   - The difference in probabilities is \(0.5 - 0.25 = 0.25\).
+   - To express this difference as a percentage of the probability of rolling two odd numbers in a row, calculate \(\frac{0.25}{0.25} \times 100\%\).
+   - The result is 100%.
+
+So, it is 100% more likely to roll a number greater than 5 than two odd numbers in a row.
+
+Answer: 100%",100
+63,"At the beginning of the celebration, there were 39 lawyers and 77 artists. After an hour, 1/2 of the total number of people left. How many artists are left if 33 lawyers stayed at the celebration?","There were a total of 39 lawyers + 77 artists = 116 people who attended the celebration.
+After an hour, 116 people * 1/2 = 58 people left the celebration.
+This means 116 people - 58 people = 58 people stayed.
+Out of the 58 who stayed, 58 people - 33 lawyers = 25 were artists.
+#### 25","To solve the problem, let's break it down into steps:
+
+1. **Determine the initial total number of people:**
+   - There are 39 lawyers and 77 artists.
+   - Total number of people = 39 (lawyers) + 77 (artists) = 116 people.
+
+2. **Calculate the number of people who left:**
+   - 1/2 of the total number of people left.
+   - Number of people who left = 1/2 * 116 = 58 people.
+
+3. **Calculate the number of people who stayed:**
+   - Total people who stayed = Total initial people - People who left = 116 - 58 = 58 people.
+
+4. **Determine the number of lawyers who stayed:**
+   - We are told 33 lawyers stayed.
+
+5. **Calculate the number of artists who stayed:**
+   - Total people who stayed = 58.
+   - This includes both artists and lawyers.
+   - Number of artists who stayed = Total people who stayed - Lawyers who stayed = 58 - 33 = 25 artists.
+
+Answer:
+25 artists are left at the celebration.",1
+64,"There are 13 students playing basketball and nine times that number playing football. There are 29 boys and 10 girls playing volleyball. If each student only participates in one group, how many students are there in total?","There are 13 x 9 = 117 students playing football.
+There are 29 + 10 = 39 students playing volleyball.
+In total there are 13 + 117 + 39 = 169 students.
+#### 169","To find the total number of students, we need to consider the number of students participating in each sport. Let's proceed step by step:
+
+1. **Determine the number of basketball players.**
+   - We are given that there are 13 students playing basketball.
+
+2. **Determine the number of football players.**
+   - We are told that there are nine times as many students playing football as there are playing basketball.
+   - Calculate the number of football players: \( 13 \times 9 = 117 \).
+
+3. **Determine the number of volleyball players.**
+   - We are given that there are 29 boys and 10 girls playing volleyball.
+   - Calculate the total number of volleyball players: \( 29 + 10 = 39 \).
+
+4. **Calculate the total number of students.**
+   - We need to add up the number of students from each group (basketball, football, volleyball).
+   - Total students = Number of basketball players + Number of football players + Number of volleyball players.
+   - Total students = \( 13 + 117 + 39 = 169 \).
+
+Answer:
+169",1
+65,The vending machines sell popcorn for 70 cents and cookies for 125 cents. Gabriel spent ¥1200 and got 5 bags of popcorn and had 2% of his money left in change. How many cookies did he buy?,"Gabriel got ¥24.0 in change because 1200 x 2/100 = 24
+Gabriel spent ¥1176 because 1200 - 24 = 1176
+Gabriel spent ¥3.5 on popcorn because 5 x 0.7 = 3.5
+Gabriel spent 1172.5 on cookies because 1176.0 - 3.5 = 1172.5
+Gabriel bought 938 cookies because 1172.5 / 1.25 = 938
+#### 938","Let's solve the problem by breaking it down step by step:
+
+1. **Understand Gabriel's Spending**:
+   Gabriel has ¥1200 initially. He spent some of this on popcorn and cookies, and we're told he was left with 2% of his money.
+
+2. **Calculate Gabriel's Remaining Money**:
+   Gabriel retained 2% of his money as change. Let's calculate the amount he retained:
+   \[
+   0.02 \times 1200 = 24 \, \text{yen}
+   \]
+   So, Gabriel has 24 yen left after purchasing popcorn and cookies.
+
+3. **Calculate Total Amount Spent**:
+   If Gabriel has 24 yen remaining, the total amount he spent is:
+   \[
+   1200 - 24 = 1176 \, \text{yen}
+   \]
+
+4. **Calculate Cost of Popcorn**:
+   Gabriel bought 5 bags of popcorn. Given that each bag costs 70 cents (equivalent to 70 yen), the total cost for popcorn is:
+   \[
+   5 \times 70 = 350 \, \text{yen}
+   \]
+
+5. **Calculate Remaining Money for Cookies**:
+   Subtract the amount spent on popcorn from the total spent to find out how much was spent on cookies:
+   \[
+   1176 - 350 = 826 \, \text{yen}
+   \]
+
+6. **Determine Number of Cookies Bought**:
+   Each cookie costs 125 cents (equivalent to 125 yen). To find out how many cookies Gabriel bought:
+   \[
+   \frac{826}{125} = 6.608
+   \]
+   Since Gabriel cannot buy a fractional part of a cookie, we round down to the nearest whole number. Therefore, Gabriel bought 6 cookies.
+
+Given these calculations, the number of cookies Gabriel bought is:
+
+Answer: 6",6
+66,"Kai caught 4 trouts last Monday, the first trout he caught weighs 46 kgs, the second trout he caught weighs 30 kgs, and the last trout he caught weighs 32 kgs. If a kg of trout costs ₺0.25, how much will he earn after selling all the trouts to the market?","Kai will earn 46 x ₺0.25 = ₺11.5 from the first trout.
+He will earn 30 x ₺0.25 = ₺7.5 for the second trout.
+The rest of the trouts are 4-2 = 2. He will earn 32 x ₺0.25 = ₺8.0 per each of them. So he will earn 2 * 8.0 = =16.0
+Therefore, the total amount he will earn for all the trouts is ₺11.5 + ₺7.5 + ₺16.0= ₺35.
+#### 35","To solve the problem, let's break it down step by step as requested:
+
+1. **Identify the weights of the caught trouts**:
+   - The first trout weighs 46 kg.
+   - The second trout weighs 30 kg.
+   - The last trout weighs 32 kg.
+
+2. **Calculate the total weight of all the trouts**:
+   - Add the weights of the three trouts: 
+     \[ 46 \, \text{kg} + 30 \, \text{kg} + 32 \, \text{kg} = 108 \, \text{kg} \]
+
+3. **Determine the cost per kilogram of trout**:
+   - Given cost is ₺0.25 per kg.
+
+4. **Calculate the total earnings from selling all the trouts**:
+   - Multiply the total weight of the trouts by the cost per kg:
+     \[ 108 \, \text{kg} \times ₺0.25/\text{kg} = ₺27 \]
+
+Putting it all together, Kai will earn ₺27 from selling all the trouts.
+
+Answer: ₺27",27
+67,"In a 50-item quiz, 40% of the questions are economics, and the rest are equally divided as literature and geography questions. If Valentina is sure to get 30% of the economics questions, and 1/2 of the literature and geography questions correctly, how many points is she sure to get?","The literature and geography questions comprises 100% - 40% = 60% of the quiz.
+There are 50 questions x 40/100 = 20 economics questions.
+There are a total of 50 questions x 60/100 = 30 literature and geography questions.
+If Valentina is sure to get 30% of the economics questions, then this means she is sure of her 20 questions x 30/100 = 6 points.
+From the literature and geography questions, she is sure to get 1/2 of it correctly so that is 30 questions * 1/2 = 15 points.
+Thus, she is sure of getting 6 points + 15 points = 21 points in her quiz.
+#### 21","To solve this problem, we will break it down into a series of logical steps.
+
+1. **Calculate the total number of economics questions:**
+   - The quiz consists of 50 questions in total.
+   - 40% of these are economics questions.
+   - First, calculate 40% of 50:
+     \[
+     50 \times 0.4 = 20 
+     \]
+   - Therefore, there are 20 economics questions.
+
+2. **Calculate the percentage of literature and geography questions:**
+   - The remaining percentage of questions are divided equally between literature and geography.
+   - Since 40% are economics questions, the remaining percentage is:
+     \[
+     100\% - 40\% = 60\%
+     \]
+   - This 60% is equally divided between literature and geography, meaning each subject has:
+     \[
+     60\% \div 2 = 30\%
+     \]
+
+3. **Calculate the number of literature questions:**
+   - 30% of 50 questions are literature:
+     \[
+     50 \times 0.3 = 15
+     \]
+   - Therefore, there are 15 literature questions.
+
+4. **Calculate the number of geography questions:**
+   - Similarly, 30% of 50 questions are geography:
+     \[
+     50 \times 0.3 = 15
+     \]
+   - Therefore, there are 15 geography questions.
+
+5. **Calculate the number of economics questions Valentina is sure to get correct:**
+   - Valentina is sure to get 30% of the economics questions correctly.
+   - Calculate 30% of 20:
+     \[
+     20 \times 0.3 = 6
+     \]
+   - Thus, Valentina is sure to get 6 economics questions correct.
+
+6. **Calculate the number of literature questions Valentina is sure to get correct:**
+   - Valentina is sure to get 1/2 of the literature questions correctly.
+   - Calculate 1/2 of 15:
+     \[
+     15 \div 2 = 7.5
+     \]
+   - Given that she can't answer half a question, we'll assume she can be credited with 7 or 8 correct answers, but under normal rounding rules used in exams, she would get 7 correct.
+
+7. **Calculate the number of geography questions Valentina is sure to get correct:**
+   - Similarly, for geography, Valentina is sure to get 1/2 of the questions correct.
+   - Calculate 1/2 of 15:
+     \[
+     15 \div 2 = 7.5
+     \]
+   - Following the same logic as for literature, this typically rounds to 7 in an exam setting.
+
+8. **Calculate the total number of questions Valentina is sure to get correct:**
+   - Add the number of questions Valentina is sure to get correct from each category:
+     \[
+     6 \text{ (economics)} + 7 \text{ (literature)} + 7 \text{ (geography)} = 20
+     \]
+
+Answer: 20",20
+68,"Olivia has a flower bed that is 165 feet long. Olivia wants to fill her flower bed with plants. Olivia's flowers grow 3 feet wide so she needs to leave 13.75 feet between every plant. Olivia already owns 11 flowers. Each flowering plant costs ₺5 at the store, how much money will Olivia spend at the store to fill up her flower bed?","Olivia's flower bed is 165 feet / 13.75 feet per plant = 12 plants needed.
+Olivia needs to buy 12 plants - 11 plants = 1 plants needed to purchase.
+Olivia will spend 1 plants * ₺5 = ₺5.
+#### 5","To find out how much money Olivia will spend at the store to fill up her flower bed, we need to follow these steps:
+
+1. **Understand the spacing and length requirements:**
+   - Each plant takes up 3 feet of space.
+   - There must be 13.75 feet of space between each plant.
+  
+2. **Calculate the effective length occupied by one plant and the space after it:**
+   - The effective length for one plant and the space after it is:  
+     \[ 3 \text{ feet (plant width)} + 13.75 \text{ feet (spacing)} = 16.75 \text{ feet} \]
+
+3. **Subtract the extra spacing after the last plant from the total length:**
+   - The total flower bed length is 165 feet but we won't add spacing after the last plant.
+   - If there are \( n \) plants, the total length they and their in-between spacing occupy is:
+     \[ n \times 3 + (n-1) \times 13.75 \]
+   - Therefore, to avoid counting an extra space after the last plant:
+     \[ n \times 16.75 - 13.75 = 165 \]
+   - This simplifies the calculation:
+     \[ n \times 16.75 = 165 + 13.75 = 178.75 \]
+
+4. **Calculate the number of plants required:**
+   - Divide the adjusted flower bed length by the effective space needed per plant:
+     \[ n = \frac{178.75}{16.75} \approx 10.67 \]
+   
+5. **Round up to the whole number, since a partial plant doesn't make practical sense:**
+   - Olivia can fit at most 11 plants.
+
+6. **Determine how many more plants Olivia needs to buy:**
+   - Olivia already owns 11 plants.
+   - Since she only needs 11 plants to fill the bed, she doesn't need to buy more than she has.
+
+7. **Calculate the cost:**
+   - Olivia needs to buy 0 additional plants.
+   - Cost for additional plants = \( 0 \) plants \times ₺5 = ₺0
+
+Final calculation is:
+  
+Answer: ₺0  ",0
+69,"Jamal is popping popcorn for a snack. As the pan of kernels heats up, the kernels start popping faster. 20 pop in the first 30 seconds of cooking, then 4 times that amount in the next 30 seconds. The kernels increase to 6 times the initial popping rate in the next 30 seconds, but in the final 30 seconds, the popping slows down to half the rate as the past 30 seconds. After Jamal takes the pan off the heat, a quarter of the number of kernels that popped in the final 30 seconds of cooking also pop from the residual heat. How many pieces of popcorn does Jamal have to eat?","In the second k_3 seconds of cooking, 4* 20 = 80 kernels pop.
+In the third k_3 seconds, 6 * 20 = 120 kernels pop.
+In the final k_3 seconds, 120 / 2 = 60 kernels pop.
+After cooking, the residual heat makes 60 / 4 = 15 kernels pop.
+Thus, Jamal has 20 + 80 + 120 + 60 + 15 = 295 pieces of popcorn to eat.
+#### 295","Let's solve the problem step-by-step.
+
+1. **Initial 30 Seconds:**
+   - 20 kernels pop in the first 30 seconds.
+
+2. **Next 30 Seconds:**
+   - The amount of kernels popping is 4 times the initial rate.
+   - Calculation: \( 20 \times 4 = 80 \) kernels pop.
+
+3. **Following 30 Seconds:**
+   - The popping rate increases to 6 times the initial rate.
+   - Calculation: \( 20 \times 6 = 120 \) kernels pop.
+
+4. **Final 30 Seconds:**
+   - The popping slows to half the rate of the previous 30 seconds.
+   - Calculation: \( \frac{120}{2} = 60 \) kernels pop.
+
+5. **From Residual Heat:**
+   - After the pan is off the heat, a quarter of the number of kernels that popped in the final 30 seconds also pop.
+   - Calculation: \( \frac{60}{4} = 15 \) kernels pop.
+
+6. **Total Popcorn Calculation:**
+   - Total pieces of popcorn is the sum of all popped kernels in each stage plus those from the residual heat.
+   - Calculation: \( 20 + 80 + 120 + 60 + 15 = 295 \).
+
+Answer:
+295",1
+70,"Ravi caught 4 steelheads last Monday, the first steelhead he caught weighs 64 pounds, the second steelhead he caught weighs 55 pounds, and the last steelhead he caught weighs 39 pounds. If a pound of steelhead costs €2.0, how much will he earn after selling all the steelheads to the market?","Ravi will earn 64 x €2.0 = €128.0 from the first steelhead.
+He will earn 55 x €2.0 = €110.0 for the second steelhead.
+The rest of the steelheads are 4-2 = 2. He will earn 39 x €2.0 = €78.0 per each of them. So he will earn 2 * 78.0 = =156.0
+Therefore, the total amount he will earn for all the steelheads is €128.0 + €110.0 + €156.0= €394.
+#### 394","To determine how much Ravi will earn after selling all the steelheads, follow these steps:
+
+1. **Identify the weights of the steelheads Ravi caught**: 
+   - First steelhead: 64 pounds
+   - Second steelhead: 55 pounds
+   - Third steelhead (last steelhead mentioned): 39 pounds
+
+2. **Calculate the total weight of all the steelheads**:
+   - Total weight = 64 + 55 + 39
+
+   Calculate this sum:
+   - Total weight = 64 + 55 = 119
+   - Total weight = 119 + 39 = 158 pounds
+
+3. **Understand the cost per pound of steelhead**:
+   - Each pound of steelhead sells for €2.0.
+
+4. **Calculate the total earnings from selling the steelheads**:
+   - Total earnings = Total weight of steelheads × Cost per pound
+   - Total earnings = 158 pounds × €2.0/pound
+
+   Compute this multiplication:
+   - Total earnings = 158 × 2 = €316
+
+5. **State the final earnings in the specified format**:
+   - Answer: €316",316
+71,The vending machines sell pretzels for 50 cents and popcorn for 75 cents. Bodhi spent ¥1300 and got 3 bags of pretzels and had 1% of his money left in change. How many popcorn did he buy?,"Bodhi got ¥13.0 in change because 1300 x 1/100 = 13
+Bodhi spent ¥1287 because 1300 - 13 = 1287
+Bodhi spent ¥1.5 on pretzels because 3 x 0.5 = 1.5
+Bodhi spent 1285.5 on popcorn because 1287.0 - 1.5 = 1285.5
+Bodhi bought 1714 popcorn because 1285.5 / 0.75 = 1714
+#### 1714","To solve this problem, let's follow a step-by-step approach:
+
+1. **Convert ¥ to cents**: Since Bodhi spent ¥1300, and assuming ¥1 equals 1 cent for simplicity (since no other conversion rate is given), we consider his total money in cents to be 1300 cents.
+
+2. **Calculate the 1% of total money**: Bodhi had 1% of his money left as change. Therefore, calculate 1% of 1300 cents.
+    \[
+    \text{1% of 1300} = \frac{1}{100} \times 1300 = 13 \text{ cents}
+    \]
+   So, he had 13 cents left.
+
+3. **Determine how much money Bodhi spent**: Since he had 13 cents left, subtract this from the total to find out how much he actually spent.
+    \[
+    1300 - 13 = 1287 \text{ cents spent}
+    \]
+
+4. **Cost of pretzels**: Bodhi bought 3 bags of pretzels, each costing 50 cents.
+    \[
+    \text{Total cost of pretzels} = 3 \times 50 = 150 \text{ cents}
+    \]
+
+5. **Find money spent on popcorn**: Subtract the amount spent on pretzels from the total amount spent (1287 cents) to find out how much he spent on popcorn.
+    \[
+    1287 - 150 = 1137 \text{ cents spent on popcorn}
+    \]
+
+6. **Determine the number of popcorn bags**: Since each popcorn costs 75 cents, find out how many bags he bought by dividing the total amount he spent on popcorn by the cost per bag.
+    \[
+    \text{Number of popcorn bags} = \frac{1137}{75} = 15.16
+    \]
+
+   Since Bodhi cannot buy a fraction of a popcorn bag, he must have bought 15 bags with some potential leftovers or rounding issues in assumptions. Therefore, it's likely he bought 15 popcorn bags.
+
+Answer: 15",15
+72,"Jin caught 4 trouts last Thursday, the first trout he caught weighs 54 kgs, the second trout he caught weighs 42 kgs, and the last trout he caught weighs 20 kgs. If a kg of trout costs ¥0.5, how much will he earn after selling all the trouts to the market?","Jin will earn 54 x ¥0.5 = ¥27.0 from the first trout.
+He will earn 42 x ¥0.5 = ¥21.0 for the second trout.
+The rest of the trouts are 4-2 = 2. He will earn 20 x ¥0.5 = ¥10.0 per each of them. So he will earn 2 * 10.0 = =20.0
+Therefore, the total amount he will earn for all the trouts is ¥27.0 + ¥21.0 + ¥20.0= ¥68.
+#### 68","To find out how much Jin will earn after selling all the trouts to the market, we need to follow these steps:
+
+1. Determine the weights of each trout Jin caught:
+   - First trout weighs 54 kg
+   - Second trout weighs 42 kg
+   - Third trout's weight is missing and needs to be deduced. Since Jin caught four trouts but only three are specified in weight, we are missing the weight of the fourth trout. Let's denote the weight of the fourth trout as \( W \).
+
+2. Add up the weights of the trouts:
+   - Given weights: 54 kg + 42 kg + 20 kg = 116 kg
+   - Total number of trouts: 4
+   - If the problem states he caught 4 trouts and only specifies the weight of three, likely the problem has excluded the weight of one trout. However, since we have data for three, we'll proceed with that, assuming the original problem meant 3 trouts. 
+
+3. Calculate the total weight of all the trouts:
+   - Total weight = 54 kg + 42 kg + 20 kg (third trout) = 116 kg
+
+4. Determine the cost of the trout per kg:
+   - Each kg costs ¥0.5.
+
+5. Calculate the total earnings:
+   - Total earnings = Total weight * cost per kg = 116 kg * ¥0.5 = ¥58
+
+By following these steps, we have calculated Jin's earnings after selling the trouts.
+
+Answer: ¥58",58
+73,"Kimia has a flower bed that is 180 feet long. Kimia wants to fill her flower bed with plants. Kimia's flowers grow 3 feet wide so she needs to leave 15.0 feet between every plant. Kimia already owns 11 flowers. Each flowering plant costs ¥3 at the store, how much money will Kimia spend at the store to fill up her flower bed?","Kimia's flower bed is 180 feet / 15.0 feet per plant = 12 plants needed.
+Kimia needs to buy 12 plants - 11 plants = 1 plants needed to purchase.
+Kimia will spend 1 plants * ¥3 = ¥3.
+#### 3","To solve this problem, we need to determine how many additional flowers Kimia needs and how much she will spend at the store. Let's break down the problem step-by-step:
+
+1. **Determine the total number of flowers needed:**
+   - Each flower takes up a space of 3 feet and an additional 15 feet for spacing from the next plant. So, the space required for each plant is \(3 + 15 = 18\) feet.
+   - Kimia's flower bed is 180 feet long. To find how many flowers can be planted, divide the total length of the flower bed by the space required per plant:  
+   \[
+   \frac{180}{18} = 10 \text{ flowers}
+   \]
+
+2. **Determine how many more flowers Kimia needs:**
+   - Kimia already owns 11 flowers.
+   - She needs 10 flowers to fill the bed according to the calculation. Since she has more flowers than needed (11 > 10), she technically does not need to buy any more flowers. 
+
+3. **Calculate the cost if any additional flowers were needed:**
+   - Since Kimia does not need more flowers, she won't spend any money on flowering plants at the store.
+
+Thus, the total cost of the flowers that Kimia needs to purchase is:
+
+Answer: ¥0",0
+74,The vending machines sell gum for 75 cents and popcorn for 100 cents. Yusuf spent ¥900 and got 4 bags of gum and had 9% of his money left in change. How many popcorn did he buy?,"Yusuf got ¥81.0 in change because 900 x 9/100 = 81
+Yusuf spent ¥819 because 900 - 81 = 819
+Yusuf spent ¥3.0 on gum because 4 x 0.75 = 3.0
+Yusuf spent 816.0 on popcorn because 819.0 - 3.0 = 816.0
+Yusuf bought 816 popcorn because 816.0 / 1.0 = 816
+#### 816","To determine how many popcorns Yusuf bought, we'll break down the problem step-by-step:
+
+1. **Understand the Total Money Spent**:  
+   - Yusuf initially had ¥900.
+   - He spent some of this money and was left with 9% of the initial amount in change.
+
+2. **Calculate the Amount Left in Change**:
+   - 9% of ¥900 is calculated as follows:
+     \[
+     0.09 \times 900 = 81 \text{ (yen)}
+     \]
+   - So, Yusuf has ¥81 left at the end.
+
+3. **Calculate the Amount Yusuf Actually Spent**:
+   - If Yusuf has ¥81 left, then the total amount he spent is:
+     \[
+     900 - 81 = 819 \text{ (yen)}
+     \]
+
+4. **Understand What was Bought**:
+   - Yusuf bought 4 bags of gum for 75 cents each.
+   - The cost of 4 bags of gum is:
+     \[
+     4 \times 75 = 300 \text{ cents} = ¥300
+     \]
+
+5. **Calculate Money Spent on Popcorn**:
+   - The total money spent on popcorn is the difference between the total spent and what was used on gum:
+     \[
+     819 - 300 = 519 \text{ (yen)}
+     \]
+
+6. **Determine the Number of Popcorns Bought**:
+   - Each popcorn costs ¥100.
+   - The number of popcorns Yusuf could buy with ¥519 is determined by dividing the amount spent on popcorn by the cost of one popcorn:
+     \[
+     \left\lfloor \frac{519}{100} \right\rfloor = 5 \text{ (popcorns)}
+     \]
+
+Thus, Yusuf bought 5 popcorns. 
+
+Answer: 5",5
+75,"Sanjay caught 4 salmons last Tuesday, the first salmon he caught weighs 63 pounds, the second salmon he caught weighs 43 pounds, and the last salmon he caught weighs 34 pounds. If a pound of salmon costs ₺1.5, how much will he earn after selling all the salmons to the market?","Sanjay will earn 63 x ₺1.5 = ₺94.5 from the first salmon.
+He will earn 43 x ₺1.5 = ₺64.5 for the second salmon.
+The rest of the salmons are 4-2 = 2. He will earn 34 x ₺1.5 = ₺51.0 per each of them. So he will earn 2 * 51.0 = =102.0
+Therefore, the total amount he will earn for all the salmons is ₺94.5 + ₺64.5 + ₺102.0= ₺261.
+#### 261","To find out how much Sanjay will earn after selling all the salmons, we need to perform the following steps:
+
+1. **Identify the weights of the salmons Sanjay caught:**  
+   - First salmon: 63 pounds
+   - Second salmon: 43 pounds
+   - Third salmon: Sanjay also caught a third salmon, but its weight isn't mentioned directly. Since only two weights are given, we assume there might be an oversight in the description. As mentioned, Sanjay caught four salmons.
+
+2. **Calculate the combined weight of the three mentioned salmons:**
+   \[
+   \text{Weight of the first salmon} = 63 \text{ pounds}
+   \]
+   \[
+   \text{Weight of the second salmon} = 43 \text{ pounds}
+   \]
+   \[
+   \text{Weight of the third salmon} = 34 \text{ pounds}
+   \]
+
+3. **Calculate the total weight of the salmons mentioned:**
+   \[
+   \text{Total weight} = 63 + 43 + 34 = 140 \text{ pounds}
+   \]
+
+4. **Calculate the total earnings from selling the salmons at ₺1.5 per pound:**
+   \[
+   \text{Earnings} = \text{Total weight} \times \text{Price per pound} = 140 \times 1.5
+   \]
+
+5. **Perform the multiplication to find the final amount Sanjay will earn:**
+   \[
+   \text{Earnings} = 140 \times 1.5 = 210
+   \]
+
+Therefore, Sanjay will earn ₺210 after selling all the salmons.
+
+Answer: ₺210",210
+76,"Leon caught 7 salmons last Tuesday, the first salmon he caught weighs 54 kilograms, the second salmon he caught weighs 34 kilograms, and the last salmon he caught weighs 22 kilograms. If a kilogram of salmon costs €2.0, how much will he earn after selling all the salmons to the market?","Leon will earn 54 x €2.0 = €108.0 from the first salmon.
+He will earn 34 x €2.0 = €68.0 for the second salmon.
+The rest of the salmons are 7-2 = 5. He will earn 22 x €2.0 = €44.0 per each of them. So he will earn 5 * 44.0 = =220.0
+Therefore, the total amount he will earn for all the salmons is €108.0 + €68.0 + €220.0= €396.
+#### 396","To determine how much Leon will earn after selling all the salmons, we follow these steps:
+
+1. **Identify the weights of the known salmons:**
+   - The first salmon weighs 54 kilograms.
+   - The second salmon weighs 34 kilograms.
+   - The last salmon weighs 22 kilograms.
+
+2. **Calculate the total weight of the known salmons:**
+   \[
+   \text{Total weight of known salmons} = 54 + 34 + 22 = 110 \text{ kilograms}
+   \]
+
+3. **Count the total number of salmons and the salmons with known weights:**
+   - Leon caught a total of 7 salmons.
+   - The weights of 3 salmons are already known. Thus, the number of salmons with unknown weights is:
+   \[
+   7 - 3 = 4 \text{ salmons}
+   \]
+
+4. **Determine the total weight of the salmons with known weights:** 
+   Since the weights for the other 4 salmons are not specified, we'll not include them in the calculation of revenue until we have that data. (If the problem intends any weight for these, additional information is needed.)
+
+5. **Calculate the earnings from selling the known weight salmons at €2.0 per kilogram:**
+   \[
+   \text{Earnings} = (\text{Total weight of known salmons}) \times (\text{Cost per kilogram})
+   \]
+   \[
+   = 110 \times 2 = 220 \text{ euros}
+   \]
+
+Thus, assuming only the provided weights, Leon will earn:
+
+Answer: 220 euros",220
+77,"At the beginning of the conference, there were 64 artists and 51 engineers. After half an hour, one-fifth of the total number of people left. How many engineers are left if 26 artists stayed at the conference?","There were a total of 64 artists + 51 engineers = 115 people who attended the conference.
+After half an hour, 115 people * 1/5 = 23 people left the conference.
+This means 115 people - 23 people = 92 people stayed.
+Out of the 92 who stayed, 92 people - 26 artists = 66 were engineers.
+#### 66","Certainly! Let's calculate step by step.
+
+1. **Calculate the initial total number of people:**
+   - Initial artists = 64
+   - Initial engineers = 51
+   - Total people initially = 64 artists + 51 engineers = 115 people
+
+2. **Calculate the number of people that left after half an hour:**
+   - According to the problem, one-fifth of the people left.
+   - Number of people who left = \( \frac{1}{5} \times 115 = 23 \) people
+
+3. **Determine the number of people who stayed:**
+   - Total people who stayed = Total people initially - People who left = 115 - 23 = 92 people stayed
+
+4. **Determine the number of artists who stayed:**
+   - We're told 26 artists stayed.
+
+5. **Calculate the number of engineers who stayed:**
+   - Total people who stayed = 92
+   - Since 26 artists stayed, the number of engineers who stayed = 92 - 26 = 66 engineers stayed
+
+6. **Calculate the number of engineers left (who did not stay):**
+   - Initial engineers = 51
+   - Engineers who stayed = 66 (calculated from step 5 but it exceeds original engineers, so recollect information from less probability) note step again based on correctness of information
+   --- they might equal texcluding overation or listing ---
+   - Engineers who left = 51 - Remaining engineers
+
+- After reevaluating steps clarification pace for correctness = initially purpose
+
+7. **Conclusion from equation**
+  - Reflect the reinstation of calculations correctly linked
+  
+Therefore, it follows that:
+- 51 - engineers hold variable due equation check
+
+
+
+Reflectors maintained typecast values based on held information as directly alternative observation solely based engineers leaving
+
+8. Reiteration balance observation from potential values dynamic transformation / adherence sessions depending values not assumptions based projections. (52 - calculation testing numbers inducing resolency)
+- Total Engineers in direct adjancy = 26
+
+
+Answer: 25",25
+78,"A class of 176 students has various hobbies. 40 like to read, 18 like to play football, and the rest like to either hike or paint. How many like to hike if the number that like to paint is twice the number that prefer playing football?","The number of students that like to paint is twice as many as the number who like football, so 2 * 18 = 36
+The number that like to hike is 176 total students - 40 read - 18 football - 36 paint = 82
+#### 82","To find out how many students like to hike, we need to go through the problem step by step:
+
+1. **Determine the number of students who like to paint:**
+   - We are given that the number of students who like to paint is twice the number of students who prefer playing football.
+   - The number of students who like to play football is 18.
+   - Therefore, the number of students who like to paint is \(2 \times 18 = 36\).
+
+2. **Calculate the total number of students accounted for by reading, playing football, and painting:**
+   - Students who like to read: 40
+   - Students who like to play football: 18
+   - Students who like to paint: 36
+   - Total number of students with these hobbies: 
+     \[
+     40 + 18 + 36 = 94
+     \]
+
+3. **Find the number of students who like either hiking or painting:**
+   - Since the problem states that the rest of the students like either hiking or painting, calculate the ones not accounted for by reading or playing football: 
+   - Total number of students: 176
+   - Total number with read, football, or paint interests: 94
+   - Thus, the rest (hiking or painting) is: 
+     \[
+     176 - 94 = 82
+     \]
+
+4. **Find the number of students who like hiking:**
+   - We have already found that 36 of these students like to paint.
+   - Therefore, the number of students who like to hike is:
+     \[
+     82 - 36 = 46
+     \]
+
+Answer: 46",46
+79,"Mateo's van breaks down. The van weighs 2000 kilograms and he has groceries in it weighing 250 kilograms. He also has his 2 young friends who weigh 75 kilograms each in it. If the force to move the van is 3% of the weight, how much force does he need to push the van?","His 2 friends weigh 75*2=150 kilograms
+So the total weight of the van and everything is 2000+250+150=2400 kilograms
+So he needs to generate 2400*0.03=72 kilograms
+#### 72","To solve the problem, we will calculate the total weight of the van including its contents and then determine the force required to move it based on the given percentage. Here are the steps:
+
+1. **Calculate the Total Weight of the Van:**
+
+   a. The van's weight is 2000 kg.
+   
+   b. The weight of the groceries is 250 kg.
+   
+   c. Mateo's two friends weigh 75 kg each, so together they weigh \(2 \times 75 = 150\) kg.
+   
+   d. To find the total weight, add these weights together:
+   
+     \[
+     \text{Total weight} = 2000 \, \text{kg} + 250 \, \text{kg} + 150 \, \text{kg} = 2400 \, \text{kg}
+     \]
+
+2. **Calculate the Force Required to Move the Van:**
+
+   a. The force required is 3% of the total weight.
+   
+   b. Calculate 3% of the total weight:
+   
+     \[
+     \text{Force} = 0.03 \times 2400 \, \text{kg} = 72 \, \text{kgf}
+     \]
+
+Since kilograms is a unit of mass, assuming we're talking about a situation near Earth's surface, we consider the gravitational force exerted by this mass. 1 kg of mass is equivalent to 9.8 N (Newtons) of force due to gravity, so we’ll convert this to Newtons.
+
+\[
+\text{Force in Newtons} = 72 \, \text{kgf} \times 9.8 \, \text{N/kg} = 705.6 \, \text{N}
+\]
+
+Therefore, the force needed to push the van is:
+
+Answer: 705.6 N",705
+80,Bodhi hires a party bus from 1 PM to 6 PM. He gets 2 hours free. The first paid hour is ₣43 and each hour after that is twice the cost. How much did he pay?,"He got it for 6-1=5 hours
+He pays for 5-2=3 hours
+The first hour cost 1*43=₣43
+The other 3-1=2 hours are more expensive
+They cost 43*2=₣86 per hour
+So those 2 hours cost 2*86=₣172
+So he pays 172+43=₣215
+#### 215","To solve the problem, let's break it down step by step:
+
+1. **Determine the total duration of the hire:**
+   - Bodhi hires the party bus from 1 PM to 6 PM. 
+   - This is a total of 6 hours.
+
+2. **Calculate the number of free hours:**
+   - Bodhi gets 2 free hours.
+
+3. **Calculate the number of paid hours:**
+   - Total hours = 6
+   - Free hours = 2
+   - Paid hours = Total hours - Free hours
+   - Paid hours = 6 - 2 = 4 hours
+
+4. **Determine the cost of the first paid hour:**
+   - The cost of the first paid hour is ₣43.
+
+5. **Determine the cost of each subsequent paid hour:**
+   - Each subsequent hour costs twice the previous hour.
+   - Thus, the cost for the hours are:
+     - First hour: ₣43
+     - Second hour: ₣43 × 2 = ₣86
+     - Third hour: ₣86 × 2 = ₣172
+     - Fourth hour: ₣172 × 2 = ₣344
+
+6. **Calculate the total cost for the paid hours:**
+   - Total cost = ₣43 + ₣86 + ₣172 + ₣344
+
+7. **Add up the total cost:**
+   - Total cost = ₣43 + ₣86 = ₣129
+   - Total cost = ₣129 + ₣172 = ₣301
+   - Total cost = ₣301 + ₣344 = ₣645
+
+Final calculation:
+
+Answer: ₣645",645
+81,"Olivia sliced a whole mango into 32 pieces. She ate 3 slices, her sister ate 6 more than her, and her brother ate 8 more than her sister. How many slices of mango did they all eat?","Her sister ate 3 + 6 = 9 slices.
+Her brother ate 9 + 8 = 17 slices.
+They ate a total of 3 + 9 + 17 = 29 slices.
+#### 29","Sure, let's break it down step by step:
+
+1. **Determine how many slices Olivia ate.**
+   - Olivia ate 3 slices.
+
+2. **Determine how many slices her sister ate.**
+   - Her sister ate 6 more slices than Olivia.
+   - Therefore, her sister ate \( 3 + 6 = 9 \) slices.
+
+3. **Determine how many slices her brother ate.**
+   - Her brother ate 8 more slices than her sister.
+   - Therefore, her brother ate \( 9 + 8 = 17 \) slices.
+
+4. **Calculate the total slices eaten by Olivia, her sister, and her brother.**
+   - Add the slices eaten by Olivia, her sister, and her brother.
+   - Total slices eaten = \( 3 (Olivia) + 9 (Sister) + 17 (Brother) = 29 \) slices.
+
+Answer:
+29",1
+82,Andre hires a boat from 6 PM to 10 PM. He gets 1 hours free. The first paid hour is ¥40 and each hour after that is twice the cost. How much did he pay?,"He got it for 10-6=4 hours
+He pays for 4-1=3 hours
+The first hour cost 1*40=¥40
+The other 3-1=2 hours are more expensive
+They cost 40*2=¥80 per hour
+So those 2 hours cost 2*80=¥160
+So he pays 160+40=¥200
+#### 200","To solve this problem, we can follow these steps:
+
+1. **Identify the total time duration of the boat hire**:
+   - Andre hires the boat from 6 PM to 10 PM.
+   - Total time duration = 10 PM - 6 PM = 4 hours.
+
+2. **Determine how many hours are free**:
+   - Andre gets 1 hour free during the hire.
+   - So, the free hour = 1 hour.
+
+3. **Calculate the number of paid hours**:
+   - Total hours = 4 hours.
+   - Paid hours = Total hours - Free hour = 4 hours - 1 hour = 3 hours.
+
+4. **Understand the cost structure for the paid hours**:
+   - The cost of the first paid hour is ¥40.
+   - Each subsequent hour costs twice the previous hour.
+
+5. **Calculate the cost for each paid hour**:
+   - Cost for the 1st paid hour = ¥40.
+   - Cost for the 2nd paid hour = 2 × ¥40 = ¥80.
+   - Cost for the 3rd paid hour = 2 × ¥80 = ¥160.
+
+6. **Add up the costs of all paid hours**:
+   - Total cost = Cost of 1st paid hour + Cost of 2nd paid hour + Cost of 3rd paid hour.
+   - Total cost = ¥40 + ¥80 + ¥160 = ¥280.
+
+Therefore, the total amount Andre paid for hiring the boat is:
+
+Answer: ¥280",280
+83,Oliver hires a party bus from 3 PM to 11 PM. He gets 2 hours free. The first paid hour is ¥31 and each hour after that is twice the cost. How much did he pay?,"He got it for 11-3=8 hours
+He pays for 8-2=6 hours
+The first hour cost 1*31=¥31
+The other 6-1=5 hours are more expensive
+They cost 31*2=¥62 per hour
+So those 5 hours cost 5*62=¥310
+So he pays 310+31=¥341
+#### 341","To find out how much Oliver paid for hiring the party bus, let's go through this step-by-step:
+
+1. **Determine the Total Duration**:  
+   - Oliver hires the bus from 3 PM to 11 PM.
+   - Total hours from 3 PM to 11 PM is \(11 - 3 = 8\) hours.
+
+2. **Apply the Free Hours**:  
+   - Oliver gets 2 hours free. 
+   - Paid hours = Total duration - Free hours = \(8 - 2 = 6\) hours.
+
+3. **Calculate the Cost of the Paid Hours**:  
+   - The cost of the first paid hour is ¥31.
+   - The cost doubles for each subsequent hour:  
+     - First paid hour: ¥31  
+     - Second paid hour: \(2 \times 31 = ¥62\)  
+     - Third paid hour: \(2 \times 62 = ¥124\)  
+     - Fourth paid hour: \(2 \times 124 = ¥248\)  
+     - Fifth paid hour: \(2 \times 248 = ¥496\)  
+     - Sixth paid hour: \(2 \times 496 = ¥992\)
+
+4. **Sum the Costs**:  
+   - Total cost = ¥31 + ¥62 + ¥124 + ¥248 + ¥496 + ¥992
+
+5. **Perform the Addition**:
+   - Sum the values:  
+     - ¥31 + ¥62 = ¥93  
+     - ¥93 + ¥124 = ¥217  
+     - ¥217 + ¥248 = ¥465  
+     - ¥465 + ¥496 = ¥961  
+     - ¥961 + ¥992 = ¥1953  
+
+   So, the total amount that Oliver paid is ¥1953.
+
+Answer: ¥1953",1953
+84,"Yara has a flower bed that is 201 feet long. Yara wants to fill her flower bed with plants. Yara's flowers grow 4 feet wide so she needs to leave 16.75 feet between every plant. Yara already owns 10 flowers. Each flowering plant costs €3 at the store, how much money will Yara spend at the store to fill up her flower bed?","Yara's flower bed is 201 feet / 16.75 feet per plant = 12 plants needed.
+Yara needs to buy 12 plants - 10 plants = 2 plants needed to purchase.
+Yara will spend 2 plants * €3 = €6.
+#### 6","To find out how much money Yara will spend at the store, follow these steps:
+
+1. **Determine the space each plant occupies (including spacing):**  
+   Each flower is 4 feet wide, and Yara needs to leave 16.75 feet between every plant. Thus, each plant and the space it requires is:  
+   \( 4 + 16.75 = 20.75 \) feet.
+
+2. **Calculate the number of spaces available in the flower bed:**  
+   Yara has a flower bed that is 201 feet long. To find out how many plants can be placed, we divide the total length by the space each plant requires:  
+   \( \frac{201}{20.75} = 9.69 \).
+
+3. **Determine the number of plants needed:**  
+   Since Yara can't place a fraction of a plant, she will be able to fit 9 full plants along the 201 feet length.  
+
+4. **Consider the plants Yara already owns:**  
+   Yara already owns 10 flowers. Hence, she needs \( 9 - 10 = -1 \) more plants. Since she needs a negative number of plants, this indicates that she already has more than enough plants to fill her flower bed.
+
+5. **Calculate the cost for additional plants needed:**  
+   Since Yara needs no additional plants from the store (as she already has more than necessary), the cost will be:  
+   \( 0 \) plants * €3 = €0.
+
+Finalizing the answer:
+
+Answer: €0",0
+85,There are 7 periods in the day for a normal student but Sanjay has to take 1 extra classes. Each class is 45 minutes long. He goes to class for 4 days a week. He then spends two-fourths of his weekly minutes each on Saturday and Sunday as extra learning time. How many hours a week does he spend learning?,"He takes 7+1=8 classes a day
+That means he spends 45*8=360 minutes per day in class
+So he spends 360*4=1440 minutes a week
+That means he spends 1440*1/2=720 minutes each on Saturday and Sunday.
+So he spends 1440+720+720=2880 minutes per week
+So he spends 2880/60=48 hours per week
+#### 48","To solve this problem, we will break it down step by step:
+
+1. Determine the number of classes Sanjay attends each day. 
+   - A normal student attends 7 periods a day.
+   - Sanjay takes 1 extra class, which means the total number of classes he attends each day is \(7 + 1 = 8\).
+
+2. Calculate the total minutes Sanjay spends in class each day. 
+   - Each class is 45 minutes long.
+   - Therefore, the minutes spent in class per day is \(8 \times 45 = 360\) minutes.
+
+3. Calculate the weekly classroom minutes.
+   - Sanjay attends classes 4 days a week.
+   - The total minutes he spends in class each week is \(360 \times 4 = 1440\) minutes.
+
+4. Calculate the extra learning time on Saturday and Sunday.
+   - Sanjay spends two-fourths of his weekly classroom minutes on extra learning during the weekend.
+   - Two-fourths is equivalent to one-half, so the extra learning time for the weekend is \(\frac{1}{2} \times 1440 = 720\) minutes.
+
+5. Calculate the total weekly learning minutes.
+   - The total learning time is the classroom minutes plus the extra learning time.
+   - Total learning time in minutes is \(1440 + 720 = 2160\) minutes.
+
+6. Convert the total learning minutes to hours.
+   - There are 60 minutes in an hour.
+   - Therefore, the total learning hours per week is \(\frac{2160}{60} = 36\) hours.
+
+Thus, the number of hours Sanjay spends learning each week is:
+
+Answer: 36 hours",36
+86,There are 9 periods in the day for a normal student but Alejandro has to take 1 extra classes. Each class is 50 minutes long. He goes to class for 6 days a week. He then spends two-fifths of his weekly minutes each on Saturday and Sunday as extra learning time. How many hours a week does he spend learning?,"He takes 9+1=10 classes a day
+That means he spends 50*10=500 minutes per day in class
+So he spends 500*6=3000 minutes a week
+That means he spends 3000*2/5=1200 minutes each on Saturday and Sunday.
+So he spends 3000+1200+1200=5400 minutes per week
+So he spends 5400/60=90 hours per week
+#### 90","To solve this problem, we need to calculate the total learning time Alejandro spends each week, both during his regular classes and his extra learning time on the weekend. Let's break it down step-by-step:
+
+1. **Calculate daily class periods for Alejandro:**
+   - Alejandro has 9 normal class periods per day.
+   - He takes 1 extra class, so he attends \(9 + 1 = 10\) periods each day.
+
+2. **Calculate the daily learning time in minutes:**
+   - Each class period is 50 minutes long.
+   - Therefore, Alejandro spends \(10 \times 50 = 500\) minutes each day attending classes.
+
+3. **Calculate the weekly learning time from classes:**
+   - Alejandro attends classes 6 days a week.
+   - Thus, he spends \(500 \times 6 = 3000\) minutes per week in classes.
+
+4. **Calculate extra learning time on the weekend:**
+   - He spends two-fifths of his weekly class minutes on extra learning.
+   - Two-fifths of 3000 minutes is \(\frac{2}{5} \times 3000 = 1200\) minutes.
+
+5. **Calculate total weekly learning time (class + extra):**
+   - Total time is the sum of class time and extra learning time.
+   - This is \(3000 + 1200 = 4200\) minutes per week.
+
+6. **Convert minutes to hours:**
+   - There are 60 minutes in an hour.
+   - Therefore, \(4200\) minutes is \(\frac{4200}{60} = 70\) hours.
+
+Finally, Alejandro spends 70 hours a week learning.
+
+**Answer: 70 hours**",70
+87,Carlos hires a party bus from 1 PM to 5 PM. He gets 1 hours free. The first paid hour is ¥25 and each hour after that is thrice the cost. How much did he pay?,"He got it for 5-1=4 hours
+He pays for 4-1=3 hours
+The first hour cost 1*25=¥25
+The other 3-1=2 hours are more expensive
+They cost 25*3=¥75 per hour
+So those 2 hours cost 2*75=¥150
+So he pays 150+25=¥175
+#### 175","To determine how much Carlos paid for hiring the party bus, let's break it down step by step:
+
+1. **Duration of Hire**: Carlos hires the party bus from 1 PM to 5 PM. 
+   - Total time = 5 PM - 1 PM = 4 hours.
+
+2. **Free Hour**: He gets the first hour free.
+   - Paid hours = Total hours - Free hours = 4 hours - 1 hour = 3 hours.
+
+3. **Cost Structure**:
+   - The first paid hour costs ¥25.
+   - Each subsequent hour costs thrice the previous hour's cost.
+
+4. **Calculate the Cost for Each Paid Hour**:
+   - Cost for the 1st paid hour = ¥25.
+   - Cost for the 2nd paid hour = 3 × ¥25 = ¥75.
+   - Cost for the 3rd paid hour = 3 × ¥75 = ¥225.
+
+5. **Total Cost Calculation**: 
+   - Total cost = Cost of 1st paid hour + Cost of 2nd paid hour + Cost of 3rd paid hour.
+   - Total cost = ¥25 + ¥75 + ¥225 = ¥325.
+
+Therefore, Carlos paid a total of ¥325 for hiring the party bus. 
+
+**Answer**: ¥325",325
+88,Pavel is rolling a d8 die. How much more likely is it (expressed as a percentage) that he rolls a number greater than 4 than that he rolls two odd numbers in a row?,"There are 4 numbers greater than 4 on the dice, so the chances of rolling one of them are 4 / 8 = 50%.
+The chance of rolling one odd number is 50%, so the chance of rolling two in a row is 50% * 50% = 25%.
+The difference between these two probabilities is 50% - 25% = 25%.
+#### 25","To solve the problem, we need to calculate two probabilities: the probability of rolling a number greater than 4 on a single roll and the probability of rolling two odd numbers in a row on two consecutive rolls. Then, we'll find how many times more likely the first event is than the second and express this difference as a percentage.
+
+Let's proceed with the calculations:
+
+1. **Determine the probability of rolling a number greater than 4 with a d8 die:**
+
+   - A d8 die has 8 faces with numbers 1 through 8.
+   - The numbers greater than 4 are 5, 6, 7, and 8.
+   - The number of favorable outcomes for rolling greater than 4 is 4 (since there are four numbers: 5, 6, 7, 8).
+   - The total number of possible outcomes when rolling a d8 die is 8.
+
+   \[
+   P(\text{rolling greater than 4}) = \frac{4}{8} = \frac{1}{2}
+   \]
+
+2. **Determine the probability of rolling two odd numbers in a row:**
+
+   - The odd numbers on a d8 die are 1, 3, 5, and 7.
+   - There are 4 odd numbers out of 8 possible outcomes.
+   - The probability of rolling an odd number on one roll is \(\frac{4}{8} = \frac{1}{2}\).
+   - To roll two odd numbers in a row, both rolls must result in an odd number.
+
+   \[
+   P(\text{two odd numbers in a row}) = \frac{1}{2} \times \frac{1}{2} = \frac{1}{4}
+   \]
+
+3. **Calculate how much more likely it is to roll a number greater than 4 than to roll two odd numbers in a row:**
+
+   - We have \(P(\text{rolling greater than 4}) = \frac{1}{2}\) and \(P(\text{two odd numbers in a row}) = \frac{1}{4}\).
+   - To find how many times more likely the first event is than the second, divide the probability of the first event by the probability of the second event.
+
+   \[
+   \text{Likelihood ratio} = \frac{\frac{1}{2}}{\frac{1}{4}} = \frac{1}{2} \times \frac{4}{1} = 2
+   \]
+
+4. **Express the difference as a percentage:**
+
+   - Since rolling a number greater than 4 is 2 times as likely as rolling two odd numbers in a row, it is 100% more likely.
+
+\[
+\text{Percentage increase} = (2 - 1) \times 100\% = 100\%
+\]
+
+Therefore, the probability of rolling a number greater than 4 is 100% more likely than rolling two odd numbers in a row. 
+
+Answer: 100%",100
+89,"At the beginning of the celebration, there were 66 nurses and 42 doctors. After 45 minutes, 1/9 of the total number of people left. How many doctors are left if 33 nurses stayed at the celebration?","There were a total of 66 nurses + 42 doctors = 108 people who attended the celebration.
+After 45 minutes, 108 people * 1/9 = 12 people left the celebration.
+This means 108 people - 12 people = 96 people stayed.
+Out of the 96 who stayed, 96 people - 33 nurses = 63 were doctors.
+#### 63","To solve this problem, we will follow these steps:
+
+1. **Determine the initial total number of people**:
+   - There are 66 nurses and 42 doctors at the beginning.
+   - Total number of people = 66 nurses + 42 doctors = 108 people.
+
+2. **Calculate how many people left after 45 minutes**:
+   - We know that 1/9 of the total number of people left.
+   - Number of people that left = 1/9 of 108 = 108 / 9 = 12 people.
+
+3. **Determine how many people stayed**:
+   - If 12 people left, then the number of people who stayed = 108 (initial total) - 12 (people who left) = 96 people.
+
+4. **Calculate the number of nurses who left**:
+   - We know that 33 nurses stayed at the celebration.
+   - Initially, there were 66 nurses. 
+   - Number of nurses who left = 66 (initial number of nurses) - 33 (nurses who stayed) = 33 nurses left.
+
+5. **Determine the number of doctors who left**:
+   - Out of the total 12 people who left, 33 were nurses.
+   - We earlier calculated there were 12 people who left the party.
+   - Since 33 nurses can't be accounted correctly here due to miscalculation, we instead subtract from our total remaining: 
+     - following our re-tracing of miscalculation
+   - total people initially 96, taking out who stayed 33 (nurses) means 96-33 left = 63 non-nurses/doctors.
+
+6. **Calculate the number of doctors left**:
+   - Initially, there were 42 doctors.
+   - Since total doctors can't be recalculated wrongly through manufactured flow,
+     - and aside from recount mistakes,
+   - Remaining nurses took lead with check: initial 108 folks, take leaving party guests 12, not match yet, (let's see our balanced state 108-12=96 folks).
+
+7. **Determine the final number of doctors remaining**:
+   Suppose if there's instance per detail assessment missteps along steps, proper cure:
+   - But error alignment made, starting few read errors fixed, solely calculate logged attendance tracking from check:
+     - Either from how math presumably has context question flaws logically (base imported basics) another form might better adjust:
+
+7. With using another step indicators (ensuring reality detection):
+     - Directly now forming at fewer gap confines:
+     - Ending, By reasoned side, used checks humans do:
+     - Presumes fixed 12 left, minus structured left account (clear):
+     - Partially checks improve:
+   
+   - Doctors still often (biased red notes across):
+   solution note: why recant noted verifies broader past does document:
+     - Why not direct here:
+
+   Mainly Answer moves paginated (perhaps poor formats currently trace by fraction):
+   
+   - Concentrates gained why drawn checks memoed:
+      or loop get insights checked why left 33-12-42=33 then Assumed reiterating, given untight planning. understood when correctional higher:
+      notasaki can be rebuilt by owners.
+    
+Summing here (when collection fell-over look):
+  
+Answer tinh of based relation (check sworn milestones thence finally reach:
+Assume outline here.
+Based logs still:
+   Better sorted steps too possibly verify above possible errors skip but stand circulated finding! Surveys also verifying outcome keeping.
+Answer: **30 doctors**",30
+90,"An uncle eats 6 pizzas per day, his spouse eats 7 pizzas per day, and their grandchild eats 7 pizzas per day. How many pizzas does this family eat in one month?","The number of pizzas they eat in one day is 6 + 7 + 7 = 20 pizzas.
+The number of pizzas they eat in a month is 20 * 30 = 600 pizzas.
+#### 600","To determine how many pizzas the family eats in one month, let's break down the problem step by step:
+
+1. **Uncle's Daily Consumption**:
+   - The uncle eats 6 pizzas per day.
+
+2. **Spouse's Daily Consumption**:
+   - The spouse eats 7 pizzas per day.
+
+3. **Grandchild's Daily Consumption**:
+   - The grandchild also eats 7 pizzas per day.
+
+4. **Daily Total for the Family**:
+   - Add the number of pizzas eaten by each family member per day:
+     \[
+     6 + 7 + 7 = 20 \text{ pizzas per day}
+     \]
+
+5. **Monthly Consumption**:
+   - Assume a standard month duration of 30 days.
+   - Multiply the family's daily pizza consumption by the number of days in the month:
+     \[
+     20 \times 30 = 600 \text{ pizzas in one month}
+     \]
+
+Answer:
+\[ 600 \text{ pizzas} \]",1
+91,Andre hires a limousine from 5 PM to 11 PM. He gets 1 hours free. The first paid hour is $24 and each hour after that is twice the cost. How much did he pay?,"He got it for 11-5=6 hours
+He pays for 6-1=5 hours
+The first hour cost 1*24=$24
+The other 5-1=4 hours are more expensive
+They cost 24*2=$48 per hour
+So those 4 hours cost 4*48=$192
+So he pays 192+24=$216
+#### 216","To solve this problem, let's use the Chain of Thought method, breaking down each step:
+
+1. **Calculate Total Hours Hired:**
+   - From 5 PM to 11 PM is a total of 6 hours.
+
+2. **Subtract Free Hour:**
+   - Since Andre gets 1 hour free, the total number of paid hours is \( 6 - 1 = 5 \) hours.
+
+3. **Determine Cost for Each Hour:**
+   - The cost of the first paid hour is $24.
+   - Each subsequent hour costs twice the previous hour:
+     - First paid hour: $24
+     - Second paid hour: \( 2 \times 24 = 48 \)
+     - Third paid hour: \( 2 \times 48 = 96 \)
+     - Fourth paid hour: \( 2 \times 96 = 192 \)
+     - Fifth paid hour: \( 2 \times 192 = 384 \)
+
+4. **Calculate Total Cost:**
+   - Add up the costs of all paid hours: 
+     \[
+     24 + 48 + 96 + 192 + 384 = 744
+     \]
+
+5. **Final Answer:**
+   - The total amount Andre paid is $744.
+
+Answer: 744",744
+92,"At Ibrahim's house, there are six times as many bananas as persimmons. He has a total of 87 persimmons in his house. Ibrahim bought 76 more persimmons at the store and 18 fewer bananas than the number of persimmons. Find the combined total of the number of bananas and persimmons Ibrahim has in the house?","Before buying any banana and persimmon, Ibrahim had 6 times as many bananas as persimmons, which is 87 persimmons * 6 banana/persimmon = 522 bananas
+The total number of bananas and persimmons that Ibrahim had before is 522 bananas + 87 persimmons = 609 items
+When he bought 18 fewer bananas than persimmons, he bought 76 bananas - 18 bananas = 58 bananas
+In total, he bought 58 bananas + 76 persimmons = 134 items
+After the purchases, Ibrahim has 609 items + 134 items = 743 total bananas and persimmons combined.
+#### 743","To solve the problem, let's break it down step-by-step using a chain of thought approach:
+
+1. Start by determining the number of persimmons at Ibrahim's house.
+   - According to the problem, Ibrahim initially has 87 persimmons.
+   
+2. Calculate the number of bananas at Ibrahim's house based on the initial number of persimmons.
+   - The number of bananas is six times the number of persimmons.
+   - Thus, the number of bananas = 6 * 87 = 522 bananas.
+
+3. Figure out how the quantities change after Ibrahim goes to the store.
+   - At the store, Ibrahim buys 76 more persimmons.
+   - New total of persimmons = 87 (initial) + 76 (bought) = 163 persimmons.
+
+4. Calculate how many bananas we have after considering the change at the store.
+   - Ibrahim buys 18 fewer bananas than the total number of persimmons he has.
+   - So, the additional bananas bought = 163 (current persimmons count) - 18 = 145 bananas.
+   - The new total number of bananas = 522 (initial) + 145 (bought) = 667 bananas.
+
+5. Now, calculate the combined total number of bananas and persimmons.
+   - Total persimmons = 163.
+   - Total bananas = 667.
+   - Combined total = 163 + 667 = 830.
+
+6. Therefore, the combined total of the number of bananas and persimmons Ibrahim has in the house is:
+
+Answer: 830",830
+93,"At Ravi's house, there are two times as many apples as figs. He has a total of 90 figs in his house. Ravi bought 66 more figs at the store and 45 fewer apples than the number of figs. Find the combined total of the number of apples and figs Ravi has in the house?","Before buying any apple and fig, Ravi had 2 times as many apples as figs, which is 90 figs * 2 apple/fig = 180 apples
+The total number of apples and figs that Ravi had before is 180 apples + 90 figs = 270 items
+When he bought 45 fewer apples than figs, he bought 66 apples - 45 apples = 21 apples
+In total, he bought 21 apples + 66 figs = 87 items
+After the purchases, Ravi has 270 items + 87 items = 357 total apples and figs combined.
+#### 357","To find the combined total of apples and figs that Ravi has in the house, we will break down the problem step by step in the Chain of Thought method:
+
+1. **Initial Count of Figs**: Ravi initially has 90 figs in his house.
+
+2. **Apples in Relation to Initial Figs**: According to the problem, Ravi has two times as many apples as figs, initially.  
+   Therefore, number of initial apples = 2 * 90 = 180.
+
+3. **Figs After Purchase**: Ravi buys 66 more figs at the store.  
+   So, total figs after purchase = 90 + 66 = 156.
+
+4. **Apples After Considering Fewer Purchase**: Ravi bought 45 fewer apples than the number of figs after purchase.  
+   Therefore, apples after purchase = 156 - 45 = 111.
+
+5. **Combined Total**: To find the total number of apples and figs Ravi has now, add the numbers from steps 3 and 4:  
+   Total apples and figs = 156 (figs) + 111 (apples) = 267.
+
+Final result:
+Answer: 267",267
+94,The vending machines sell cookies for 25 cents and crackers for 75 cents. Alejandro spent ₣700 and got 7 bags of cookies and had 9% of his money left in change. How many crackers did he buy?,"Alejandro got ₣63.0 in change because 700 x 9/100 = 63
+Alejandro spent ₣637 because 700 - 63 = 637
+Alejandro spent ₣1.75 on cookies because 7 x 0.25 = 1.75
+Alejandro spent 635.25 on crackers because 637.0 - 1.75 = 635.25
+Alejandro bought 847 crackers because 635.25 / 0.75 = 847
+#### 847","To solve this problem, we'll follow a step-by-step approach:
+
+1. **Identify what Alejandro spent:**  
+   We know Alejandro spent 91% of his money to buy cookies and crackers, as he was left with 9% of his initial amount. Therefore, he spent 700 × 0.91 = ₣637 on cookies and crackers.
+
+2. **Calculate the total cost of cookies:**  
+   Since Alejandro bought 7 bags of cookies and each bag costs 25 cents (₣), the total cost of cookies is:  
+   \(7 \, \text{cookies} \times 25 = 175 \, \text{cents (₣)}\).
+
+3. **Determine how much was spent on crackers:**  
+   Subtract the cost of cookies from the total amount spent:  
+   \(637 \, \text{cents} - 175 \, \text{cents} = 462 \, \text{cents}\).  
+   This is the amount Alejandro spent on crackers.
+
+4. **Calculate the number of crackers bought:**  
+   Each cracker costs 75 cents. Therefore, the number of crackers can be found by dividing the total cost of crackers by the cost per cracker:  
+   \(462 \, \text{cents} ÷ 75 \, \text{cents/cracker} = 6.16\).
+
+5. **Rounding to a feasible integer:**  
+   Since Alejandro cannot buy a fraction of a cracker in this context, he must have purchased 6 crackers (as 6.16 rounds down to 6).
+
+**Answer:** 6",6
+95,There are 8 periods in the day for a normal student but Qasim has to take 4 extra classes. Each class is 60 minutes long. He goes to class for 4 days a week. He then spends four-sixths of his weekly minutes each on Saturday and Sunday as extra learning time. How many hours a week does he spend learning?,"He takes 8+4=12 classes a day
+That means he spends 60*12=720 minutes per day in class
+So he spends 720*4=2880 minutes a week
+That means he spends 2880*2/3=1920 minutes each on Saturday and Sunday.
+So he spends 2880+1920+1920=6720 minutes per week
+So he spends 6720/60=112 hours per week
+#### 112","To solve this problem, let's follow the steps and use the ""Chain of Thought"" method:
+
+1. **Determine the total number of classes Qasim attends in a day:**
+   - A normal student has 8 periods in a day.
+   - Qasim has to take 4 extra classes, so he has \(8 + 4 = 12\) classes in a day.
+
+2. **Calculate the total minutes Qasim spends in classes each day:**
+   - Each class is 60 minutes long.
+   - Therefore, the total minutes spent in classes each day is \(12 \times 60 = 720\) minutes.
+
+3. **Calculate the total minutes spent in classes over a week:**
+   - Qasim attends classes 4 days a week.
+   - Thus, the total minutes spent in classes over the week is \(720 \times 4 = 2880\) minutes.
+
+4. **Calculate the weekly extra learning time on the weekend:**
+   - Qasim spends four-sixths (which simplifies to \(\frac{2}{3}\)) of his weekly class minutes on Saturday and Sunday.
+   - The total extra learning minutes per week is \(\frac{2}{3} \times 2880 = 1920\) minutes.
+
+5. **Determine the total learning minutes per week:**
+   - Total learning minutes is the sum of regular class minutes and extra learning minutes.
+   - This gives us \(2880 + 1920 = 4800\) minutes.
+
+6. **Convert the total learning minutes into hours:**
+   - Since there are 60 minutes in an hour, the total hours spent learning per week is \(\frac{4800}{60} = 80\) hours.
+
+Thus, the number of hours Qasim spends learning per week is:
+
+Answer: 80 hours.",80
+96,"Kimia buys 18 shares of a stock for ¥56 each. The stock price increases 50% the first year Kimia holds it, then decreases 25% in the second year. What is the final value of all Kimia's shares?","First find the initial total value of Kimia's purchase: 18 shares * ¥56/share = ¥1008
+Then find the amount of the first price increase: ¥1008 * 0.5 = ¥504
+Add that amount to the initial value to find the value after the first year: ¥1008 + ¥504.0 = ¥1512
+Then multiply that amount by 25% to find the amount of the decrease in the second year: ¥1512.0 * 25% = ¥378
+Then subtract that amount from the value after the first year to find the final value: ¥1512 - ¥378 = ¥1134
+#### 1134","To find the final value of all Kimia's shares, we will evaluate each step as follows:
+
+1. **Initial Investment Calculation:**
+   - Kimia buys 18 shares at ¥56 each.
+   - Initial investment = 18 shares × ¥56/share = ¥1008.
+
+2. **Stock Price After First Year:**
+   - The stock price increases by 50% in the first year.
+   - New price per share = Original price × (1 + 0.50) = ¥56 × 1.50 = ¥84 per share.
+
+3. **Stock Price After Second Year:**
+   - The stock price decreases by 25% in the second year.
+   - New price per share = Price after first year × (1 - 0.25) = ¥84 × 0.75 = ¥63 per share.
+
+4. **Final Value Calculation:**
+   - Final value of all shares = New price per share × Total number of shares 
+   - Final value = ¥63/share × 18 shares = ¥1134.
+
+Answer:
+\(1134 \)",1
+97,Diego receives 160 emails a day. 5% of those emails don't require any response. Diego responds to the rest of them. How many emails does Diego respond to in a 5 day work week?,"Diego receives 8.0=8 emails that don't require a response
+So Diego responds to 160-8=152 emails per day
+In a 5 day work week, Diego responds to 152*5= 760 emails
+#### 760","To solve the problem, we need to determine how many emails Diego responds to each day and then calculate the total number of emails responded to over a 5-day work week.
+
+Step 1: Determine the percentage of emails that require a response.
+- Diego receives 160 emails a day.
+- 5% of these emails do not require a response.
+
+Step 2: Calculate the percentage of emails that do require a response.
+- Since 5% do not require a response, 100% - 5% = 95% of the emails require a response.
+
+Step 3: Calculate the number of emails that require a response each day.
+- Multiply the total number of emails (160) by the percentage that require a response (95% or 0.95).
+- \( 160 \times 0.95 = 152 \).
+
+Step 4: Calculate the total number of emails Diego responds to in a 5-day work week.
+- Multiply the number of emails Diego responds to in one day (152) by 5.
+- \( 152 \times 5 = 760 \).
+
+Answer:
+760",5
+98,Ravi is rolling a ten-sided die. How much more likely is it (expressed as a percentage) that he rolls a number greater than 5 than that he rolls two odd numbers in a row?,"There are 5 numbers greater than 5 on the dice, so the chances of rolling one of them are 5 / 10 = 50%.
+The chance of rolling one odd number is 50%, so the chance of rolling two in a row is 50% * 50% = 25%.
+The difference between these two probabilities is 50% - 25% = 25%.
+#### 25","To solve this problem, we need to calculate the likelihood of each event separately and then compare them. Let's break it down step-by-step:
+
+1. **Understanding the die**: A ten-sided die has faces numbered from 1 to 10.
+
+2. **Event 1: Rolling a number greater than 5**  
+   - The numbers greater than 5 on a ten-sided die are: 6, 7, 8, 9, and 10.
+   - There are 5 numbers greater than 5.
+   - Probability of rolling a number greater than 5 = Number of favorable outcomes / Total possible outcomes = 5/10 = 1/2.
+
+3. **Event 2: Rolling two odd numbers in a row**  
+   - The odd numbers on a ten-sided die are: 1, 3, 5, 7, and 9.
+   - There are 5 odd numbers.
+   - Probability of rolling an odd number on the first roll = 5/10 = 1/2.
+   - Probability of rolling an odd number on the second roll = 5/10 = 1/2 (since the rolls are independent).
+   - Probability of rolling two odd numbers in a row = (1/2) * (1/2) = 1/4.
+
+4. **Comparing the probabilities**  
+   - Probability of rolling a number greater than 5 = 1/2.
+   - Probability of rolling two odd numbers in a row = 1/4.
+   - The probability of rolling a number greater than 5 is compared with rolling two odd numbers. We can express this comparison as a ratio:
+     - (1/2) : (1/4) = 2 : 1.
+
+5. **Expressing the difference as a percentage**  
+   - The probability of rolling a number greater than 5 is 2 times more likely than the probability of rolling two odd numbers in a row.
+   - This means it is 100% more likely because 2 times the probability is like adding 100% more on top of the initial probability (1/4).
+
+Therefore, the probability of rolling a number greater than 5 is 100% more likely than rolling two odd numbers in a row.
+
+Answer: 100%",100
+99,James is rolling a d20 die. How much more likely is it (expressed as a percentage) that he rolls a number greater than 4 than that he rolls two even numbers in a row?,"There are 16 numbers greater than 4 on the dice, so the chances of rolling one of them are 16 / 20 = 80%.
+The chance of rolling one even number is 50%, so the chance of rolling two in a row is 50% * 50% = 25%.
+The difference between these two probabilities is 80% - 25% = 55%.
+#### 55","To solve this problem, we need to calculate two probabilities: the probability of rolling a number greater than 4 on a d20 die, and the probability of rolling two even numbers in a row on the same die. We will then compare these probabilities and express the comparison as a percentage.
+
+### Step-by-step solution:
+
+1. **Calculate the probability of rolling a number greater than 4 on a d20 die:**
+   - A d20 die has sides numbered from 1 to 20.
+   - Numbers greater than 4 are: 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20.
+   - Count of numbers greater than 4 = 20 - 4 = 16.
+   - Probability (P1) = Number of favorable outcomes / Total outcomes = 16/20 = 0.8.
+
+2. **Calculate the probability of rolling an even number on a d20 die:**
+   - Even numbers on the d20 die are: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20.
+   - There are 10 even numbers out of 20.
+   - Probability of rolling one even number = 10/20 = 0.5.
+
+3. **Calculate the probability of rolling two even numbers in a row:**
+   - Since each roll is independent, multiply the probability of rolling an even number on the first roll by the probability of rolling an even number on the second roll.
+   - Probability (P2) = 0.5 * 0.5 = 0.25.
+
+4. **Compare the probability of rolling a number greater than 4 with the probability of rolling two even numbers in a row:**
+   - Find how much more likely it is to roll a number greater than 4 compared to rolling two even numbers in a row.
+   - Difference in probabilities = P1 - P2 = 0.8 - 0.25 = 0.55.
+
+5. **Express the difference in probability as a percentage increase:**
+   - Percentage increase = (Difference / Probability of rolling two even numbers) * 100.
+   - Percentage increase = (0.55 / 0.25) * 100 = 220%.
+
+6. **Final answer:**
+   - Answer: 220%.",220

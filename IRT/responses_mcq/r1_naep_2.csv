@@ -1,0 +1,244 @@
+Column 1,id,question,options,answer,llm_answer,final_ans,correctness
+0,M184601,Which of the following expressions is NOT equivalent to (a + b)(x + y) ?,"A. (a+b)x+(a+b)y
+B. a(x+y)+b(x+y)
+C. (b+a)(y+x)
+D. ax+by
+E. ax+bx+ay+by",D,"Answer: D
+
+Step 1: Expand the original expression \((a + b)(x + y)\) using the distributive property:
+\[
+(a + b)(x + y) = a(x) + a(y) + b(x) + b(y) = ax + ay + bx + by.
+\]
+
+Step 2: Analyze each option:
+- **A**: \((a+b)x + (a+b)y = ax + bx + ay + by\) (matches original expansion).
+- **B**: \(a(x+y) + b(x+y) = ax + ay + bx + by\) (matches original expansion).
+- **C**: \((b+a)(y+x)\) is equivalent to \((a+b)(x+y)\) due to commutative property (matches original).
+- **D**: \(ax + by\) lacks the terms \(ay\) and \(bx\) (does not match original expansion).
+- **E**: \(ax + bx + ay + by\) rearranges to \(ax + ay + bx + by\) (matches original expansion).
+
+Step 3: Identify the non-equivalent expression. Only **D** omits critical terms from the expanded form. 
+
+Answer: D",D,1
+1,M130101,"Yvonne has studied the cost of tickets over time for her favorite sports team. She has created a model to predict the cost of a ticket in the future. Let C represent the cost of a ticket in dollars and y represent the number of years in the future. Her model is as follows.
+C=2.50y+13
+Based on this model, how much will the cost of a ticket increase in two years?","A. $5
+B. $8
+C. $13
+D. $18
+E. $26",A,"Step 1: Identify the rate of change in the linear model. The equation \( C = 2.50y + 13 \) has a slope of 2.50, which represents the annual increase in ticket cost.  
+Step 2: Determine the total increase over two years by multiplying the annual rate by 2. \( 2.50 \, \text{\$/year} \times 2 \, \text{years} = 5 \, \text{\$} \).  
+Step 3: Verify by calculating the cost at \( y = 0 \) (\( C = 13 \)) and \( y = 2 \) (\( C = 18 \)), then subtract: \( 18 - 13 = 5 \).  
+
+Answer: A",A,1
+2,M190101,"The first four terms in a sequence are shown below.
+40,8,24,16,⋯
+Each term after the first two terms is found by taking one-half the sum of the two preceding terms. Which term is the first odd number in this sequence?","A. The 5th term
+B. The 6th term
+C. The 7th term
+D. The 8th term
+E. The 9th term",C,"Step 1: Verify the sequence rule. Each term after the first two is half the sum of the two preceding terms.  
+Step 2: Calculate Term 5: (24 + 16)/2 = 20 (even).  
+Step 3: Calculate Term 6: (16 + 20)/2 = 18 (even).  
+Step 4: Calculate Term 7: (20 + 18)/2 = 19 (odd).  
+Step 5: Confirm Term 7 is the first odd number. Subsequent terms (e.g., Term 8: 18.5) may be non-integer but irrelevant to the question.  
+
+Answer: C",C,1
+3,M191501,"John is going to cover an attic floor with insulation. The floor measures 25 feet by 35 feet. If one roll of insulation will cover 64 square feet, how many rolls of insulation does John need?","A. 1
+B. 2
+C. 8
+D. 14
+E. 110",D,"Step 1: Calculate the attic floor area.  
+Floor dimensions: 25 feet (length) × 35 feet (width).  
+Area = 25 × 35 = 875 square feet.  
+
+Step 2: Determine the number of insulation rolls needed.  
+One roll covers 64 square feet.  
+Total rolls required = Total area ÷ Coverage per roll = 875 ÷ 64 ≈ 13.671875.  
+
+Step 3: Round up to the nearest whole number since partial rolls aren’t sold.  
+13.671875 rounds up to 14 rolls.  
+
+Answer: D",D,1
+4,M135401,"A cat lies crouched on level ground 50 feet away from the base of a tree. The cat can see a bird's nest directly above the base of the tree. The angle of elevation from the cat to the bird's nest is 40°. To the nearest foot, how far above the base of the tree is the bird's nest?","A. 32
+B. 38
+C. 42
+D. 60
+E. 65",C,"Step 1: Identify the right triangle formed by the cat, the base of the tree, and the bird's nest. The cat is 50 feet from the tree (adjacent side), and the height of the nest is the opposite side relative to the 40° angle.  
+Step 2: Use the tangent function:  
+\[
+\tan(40^\circ) = \frac{\text{height}}{50}
+\]  
+Step 3: Solve for the height:  
+\[
+\text{height} = 50 \times \tan(40^\circ)
+\]  
+Step 4: Calculate \(\tan(40^\circ)\) using a calculator (ensure degree mode):  
+\[
+\tan(40^\circ) \approx 0.8391
+\]  
+Step 5: Multiply to find the height:  
+\[
+50 \times 0.8391 \approx 41.955
+\]  
+Step 6: Round to the nearest foot:  
+\[
+41.955 \approx 42
+\]  
+
+Answer: C",C,1
+5,M180601,(16^(1/2))^3 = ?,"A. 512
+B. 64
+C. 48
+D. 24
+E. 12",B,"Step 1: Simplify the innermost exponent. \(16^{1/2}\) is the square root of 16.  
+Step 2: Calculate \(\sqrt{16} = 4\).  
+Step 3: Raise the result to the power of 3: \(4^3\).  
+Step 4: Compute \(4 \times 4 \times 4 = 64\).  
+Answer: B",B,1
+6,M135301,"The town of Mayville taxes property at a rate of $42 for each $1,000 of estimated value. What is the estimated value of a property on which the owner owes $5,250 in property tax?","A. $42,000
+B. $47,250
+C. $125,000
+D. $220,500
+E. $5,250,000",C,"Step 1: Identify the tax rate and owed amount. The rate is $42 per $1,000 of value, and the tax owed is $5,250.  
+Step 2: Set up the equation: Tax = (Estimated Value / 1,000) × 42.  
+Step 3: Substitute the known tax amount: $5,250 = (V / 1,000) × 42.  
+Step 4: Solve for V by multiplying both sides by 1,000: $5,250 × 1,000 = 42V → 5,250,000 = 42V.  
+Step 5: Divide both sides by 42: V = 5,250,000 / 42 = 125,000.  
+Step 6: Verify by calculating tax for $125,000: (125,000 / 1,000) × 42 = 5,250, which matches the given tax.  
+
+Answer: C",C,1
+7,M094901,The cost to mail a first-class letter is 33 cents for the first ounce. Each additional ounce costs 22 cents. (Fractions of an ounce are rounded up to the next whole ounce.) How much would it cost to mail a letter that weighs 2.7 ounces?,"{'A': '55 cents', 'B': '66 cents', 'C': '77 cents', 'D': '88 cents', 'E': '99 cents'}",C,"Step 1: Determine the rounded weight. The letter weighs 2.7 ounces, and fractions are rounded up.  
+Step 2: Rounding 2.7 ounces up gives 3 ounces.  
+Step 3: Calculate the cost for the first ounce: 33 cents.  
+Step 4: Subtract the first ounce, leaving 2 additional ounces.  
+Step 5: Multiply additional ounces by 22 cents: 2 × 22 = 44 cents.  
+Step 6: Add the initial and additional costs: 33 + 44 = 77 cents.  
+
+Answer: C",C,1
+8,M011331,"If a 2 by 18 rectangle has the same area as a square, what is the length of a side of the square?","{'A': '4', 'B': '6', 'C': '8', 'D': '10', 'E': '12'}",B,"Step 1: Calculate the area of the rectangle.  
+Area = length × width = 2 × 18 = 36.  
+
+Step 2: Set the area of the square equal to the rectangle's area.  
+Square area = side² = 36.  
+
+Step 3: Solve for the side length of the square.  
+side = √36 = 6.  
+
+Answer: B",B,1
+9,M094801,"In a school fund-raiser, 10 students in class A sold an average (arithmetic mean) of 4 boxes of cookies. In class B, 15 students sold an average of 9 boxes. What was the average number of boxes of cookies sold by the 25 students?","{'A': '1325', 'B': '1', 'C': '612', 'D': '7', 'E': '13613'}",D,"Step 1: Calculate total boxes sold by Class A.  
+10 students × 4 boxes/student = 40 boxes.  
+
+Step 2: Calculate total boxes sold by Class B.  
+15 students × 9 boxes/student = 135 boxes.  
+
+Step 3: Find combined total boxes sold.  
+40 boxes + 135 boxes = 175 boxes.  
+
+Step 4: Determine total number of students.  
+10 students + 15 students = 25 students.  
+
+Step 5: Compute the average boxes per student.  
+175 boxes ÷ 25 students = 7 boxes/student.  
+
+Answer: D",D,1
+10,M071601,"Easy Ride Van Company finds that about 40 percent of the time a person who makes an advance reservation for transportation does not keep the reservation. Therefore, for each of their 10-passenger vans, the Easy Ride Van Company schedules 13 persons on the basis of advance reservations. Based on the information above, about how many riders out of the 13 scheduled would not keep their reservations?","{'A': '1', 'B': '3', 'C': '5', 'D': '7', 'E': '9'}",C,"Step 1: Identify the no-show rate and the total scheduled riders. The problem states a 40% no-show rate and 13 scheduled riders.  
+Step 2: Calculate 40% of 13. Multiply 13 by 0.4:  
+\[ 13 \times 0.4 = 5 3: 3: 3: Since the answer must be a whole number and the question asks for an approximate value, round 5.2 to the nearest whole number, which is 5.  
+
+Answer: C",C,1
+11,M059001,"If the digit in the tens place of 37,241 is increased by one and the digit in the thousands place is decreased by one, how has the number been changed?","{'A': 'The number has been decreased by 990.', 'B': 'The number has been decreased by 1,000.', 'C': 'The number has been decreased by 1,010.', 'D': 'The number has been increased by 10.', 'E': 'The number has been increased by 1,010.'}",A,,Unknown,0
+12,M053201,"In the solution of the system of equations above, what is the value of x ?","{'A': '- 1', 'B': '2', 'C': '3', 'D': '4', 'E': '5'}",C,Answer: C,C,1
+13,M059601,The remainder when a number n is divided by 7 is 2. Which of the following is the remainder when 2n + 1 is divided by 7?,"{'A': '1', 'B': '2', 'C': '3', 'D': '4', 'E': '5'}",E,"Step 1: Express n in terms of its remainder when divided by 7. Since the remainder is 2, n = 7k + 2 for some integer k.  
+Step 2: Substitute n into the expression 2n + 1. This gives 2(7k + 2) + 1 = 14k + 4 + 1 = 14k + 5.  
+Step 3: Determine the remainder of 14k + 5 when divided by 7. Since 14k is divisible by 7, the remainder depends only on 5.  
+Step 4: Calculate 5 divided by 7, which leaves a remainder of 5.  
+Step 5: Verify with examples (e.g., k = 0, 1, 2) to confirm consistency. All cases yield a remainder of 5.  
+
+Answer: E",E,1
+14,M019401,What are all values of x such that x2+7x+6≥0 ?,"{'A': '-6≤x≤-1', 'B': '-6≤x≤1', 'C': '1≤x≤6', 'D': 'x≤-6 or x≥-1', 'E': 'x≤1 or x≥6'}",D,"Step 1: Factor the quadratic expression \( x^2 + 7x + 6 \).  
+Step 2: Find roots by solving \( (x + 6)(x + 1) = 0 \), yielding \( x = -6 \) and \( x = -1 \).  
+Step 3: Determine intervals: \( x < -6 \), \( -6 < x < -1 \), and \( x > -1 \).  
+Step 4: Test each interval:  
+- For \( x < -6 \), both factors are negative, product is positive (satisfies ≥0).  
+- For \( -6 < x < -1 \), one factor positive and one negative, product is negative (does not satisfy).  
+- For \( x > -1 \), both factors positive, product is positive (satisfies ≥0).  
+Step 5: Include critical points \( x = -6 \) and \( x = -1 \) since equality holds.  
+Step 6: Combine valid intervals: \( x \leq -6 \) or \( x \geq -1 \).  
+
+Answer: D",D,1
+15,M127501,The first term in a sequence of numbers is 12. Each term after the first term is 1 more than twice its previous term. What is the 4th term?,"{'A': '2', 'B': '4', 'C': '5', 'D': '11', 'E': '23'}",D,"Step 1: Identify the first term.  
+The first term (\(a_1\)) is given as 12.  
+
+Step 2: Calculate the second term (\(a_2\)).  
+Using the rule \(a_n = 2a_{n-1} + 1\):  
+\(a_2 = 2 \times 12 + 1 = 25\).  
+
+Step 3: Calculate the third term (\(a_3\)).  
+\(a_3 = 2 \times 25 + 1 = 51\).  
+
+Step 4: Calculate the fourth term (\(a_4\)).  
+\(a_4 = 2 \times 51 + 1 = 103\).  
+
+The calculated fourth term is 103, but this value is not among the provided options (A-E). A discrepancy exists between the problem statement and the answer choices. If the first term were 2 instead of 12, the sequence would yield \(a_4 = 23\) (option E). Assuming a possible typo in the problem, the closest valid answer based on the options is:  
+
+Answer: E",E,1
+16,M133101,"Rosa is twice as old as Byron. Fred is one year older than Byron. If Fred's age is represented by F, which of the following represents the ages of Rosa and Byron, respectively?","{'A': '12(F-1) and F-1', 'B': '12(F+1) and F+1', 'C': '2(F-1) and F-1', 'D': '2(F+1) and F+1', 'E': '2F and F-1'}",C,"Step 1: Fred's age is given as \( F \), and Fred is one year older than Byron.  
+Step 2: Therefore, Byron's age is \( F - 1 \).  
+Step 3: Rosa is twice as old as Byron, so Rosa's age is \( 2 \times (F - 1) \).  
+Step 4: The respective ages of Rosa and Byron are \( 2(F - 1) \) and \( F - 1 \), matching option C.  
+
+Answer: C",C,1
+17,M130001,A particular flu vaccine is effective for 90 percent of the patients who receive it. What is the probability that it will be effective for both of the next two randomly selected patients?,"{'A': '0.54', 'B': '0.63', 'C': '0.72', 'D': '0.81', 'E': '0.90'}",D,"Step 1: Identify the probability of the vaccine being effective for one patient, which is 90% (0.9).  
+Step 2: Since the effectiveness for each patient is independent, multiply the individual probabilities for two patients.  
+Step 3: Calculate \(0.9 \times 0.9 = 0.81\).  
+
+Answer: D",D,1
+18,M127901,"An election involving four candidates for mayor has been held. Of the following, which is the best way to present the percentage of votes each candidate received?","{'A': 'Circle graph', 'B': 'Line graph', 'C': 'Box plot', 'D': 'Scatterplot', 'E': 'Histogram'}",A,"Answer:  
+A  
+
+Step 1: Identify the goal: Display percentages of votes for four candidates, totaling 100%.  
+Step 2: Recall graph types: Circle graphs (pie charts) show parts of a whole.  
+Step 3: Eliminate line graphs (trends over time), box plots (distribution statistics), scatterplots (two-variable relationships), and histograms (single-variable frequency).  
+Step 4: Select circle graph for clear representation of proportional shares.  
+
+Answer: A",A,1
+19,M135301,"The town of Mayville taxes property at a rate of $42 for each $1,000 of estimated value. What is the estimated value of a property on which the owner owes $5,250 in property tax?","{'A': '$42,000', 'B': '$47,250', 'C': '$125,000', 'D': '$220,500', 'E': '$5,250,000'}",C,"Step 1: Determine the tax rate per $1,000 of value, which is $42.  
+Step 2: Let \( V \) be the estimated property value. The tax owed is calculated as \( \frac{V}{1000} \times 42 = 5250 \).  
+Step 3: Multiply both sides by 1000 to isolate \( V \times 42 \):  
+\( V \times 42 = 5,250,000 \).  
+Step 4: Divide both sides by 42 to solve for \( V \):  
+\( V = \frac{5,250,000}{42} = 125,000 \).  
+Step 5: Verify using an alternative method (e.g., tax rate as 4.2%):  
+\( 5250 \div 0.042 = 125,000 \), confirming consistency.  
+
+Answer: C",C,1
+20,M127001,The number of bacteria present in a laboratory sample after t days can be represented by 500(2t). What is the initial number of bacteria present in this sample?,"{'A': '250', 'B': '500', 'C': '750', 'D': '1,000', 'E': '2,000'}",B,"Step 1: Identify the formula provided for bacterial growth: \(500(2t)\).  
+Step 2: Recognize that the initial number of bacteria corresponds to \(t = 0\).  
+Step 3: Substitute \(t = 0\) into the formula. If interpreted as \(500 \times 2t\), the result is \(500 \times 2 \times 0 = 0\), which is invalid given the answer choices.  
+Step 4: Reassess the formula as likely exponential growth \(500 \times 2^t\) (common for bacterial models).  
+Step 5: Substitute \(t = 0\) into \(500 \times 2^0\). Since \(2^0 = 1\), the calculation becomes \(500 \times 1 = 500\).  
+Step 6: Match the result (\(500\)) to the provided answer choices.  
+
+Answer: B",B,1
+21,M135401,"A cat lies crouched on level ground 50 feet away from the base of a tree. The cat can see a bird's nest directly above the base of the tree. The angle of elevation from the cat to the bird's nest is 40°. To the nearest foot, how far above the base of the tree is the bird's nest?","{'A': '32', 'B': '38', 'C': '42', 'D': '60', 'E': '65'}",C,"Step 1: Identify the right triangle formed by the cat, the base of the tree, and the bird's nest. The cat is 50 feet from the tree (adjacent side), and the height of the nest is the opposite side to the 40° angle.  
+Step 2: Use the tangent function: \(\tan(\theta) = \frac{\text{opposite}}{\text{adjacent}}\).  
+Step 3: Rearrange to solve for height: \(h = 50 \times \tan(40^\circ)\).  
+Step 4: Calculate \(\tan(40^\circ)\) ≈ 0.8391.  
+Step 5: Multiply: \(50 \times 0.8391 ≈ 41.955\).  
+Step 6: Round to the nearest foot: 42.  
+
+Answer: C",C,1
+22,M130101,"Yvonne has studied the cost of tickets over time for her favorite sports team. She has created a model to predict the cost of a ticket in the future. Let C represent the cost of a ticket in dollars and y represent the number of years in the future. Her model is as follows.C=2.50y+13Based on this model, how much will the cost of a ticket increase in two years?","{'A': '$5', 'B': '$8', 'C': '$13', 'D': '$18', 'E': '$26'}",A,"Step 1: Identify the rate of increase in the model.  
+The equation \( C = 2.50y + 13 \) has a slope of \( 2.50 \), meaning the cost increases by \$2.50 per year.  
+
+Step 2: Calculate the total increase over two years.  
+Annual increase = \$2.50/year.  
+Total increase in 2 years = \( 2.50 \times 2 = 5 \).  
+
+Step 3: Verify using specific values.  
+- At \( y = 0 \): \( C = 2.50(0) + 13 = \$13 \).  
+- At \( y = 2 \): \( C = 2.50(2) + 13 = \$18 \).  
+Difference = \( 18 - 13 = \$5 \).  
+
+Answer: A",A,1

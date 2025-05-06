@@ -1,0 +1,171 @@
+Column 1,id,question,options,answer,llm_answer,final_ans,correctness
+0,M177201,"Mary created a spreadsheet to keep a record of the taxes she pays during the year. Mary works every week during the year. Portions of Mary’s spreadsheet are shown above. The spreadsheet is set up so that Mary enters the amount of her hourly pay in cell C3 and the tax rate in cell F3. The tax rate is the number of dollars of tax paid for every dollar earned. Mary’s hourly pay and the tax rate do not change during the year. Each week Mary enters the number of hours she worked into the spreadsheet.
+
+What formulas could Mary use in cell C38 to compute the amount of tax she paid on her earnings during the week of August 13 to August 17? (The amount of tax she paid each week is the product of her weekly pay and the tax rate.)","A. C38 equals A38 times B3 times E3
+B. C38 equals A38 times C3 times F3
+C. C38 equals B38 times B3 times E3
+D. C38 equals B38 times C3 times F3
+E. C38 equals C38 times B3 times E3",D,"Here's a breakdown of how to determine the correct formula for cell C38, using a chain of thought approach:
+
+1. **Understand the Problem:** We need to calculate the tax paid for the week of August 13-17. We know the tax paid each week is the product of her weekly pay and the tax rate.
+2. **Identify the Variables:**
+   *  `Hours Worked`: This information is found in column B. For the week of August 13-17, this value is in cell B38 (25 hours).
+   *  `Hourly Pay`: This value is constant and stored in cell C3 ($9.00).
+   *  `Tax Rate`: This value is constant and stored in cell F3 ($0.085).
+3. **Calculate Weekly Pay:** To find the weekly pay, we need to multiply the `Hours Worked` (B38) by the `Hourly Pay` (C3).  This becomes B38 * C3.
+4. **Calculate Tax Paid:**  To find the tax paid, we must multiply the `Weekly Pay` (B38 * C3) by the `Tax Rate` (F3). This becomes (B38 * C3) * F3 or B38 * C3 * F3.
+5. **Match to the Answer Choices:**  Looking at the given answer choices, option D, ""C38 equals B38 times C3 times F3"" matches our derived formula.
+
+Answer: D",D,1
+1,M177202,"Mary created a spreadsheet to keep a record of the taxes she pays during the year. Mary works every week during the year. Portions of Mary’s spreadsheet are shown above. The spreadsheet is set up so that Mary enters the amount of her hourly pay in cell C3 and the tax rate in cell F3. The tax rate is the number of dollars of tax paid for every dollar earned. Mary’s hourly pay and the tax rate do not change during the year. Each week Mary enters the number of hours she worked into the spreadsheet.
+Write or describe a formula Mary can use in cell C59 to give the total amount of taxes paid for the year.",,"C59 =C6 + C7 + ... + C57
+                 OR
+  C59 = SUM (C6:C57)
+                 OR
+C59 = SUM (B6:B57) * C3 * F3  
+                 OR
+Mary should add the values in cells C6 through C57.","Here's how we can determine the formula Mary can use in cell C59 to calculate the total taxes paid for the year, using a chain of thought:
+
+1. **Understand the Problem:** Mary wants the sum of all the taxes paid throughout the year. The tax paid each week is calculated based on hours worked and the tax rate. She has a column (C) that contains the taxes paid for each week.
+
+2. **Identify the Range:** We need to sum the values in column C, starting from the first week's tax paid (C7) and going down to the last week's tax paid (C58).
+
+3. **Formula for Summation:**  The SUM function in spreadsheets adds up a series of numbers. The basic syntax is `SUM(range)`.
+
+4. **Apply to Mary's Spreadsheet:**  To solve Mary's problem, we need to sum from cell C7 to C58.
+
+Answer: `=SUM(C7:C58)`",`=SUM(C7:C58)`,0
+2,M189601,"In the scatterplot, each point represents the adult heights of a sister-brother pair.
+What is the brother’s height that corresponds to the tallest sister’s height?","A. 74 inches
+B. 71 inches
+C. 67 inches
+D. 66 inches
+E. 62 inches",B,"Here's how we can solve this problem using a chain of thought:
+
+1. **Identify the tallest sister's height:**  Looking at the vertical axis (Sister's Height), we see the highest point on the graph corresponds to a sister's height of 74 inches.
+
+2. **Find the corresponding brother's height:** Now, trace horizontally from the point representing the sister's height of 74 inches to the horizontal axis (Brother's Height).
+
+3. **Read the brother's height:** The point where the horizontal line intersects the horizontal axis corresponds to a brother’s height of approximately 68 inches. 
+
+4. **Choose the closest answer choice:** Examining the answer options, we can see that 68 inches is  not an option but 66 is the closest.
+
+Answer: D",D,0
+3,M180201,Prove that A'C' ≅ D'C' and give a reason for each statement in your proof.,,"The proof aims to demonstrate that line segment AC is congruent to line segment DC.
+
+    Starting Information (Givens): The proof begins by stating two pieces of given information:
+        Point C is the midpoint of the line segment BE.
+        Angles B and E are right angles.
+
+    Using the Midpoint Definition: Since C is the midpoint of BE, it divides the segment into two equal parts by definition. Therefore, line segment BC must be congruent to line segment EC.
+    Using the Right Angle Information: Since angles B and E are given as right angles, and all right angles are congruent, it follows that angle B is congruent to angle E.
+    Identifying Vertical Angles: Angles ACB and DCE are formed by the intersection of line segments AE and BD. These are vertical angles, and vertical angles are always congruent. Thus, angle ACB is congruent to angle DCE.
+
+    Proving Triangle Congruence: Now, comparing triangle ACB and triangle DCE, we have established the following congruencies:
+        Angle B ≅ Angle E (Angle)
+        Segment BC ≅ Segment EC (Side)
+        Angle ACB ≅ Angle DCE (Angle)
+
+        The proof uses these findings to declare that triangle ACB is congruent to triangle DCE. The reason cited is the Angle-Side-Angle (ASA) postulate. (Alternatively, since these are right triangles, the Leg-Angle (LA) theorem might be considered, although the established parts fit the Angle-Angle-Side (AAS) pattern: ∠B ≅ ∠E, ∠ACB ≅ ∠DCE, and the non-included side BC ≅ EC).
+
+    Final Conclusion (CPCTC): Since it has been established that triangle ACB is congruent to triangle DCE, all their corresponding parts must be congruent. Line segment AC in the first triangle corresponds to line segment DC in the second triangle. Therefore, by the principle that Corresponding Parts of Congruent Triangles are Congruent (CPCTC), we can conclude that line segment AC is congruent to line segment DC.","Here's a step-by-step proof to show that A'C' ≅ D'C', using the given diagram and information:
+
+1. **Statement:** C is the midpoint of B'E'
+   **Reason:** Given. This is one of the premises provided in the problem.
+
+2. **Statement:** BC' ≅ C'E'
+   **Reason:** Definition of Midpoint. A midpoint divides a segment into two congruent segments.
+
+3. **Statement:** ∠B' is a right angle
+   **Reason:** Given. The problem states that ∠B is a right angle. Given the diagram, it's reasonable to assume that angle B' is the corresponding right angle in the larger triangle.   
+
+4. **Statement:** ∠E' is a right angle
+   **Reason:** Given. The problem states that ∠E is a right angle. Given the diagram, it's reasonable to assume that angle E' is the corresponding right angle in the larger triangle. 
+
+5. **Statement:** ∠B' ≅ ∠E'
+   **Reason:** All right angles are congruent.
+
+6. **Statement:** C' is a common side to triangles ABC' and DEC'.
+   **Reason:** Reflexive Property of Congruence.  A segment shared by two triangles is congruent to itself.
+
+7. **Statement:** ΔB'AC' ≅ ΔE'DC'
+   **Reason:** Side-Angle-Side (SAS) Congruence.  We have BC' ≅ C'E' (Step 2), ∠B' ≅ ∠E' (Step 5), and C'C' ≅ C'C' (Step 6). Two sides and the included angle of one triangle are congruent to two sides and the included angle of the other.
+
+8. **Statement:** A'C' ≅ D'C'
+   **Reason:** Corresponding Parts of Congruent Triangles are Congruent (CPCTC). Since ΔB'AC' ≅ ΔE'DC' (Step 7), their corresponding parts must be congruent. A'C' and D'C' are corresponding parts of these congruent triangles.
+
+Answer:
+
+",,0
+4,M195501,"Quadrilateral ABCD is inscribed in circle O, and is a right angle, as shown above. Segment AB is not parallel to segment DC. Which of the following statements must be true?","A. ∠A≅∠B
+B. ∠B≅∠D
+C. ∠B is a right angle.
+D. AC— is a diameter of circle O.
+E. BD— is a diameter of circle O.",E,"Here's a chain of thought to determine the correct answer:
+
+1. **Understanding Inscribed Quadrilaterals:** A quadrilateral inscribed in a circle has the property that its opposite angles are supplementary (add up to 180 degrees). Therefore, ∠A + ∠C = 180° and ∠B + ∠D = 180°.
+
+2. **Given Information:** We are given that ∠C is a right angle, meaning ∠C = 90°.
+
+3. **Finding ∠A:** Since ∠A + ∠C = 180°, we have ∠A + 90° = 180°, which means ∠A = 90°.
+
+4. **Analyzing Option A:**  ∠A ≅ ∠B would mean ∠B = 90°.  However, we don't have information to support this.
+
+5. **Analyzing Option B:** ∠B ≅ ∠D would mean ∠B = ∠D.  Since ∠B + ∠D = 180°, this means ∠B = ∠D = 90°. But we have no information supporting this.
+
+6. **Analyzing Option C:**  ∠B is a right angle. This is not necessarily true, as we have only deduced that ∠A and ∠C are right angles.
+
+7. **Analyzing Option D:** If AC is a diameter, it would subtend a right angle at any point on the circle. In our case, ∠B would be the angle subtended by the diameter AC, but we don’t have enough information to know if ∠B is a right angle, or if AC is a diameter.
+
+8. **Analyzing Option E:**  Since ∠A = 90°, arc BCD must be a semicircle, meaning BD is a diameter. Alternatively, if BD is a diameter, ∠BAD = 90°. We already know ∠A = 90°, so BD must be a diameter.
+
+9. **Conclusion:**  The most accurate statement is that BD is a diameter of circle O.
+
+Answer: E",E,1
+5,M071501,"The diagram is part of a scale drawing of a house.
+What is the length, in feet, of the side whose dimension is not given in the diagram?","A. 12
+B. 24
+C. 30
+D. 36
+E. 40",D,"Here's a chain of thought to solve this problem:
+
+1. **Identify the shape:** The diagram shows a composite shape that can be broken down into two rectangles if we extend a line vertically downwards from the top to complete the rectangle.
+
+2. **Recognize similar triangles:** The small triangle formed by the 6ft and 12ft sides is similar to the large triangle formed by the unknown length and 24ft side. If we consider the unknown length as 'x', we can establish a proportion between the two triangles.
+
+3. **Set up a proportion:**  The longer leg of the smaller triangle is 12ft, and the shorter leg is 6ft. The longer leg of the larger triangle is 'x', and the shorter leg is 24ft. Therefore, the proportion is 12/6 = x/24 or (12/6) = (x/24).
+
+4. **Solve the proportion:**  Simplify the left side of the equation: 2 = x/24.  Multiply both sides by 24 to isolate 'x':  2 * 24 = x, which means x = 48.
+
+5. **Identify the missing length:** We are looking for the length of the side that is 48ft. From the picture, we can calculate the length from 48ft - 6ft.
+
+6. **Calculate the length:** 48ft - 6ft = 42ft. 
+
+7. **Re-examine:** I realize I made a mistake. The provided diagram already has all the values and is asking us to find the length of the extension of the bottom length, not to complete the overall shape; The total dimension of the shape is 48ft at the bottom, and 6ft is adjacent to 12ft to fill the gap. The unknown length should be 48 - (12+6) = 48 - 18 = 30
+
+8. **Adjust:** Going back to the proportion method: the shape can be looked at as sides 12 and 6 along with the unknown and 24. This means that 12/6 = x/24 (x is the missing length). which 12*24 = 6*x, 288 = 6x, 288/6 = 48. Then 48-6 = 42. Which is incorrect.
+
+9. **Alternative Approach:** We see that the complete length is 48 ft. We are given that a segment length is 6 ft and another segment whose horizontal length is 12 ft. Therefore, we need to figure out the hidden length and add it to 6. From the dimensions, the top length is 48 ft and the height is 24 ft, with 30 ft as the vertical side. We can examine the ratio between 24/30. Then 6/x = 24/30. 24x = 180, and x=180/24 = 7.5. This is incorrect.
+
+10. **Checking the sides:** The length opposite the 24 ft side is 30 ft. The length of the side to the right of 6 ft should therefore be 48 - 12 - 6 = 30 ft.
+
+Answer: C",C,0
+6,M191201,"On level ground from a distance of 200 feet, the angle of elevation to the top of a building is 21°, as shown in the figure above. What is the height h of the building, to the nearest foot? ","A. 72
+B. 77
+C. 187
+D. 201
+E. 521",B,"Here's how to solve this problem using a chain of thought:
+
+1. **Identify the trigonometric ratio:** We have a right triangle where we know the angle of elevation (21°) and the adjacent side (200 feet). We want to find the opposite side, which is the height (h) of the building. The trigonometric ratio that relates the opposite and adjacent sides of a right triangle is the tangent (tan).
+
+2. **Set up the equation:**  We can write the equation as: tan(21°) = opposite / adjacent = h / 200
+
+3. **Solve for h:** To find h, we multiply both sides of the equation by 200: h = 200 * tan(21°)
+
+4. **Calculate tan(21°):** Using a calculator, we find that tan(21°) ≈ 0.3839
+
+5. **Calculate h:**  h ≈ 200 * 0.3839 ≈ 76.78
+
+6. **Round to the nearest foot:** Rounding 76.78 to the nearest foot gives us 77.
+
+Answer: B",B,1

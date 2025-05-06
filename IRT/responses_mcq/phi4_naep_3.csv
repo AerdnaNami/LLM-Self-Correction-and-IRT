@@ -1,0 +1,198 @@
+Column 1,id,question,options,answer,llm_answer,final_ans,correctness
+0,M177201,"Mary created a spreadsheet to keep a record of the taxes she pays during the year. Mary works every week during the year. Portions of Mary’s spreadsheet are shown above. The spreadsheet is set up so that Mary enters the amount of her hourly pay in cell C3 and the tax rate in cell F3. The tax rate is the number of dollars of tax paid for every dollar earned. Mary’s hourly pay and the tax rate do not change during the year. Each week Mary enters the number of hours she worked into the spreadsheet.
+
+What formulas could Mary use in cell C38 to compute the amount of tax she paid on her earnings during the week of August 13 to August 17? (The amount of tax she paid each week is the product of her weekly pay and the tax rate.)","A. C38 equals A38 times B3 times E3
+B. C38 equals A38 times C3 times F3
+C. C38 equals B38 times B3 times E3
+D. C38 equals B38 times C3 times F3
+E. C38 equals C38 times B3 times E3",D,"To compute the amount of tax Mary paid on her earnings during the week of August 13 to August 17, we need to follow these steps:
+
+1. Identify the values that need to be multiplied to calculate the tax.
+   - Mary worked a certain number of hours (which goes into the hours worked cell, let's assume it's B38).
+   - Her hourly pay (in cell C3).
+   - The tax rate (in cell F3).
+
+2. The formula must multiply the number of hours worked by the hourly pay to get the total earnings for the week.
+   - B38 = Hours worked during the week.
+   - C3 = Hourly pay.
+
+3. Then, multiply the weekly earnings by the tax rate to find the total tax paid.
+   - F3 = Tax rate.
+
+Considering these steps, the correct formula for C38 would be:
+
+C38 = B38 * C3 * F3 (which multiplies the hours worked, hourly pay, and tax rate).
+
+So the correct answer will be:
+
+Answer:
+B. C38 equals B38 times C3 times F3",B. C38 equals B38 times C3 times F3,0
+1,M177202,"Mary created a spreadsheet to keep a record of the taxes she pays during the year. Mary works every week during the year. Portions of Mary’s spreadsheet are shown above. The spreadsheet is set up so that Mary enters the amount of her hourly pay in cell C3 and the tax rate in cell F3. The tax rate is the number of dollars of tax paid for every dollar earned. Mary’s hourly pay and the tax rate do not change during the year. Each week Mary enters the number of hours she worked into the spreadsheet.
+Write or describe a formula Mary can use in cell C59 to give the total amount of taxes paid for the year.",,"C59 =C6 + C7 + ... + C57
+                 OR
+  C59 = SUM (C6:C57)
+                 OR
+C59 = SUM (B6:B57) * C3 * F3  
+                 OR
+Mary should add the values in cells C6 through C57.","To calculate the total amount of taxes paid for the year, Mary needs to determine her total earnings first and then apply the tax rate to this sum. Here's how she can do that using a formula in cell C59:
+
+1. In cell C3, Mary already has her hourly pay rate recorded.
+2. In cell F3, she has her weekly tax rate recorded.
+3. Mary should have recorded the number of hours she worked each week in separate cells within column E, from E3 to E59 (representing each week of the year).
+
+Now, Mary can use the following steps to derive the formula in cell C59:
+
+Step 1: Calculate the total earnings for the year.
+- Total Earnings = (Hourly Pay in C3) × (Total Hours Worked, which is the sum of the hours in E3 to E59)
+- Example formula for the Total Hours Worked (sum of all weeks' hours): =SUM(E3:E59)
+
+Step 2: Calculate the total taxes paid for the year.
+- Total Taxes = (Total Earnings from Step 1) × (Tax Rate in F3)
+- Combine the two steps in one formula: = (C3 * SUM(E3:E59)) * F3
+
+So, the formula Mary should use in cell C59 to give the total amount of taxes paid for the year is:
+Answer:
+C59: =(C3 * SUM(E3:E59)) * F3",C59: =(C3 * SUM(E3:E59)) * F3,0
+2,M189601,"In the scatterplot, each point represents the adult heights of a sister-brother pair.
+What is the brother’s height that corresponds to the tallest sister’s height?","A. 74 inches
+B. 71 inches
+C. 67 inches
+D. 66 inches
+E. 62 inches",B,"To determine the brother’s height corresponding to the tallest sister’s height, we need to follow several steps:
+
+1. Identify the tallest sister's height from the given Y-axis on the scatterplot. The Y-axis range goes up to 74 inches.
+2. Locate the point in the scatterplot that corresponds to this maximum Y value (sister's height).
+3. Examine the X-coordinate (sister's height) of this point to understand its height.
+4. Find the corresponding X-coordinate (brother's height) for the point on the scatterplot that represents this tallest sister's height.
+
+From the scatterplot, let's outline the steps for the tallest Y value:
+
+- The tallest sister's height given on the scatterplot is 74 inches. So we look for the point (74, some X value).
+- Upon inspecting the scatterplot, find the point where Y = 74.
+
+It requires viewing the scatterplot, but assuming a reasonable scatterplot as described earlier, let's find out the brother's corresponding X value for Y = 74, if this assumption matches the described data.
+
+By simply verifying from the provided description:
+- The highest Y-value given corresponds to a relatively likely point which we presume to be the highest X-value pair.
+
+Answer:
+Answer: A. 74 inches",Answer: A. 74 inches,0
+3,M180201,Prove that A'C' ≅ D'C' and give a reason for each statement in your proof.,,"The proof aims to demonstrate that line segment AC is congruent to line segment DC.
+
+    Starting Information (Givens): The proof begins by stating two pieces of given information:
+        Point C is the midpoint of the line segment BE.
+        Angles B and E are right angles.
+
+    Using the Midpoint Definition: Since C is the midpoint of BE, it divides the segment into two equal parts by definition. Therefore, line segment BC must be congruent to line segment EC.
+    Using the Right Angle Information: Since angles B and E are given as right angles, and all right angles are congruent, it follows that angle B is congruent to angle E.
+    Identifying Vertical Angles: Angles ACB and DCE are formed by the intersection of line segments AE and BD. These are vertical angles, and vertical angles are always congruent. Thus, angle ACB is congruent to angle DCE.
+
+    Proving Triangle Congruence: Now, comparing triangle ACB and triangle DCE, we have established the following congruencies:
+        Angle B ≅ Angle E (Angle)
+        Segment BC ≅ Segment EC (Side)
+        Angle ACB ≅ Angle DCE (Angle)
+
+        The proof uses these findings to declare that triangle ACB is congruent to triangle DCE. The reason cited is the Angle-Side-Angle (ASA) postulate. (Alternatively, since these are right triangles, the Leg-Angle (LA) theorem might be considered, although the established parts fit the Angle-Angle-Side (AAS) pattern: ∠B ≅ ∠E, ∠ACB ≅ ∠DCE, and the non-included side BC ≅ EC).
+
+    Final Conclusion (CPCTC): Since it has been established that triangle ACB is congruent to triangle DCE, all their corresponding parts must be congruent. Line segment AC in the first triangle corresponds to line segment DC in the second triangle. Therefore, by the principle that Corresponding Parts of Congruent Triangles are Congruent (CPCTC), we can conclude that line segment AC is congruent to line segment DC.","Step 1: Identify and understand the problem.
+We need to prove that \( \overline{A'C' \cong D'C'} \).
+
+Step 2: Break down the given information.
+- \( C \) is the midpoint of \( \overline{BE} \).
+- \( \angle B \) and \( \angle E \) are right angles.
+- Since \( \angle B \) and \( \angle E \) are right angles, \( \triangle ABE \) and \( \triangle CDE \) are right triangles.
+- \( C \) is the midpoint, meaning \( BC = CE \).
+
+Step 3: Restate the goal in terms of congruence.
+- We need to show that the segments \( \overline{A'C'} \) and \( \overline{D'C'} \) are congruent.
+
+Step 4: Apply congruence criteria.
+- Consider \( \triangle ABC \) and \( \triangle DCE \).
+- By the definition of midpoint \( C \), \( BC = CE \).
+- Both \( \angle B \) and \( \angle E \) are right angles, so \( \angle ABC = \angle CDE = 90^\circ \).
+- \( A \) and \( D \) are shared by the corresponding triangles.
+- Therefore, \( \triangle ABC \cong \triangle DCE \) by the hypotenuse-leg (HL) theorem for right triangles.
+
+Step 5: Analyze the corresponding parts.
+- As \( \triangle ABC \cong \triangle DCE \), corresponding parts of congruent triangles are congruent (CPCTC).
+- Consequently, \( \overline{A'C'} \equiv \overline{D'C'} \).
+
+Answer:
+Answer: \( A'C' \cong D'C' \). The reason is that \( \triangle ABC \cong \triangle DCE \) by the HL congruence criterion (right angle, hypotenuse, and one leg are congruent), so by CPCTC, \( A'C' \equiv D'C' \).","Answer: \( A'C' \cong D'C' \). The reason is that \( \triangle ABC \cong \triangle DCE \) by the HL congruence criterion (right angle, hypotenuse, and one leg are congruent), so by CPCTC, \( A'C' \equiv D'C' \).",0
+4,M195501,"Quadrilateral ABCD is inscribed in circle O, and is a right angle, as shown above. Segment AB is not parallel to segment DC. Which of the following statements must be true?","A. ∠A≅∠B
+B. ∠B≅∠D
+C. ∠B is a right angle.
+D. AC— is a diameter of circle O.
+E. BD— is a diameter of circle O.",E,"To solve this problem, we need to consider a few key properties of inscribed quadrilaterals and circles. Since quadrilateral ABCD is inscribed in circle O and one of its angles is a right angle, we'll analyze each given option carefully.
+
+1. Quadrilateral ABCD is inscribed in circle O, implying it's a cyclic quadrilateral.
+2. A quadrilateral inscribed in a circle with one of its angles being a right angle means the opposite angle must also be a right angle by the properties of cyclic quadrilaterals. This property can be derived from the fact that the opposite angles of a cyclic quadrilateral sum up to 180 degrees.
+
+Let's analyze each statement step-by-step:
+
+### Option (A): ∠A ≅ ∠B
+- This is incorrect. ∠A and ∠B are adjacent angles in a cyclic quadrilateral. Therefore, they cannot be congruent (equal in measure).
+
+### Option (B): ∠B ≅ ∠D
+- This is correct. Since the quadrilateral ABCD is cyclic and one of its angles, say ∠A, is a right angle (90 degrees), the opposite angle ∠C must also be a right angle (another 90 degrees). Consequently, the remaining pairs of opposite angles, ∠A and ∠D or ∠B and ∠C, must also be equal. Thus, ∠B and ∠D are both 90 degrees, making them congruent.
+
+### Option (C): ∠B is a right angle
+- This is false. ∠B could be any angle, and there's no given information to conclude ∠B is a right angle specifically.
+
+### Option (D): AC is a diameter of circle O
+- This may or may not be true without additional information. Simply knowing ∠A is 90 degrees doesn't necessarily mean AC spans the circle's diameter unless we knew that ∠A's opposite angle ∠C is also 90 degrees (which, according to the observations, it needs to be since it's the only combination with ∠B still being ∠D).
+
+### Option (E): BD is a diameter of circle O
+- This statement also cannot be confirmed just based on the given information. Similar to (D), there is no direct indication that BD needs to be the diameter.
+
+Hence, the most certain statement from the given options is:
+Answer:
+B. ∠B ≅ ∠D",B. ∠B ≅ ∠D,0
+5,M071501,"The diagram is part of a scale drawing of a house.
+What is the length, in feet, of the side whose dimension is not given in the diagram?","A. 12
+B. 24
+C. 30
+D. 36
+E. 40",D,"Let's analyze the given dimensions step-by-step.
+
+1. The diagram describes a rectangular house layout with a total length of 48 feet.
+2. The dimensions are split into parts: one part is 12 feet, another is 6 feet, and the remaining dimensions include 24 feet and 30 feet.
+
+We need to find the missing length.
+
+1. We know the entire perimeter must be 48 feet.
+2. Identify the segments provided: 48 ft, 12 ft, 6 ft, 24 ft, and 30 ft.
+3. Since a rectangular layout must have two equal side lengths, let's see how these parts fit together:
+
+   - A common pattern will be fitting parts to form the whole.
+   - Let's break it down:
+     - If we use one 24-feet side: we have 48 - 24 = 24 feet remaining for other sides.
+     - Now, we have two sides left: 12 feet and 6 feet plus 30 feet.
+     - Combining 12 + 6 + 30: 12 + 6 = 18, then 18 + 30 = 48.
+
+Thus, if we use one side of 24 feet, we utilize all given parts appropriately considering the rectangular format.
+
+Therefore, the missing dimension whose length wasn't initially given in the diagram is:
+
+Answer: 36 ft.",36 ft.,1
+6,M191201,"On level ground from a distance of 200 feet, the angle of elevation to the top of a building is 21°, as shown in the figure above. What is the height h of the building, to the nearest foot? ","A. 72
+B. 77
+C. 187
+D. 201
+E. 521",B,"To find the height of the building, we can use the tangent function from trigonometry. The tangent of an angle in a right triangle is equal to the opposite side (height of the building, \( h \)) over the adjacent side (distance from the building, 200 ft).
+
+Here are the steps:
+1. Identify the given angle: \(\theta = 21^\circ\)
+2. Identify the adjacent side: \( \text{adjacent side} = 200 \text{ ft} \)
+3. Recall the tangent function formula: \( \tan(\theta) = \frac{\text{opposite}}{\text{adjacent}} \)
+4. Plug in the known values: \( \tan(21^\circ) = \frac{h}{200} \)
+5. Solve for \( h \): \( h = 200 \times \tan(21^\circ) \)
+6. Calculate \( \tan(21^\circ) \) using a calculator: \( \tan(21^\circ) \approx 0.38386 \)
+7. Multiply the tangent value by 200: \( h \approx 200 \times 0.38386 \)
+8. Perform the multiplication: \( h \approx 76.772 \)
+
+Rounding to the nearest foot:
+\( h \approx 77 \)
+
+Answer:
+77",77,1
